@@ -1,0 +1,5 @@
+ElectionVenv
+data/
+logs/*
+results/*
+test-.*
