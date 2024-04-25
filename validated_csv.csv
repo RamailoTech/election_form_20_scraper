@@ -1,0 +1,2 @@
+year,type,max_SN,count_record,row,column,null_records,sum(Total),consituency_wise_total_votes,count_of_candidates_excel,count_of_candidates(rayan_csv)
+2018,AE,257.0,10300,515,20,2,1241730.0,1241730.0,11,12
