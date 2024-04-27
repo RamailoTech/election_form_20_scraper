@@ -7,7 +7,7 @@ import logging
 
 # load_env()
 
-log_file_name = "logs/RJ_jsonparse_2023_AE_rotated_log.txt"
+log_file_name = "logs/RJ_jsonparse_2018_AE_rotated_log.txt"
 # Configure logging to a file
 def append_text_to_file(filename, text):
     # Open the file in append mode ('a') and text mode ('t'), hence 'at'
@@ -21,12 +21,12 @@ endpoint = 'https://mlexperts-document-intelligence.cognitiveservices.azure.com/
 document_analysis_client = DocumentAnalysisClient(endpoint=endpoint, credential=AzureKeyCredential(key))
 
 # Define the directory path where PDF files are located
-directory_path = "data/PDFs/Karnataka/KA_2023_AE_Rotated_6"
+directory_path = "data/PDFs/Karnataka/KA_2018_Rotated"
 
 
 
 # Specify the folder path to save JSON files
-output_folder = "results/Parsed_Pdfs/Karnataka/AE_2023_Rotated"
+output_folder = "results/Parsed_Pdfs/Karnataka/Assembly Election 2018"
 
 
 
@@ -47,7 +47,7 @@ for filename in os.listdir(directory_path):
                 result_dict = result.to_dict()
                 
             # Construct the output file path
-            output_filename = f"JSON_karnataka_2023_AC_{os.path.splitext(filename)[0]}.json"
+            output_filename = f"JSON_karnataka_AssemblyElection_2018_{os.path.splitext(filename)[0]}.json"
             output_file_path = os.path.join(output_folder, output_filename)
             
             # Save the results to a JSON file in the output folder
@@ -62,3 +62,41 @@ for filename in os.listdir(directory_path):
         
     else:
         append_text_to_file(f"Skipping {filename}, not a PDF.")
+
+
+
+
+# import pandas as pd
+# from openai import OpenAI
+
+# # Initialize OpenAI client
+# client = OpenAI()
+
+# # Function to process names batch-wise
+# def process_names_in_batches(names, batch_size=5):
+#     for i in range(0, len(names), batch_size):
+#         batch = names[i:i+batch_size]
+#         # Process batch using OpenAI API
+#         response = client.chat.completions.create(
+#             model="gpt-3.5-turbo",
+#             messages=[
+#                 {"role": "system", "content": "You are a language translator. Yor are suppose to translate list of English names into hindi.\n\nTranslate the given names and strictly \nprovide me output in json format.\n\n{'GULAB KAMRO':'hindi name'} "},
+#                 {"role": "user", "content": "['GULAB KAMRO', 'CHAMPADEVI PAWLE', 'SHYAM SINGH MARKAM']"},
+#             ]
+#         )
+#         # Handle response from OpenAI API
+#         # For example, print completion messages
+#         for message in response['choices'][0]['message']['messages']:
+#             print(message['content'])
+
+# # Function to read names from CSV file using pandas
+# def read_names_from_csv(file_path, column_name):
+#     df = pd.read_csv(file_path)
+#     names = df[column_name].tolist()
+#     return names
+
+# # Example usage
+# csv_file_path = 'data.csv'  # Replace 'data.csv' with your CSV file path
+# name_column_name = 'name'   # Replace 'name' with the actual column name containing names
+# names = read_names_from_csv(csv_file_path, name_column_name)
+# process_names_in_batches(names)
