@@ -1,0 +1,332 @@
+PS No & Name,Address,Constituency Number
+1 - Nagziri,"One Room Building, Primary School",115
+2 - Rampura,"Marathi School, Building Room No.1, Southern Side",115
+3 - Kajwade,"Primary School, South-North Building Room No.1, Northern Side",115
+4 - Kajwade,"Primary School, East-West Building Room No.1, Werstern Side",115
+5 - Chinchave (Ga),"Primary School,South-North Southern Building , South Side Room No.1,",115
+6 - Chinchave (Ga),"Primary School, Southern Building , Northern Side Room No.1,",115
+7 - Dongrale,"Primary School, East-West Building , Western Side Room No.1,",115
+8 - Dongrale,"Primary School, East -West Building, Eastern side Room No. 1",115
+9 - Bharade Nagar,"Primary School, North- South Building, Southern side Room No. 1",115
+10 - Ghanegaon,"Z.P.Primary School, North - South Building , Southern Side Room No. 1",115
+11 - Ghanegaon,"Z.P.Primary School, North - South Building , Northern Side Room No. 1",115
+12 - Galane,"Primary School, East - West Building , Western Side Room No. 1",115
+13 - Galane,"Primary School, East - West Building , Western Side Room No. 2",115
+14 - Pohane,"Primary School, Eastern Side, South-North Building , Northern Side Room No. 1",115
+15 - Pohane,"Primary School, Eastern Side, South-North Building , Northern Side Room No. 3",115
+16 - Garegaon,"New Primary School, North-South Building , Southern Side Room No. 1",115
+17 - Virane,"Z.P.Primary School, New Building , East- West Northern Side Room No. 1",115
+18 - Virane,"Z.P.Primary School, North - South Building , Southern, Eastern Side Room No. 1",115
+19 - Lulle,"Primary School, East-West Building , Western Side Room No. 1",115
+20 - Kaulane Ga.,"Primary School, East-West Building , Eastern Side Room No. 2",115
+21 - Vanpat,"Primary School, East-West Building , Western Side Room No. 1",115
+22 - Tinghari,"Primary School, East-West Building , Eastern Side Room No. 1",115
+23 - Garbad,"Grampanchayat Office, Eastern South-North Building Southern Side Room No. 1 (Anganwadi)",115
+24 - Valwadi,"Z.P Primary School, East Side , Room No. 1",115
+25 - Valwade,"Primary School, New Building, Northern, Western Side, Room No.1",115
+26 - Valwade,"New Primary School Northern Building , Western Side Room No. 2",115
+27 - Kothare (Bu.),"Z.P. Primary School, Eastern Room No. 1",115
+28 - Kothare (Bu.),"Z.P. Primary School, East- West Building Western Room No. 1",115
+29 - Nimshewadi,"Z.P. Primary School, Northern New Building Western Room No. 1",115
+30 - Dahidi,"Primary School, East- West Building Eastern Room No. 1",115
+31 - Dahidi,"Primary School, East- West Building Eastern Room No. 4",115
+32 - Rajmane,"Primary School, East -West Building, Eastern side Room No. 1",115
+33 - Rajmane,"Primary School, East -West Building, Western side Room No. 3",115
+34 - Lakhani,"Primary School, Northern Room No-1",115
+35 - Kandhane,"Primary School, North-South Building, Southern Room No. 1",115
+36 - Kandhane,"Primary School, North-South Building, Southern Room No. 2",115
+37 - Astane,"M.B.Patil High School, South-North Bulding,Southern Side Room No-3",115
+38 - Astane,"M.B.Patil High School, South-North Bulding,Southern Side Room No-6",115
+39 - Kankarale,"Z.P. Primary School, East- West Building Western Room No. 1",115
+40 - Kankarale,"Z.P. Primary School, East- West Building Western Room No. 2",115
+41 - Morthar,Z.P. Primary School (Uppar Tipe) One Room Building North Side,115
+42 - Khakurdi,"Z.P.Priamry School, East- West Building - 1, Eastern Side Room No. 1",115
+43 - Khakurdi,"Z.P.Priamry School, East- West Building - 1, Eastern Side Room No. 3",115
+44 - Khakurdi,"Z.P.Priamry School, North-South Building - 2, Northern Side Room No. 2",115
+45 - Vadner,"Z.P. Central School, North-South Building, Room No. 1, Eastern Side",115
+46 - Vadner,"Z.P. Central School, East-West Building-2, Room No. 1, Southern Side",115
+47 - Savatawadi,"Z.P. Primary School, South-North Building, Eastern Side, Room No.2",115
+48 - Savatawadi,"Primary School, South-North Building, Eastern Side, Room No.1",115
+49 - Vadel,"Primary School, North-South Building, Southern Side, Room No.1",115
+50 - Vadel,"Primary School, New East-West Bulding Western Side, Room No.2",115
+51 - Vadel,"New Primary School,New East-West Bulding Eastern Side, Room No.1",115
+52 - Vadel,"New Primary School, South-North Eastern Facing Bulding Southern Side, Room No.2",115
+53 - Vadel,"New Primary School, South-North Eastern Facing Bulding Southern Side, Room No.3",115
+54 - Vadel,"New Primary School, South-North Eastern Facing Bulding Southern Side, Room No.4",115
+55 - Vadel,"New Primary (Urdu) School, South-North Western Facing Bulding Southern Side, Room No.1",115
+56 - Kukane,"Z.P. Primary School, New Building, Northern Side Room No.1",115
+57 - Kukane,"Z.P. Primary School, New Building, Northern Side Room No.2",115
+58 - Karanjgavhan,"Primary School, North-South Building, Northern Side Room No.1",115
+59 - Karanjgavhan,"Primary School, North-South Building, Northern Side Room No.2",115
+60 - Karanjgavhan,"Primary School, North-South Building, Northern Side Room No.3",115
+61 - Karanjgavhan,"Primary School, East-West Building, Southern Side Room No.2",115
+62 - Hatane,"Z.P. Primary School, Southern Room No.1",115
+63 - Hatane,"Z.P. Primary School, Northern Room No.1",115
+64 - Tokade,"Primary School, North - South Building, Northern Side Room No. 1",115
+65 - Tokade,"Primary School, North - South Building, Northern Side Room No. 2",115
+66 - Zodage,Z.P. Primary School Zodge (Boys) East - West Building Room No.1 From West Side.,115
+67 - Zodage,Z.P. Primary School Zodge (Boys) East - West Building Room No.3 From West Side.,115
+68 - Zodage,"Janata Vidyalaya, North South Building, From South, Facing Towards East, Room No. 4",115
+69 - Zodage,Z.P. Primary School Zodge (Boys) East - West Building Room No.5 From West Side.,115
+70 - Zodage,"Janata Vidyalaya, North - South Building, Southern Side Room No. 3",115
+71 - Zodaga,"Janata Vidyalaya, North - South Building, Southern Side Room No. 6",115
+72 - Gugulwad,"Primary School, East- West Building , Eastern Side, Room No.2",115
+73 - Palasdare,"Primary School, East-West Building, Eastern Side Room No.1",115
+74 - Palasdare,"Primary School, East-West Building, Eastern Side Room No.2",115
+75 - Jalaku,"Z.P. Primary School East-West Building, Eastern Side Room No. 1",115
+76 - Khadaki,"Primary School, North-South Building-1, Room No.1",115
+77 - Khadaki,"Primary School, North-South Building-1, Room No.2",115
+78 - Lendane,"Primary School, South-North Building, Southern Side Room No. 1",115
+79 - Lendane,"Primary School, South-North Building, Southern Side Room No. 2",115
+80 - Dabali,"Z.P.Primary School, Room No.1",115
+81 - Dabali,"Z.P.Primary School, Room No.2",115
+82 - Ajang,"Primary School, East - West Building-1, Room No. 1",115
+83 - Ajang,"Primary School, East - West Building-1, Room No. 2",115
+84 - Ajang,"Primary School, North-South Building, Room No. 1",115
+85 - Ajang,"Primary School, North- South Building, Room No. 5",115
+86 - Ajang,"Maharashtra State Farming Corp.Mullanchi School, C Section, North-South Building, Room No.2",115
+87 - Satmane,Z.P. Primary School West Side Room No. 2,115
+88 - Ravalgaon,Z.P. Primary School North South Building North Side Room No.1,115
+89 - Ravalgaon,Z P Primary School East West Building East Side Room No. 1,115
+90 - Ravalgaon,Samaj Shri. Dr. Prashant Dada Hire College and Junior College Rawalgaon North South Building East to North Room No.1,115
+91 - Ravalgaon,Samaj Shri. Dr. Prashant Dada Hire College and Junior College Rawalgaon North South Building From West to North Room No.1,115
+92 - Ravalgaon,Samaj Shri. Dr. Prashant Dada Hire College and Junior College Rawalgaon North South Building East to North Room No.2,115
+93 - Ravalgaon,"Primary School, Agri. Corp., B section, South - North Building, Sothern Room No. 2",115
+94 - Ravalgaon,Sau.Smitatai Hire Vidyalay Rawalgaon South North Building Room No.1 From West Side,115
+95 - Dhunde,"Priamry School, North- South building, Southern Room No.2",115
+96 - Talwade,"Jeevan Shikshan Vidya mandir, East- West Building, Southern Room No.1",115
+97 - Talwade,"Jeevan Shikshan Vidya mandir, East- West Building, Western Room No.4",115
+98 - Talwade,"Jeevan Shikshan Vidya mandir, East- West Building, Western Room No.6",115
+99 - Talwade,"Jeevan Shikshan Vidya mandir, South- North Building, Southern Room No.2",115
+100 - Talwade,"Z.P. Urdu School, South - North One Room Building",115
+101 - Jalgaon (Ga),"Z.P. Primary School, South-North Old Building, Northern Side, Room No.1",115
+102 - Jalgaon (Ga),"Z.P. Primary School, South-North Old Building, Northern Side, Room No.3",115
+103 - Jalgaon (Ga),"Primary School, Agri. Corp., A- Section, East-West Building, Eastern Side, Room No.2",115
+104 - Pimpalgoan,"Primary School, East- West Building Eastern Side Room No.1",115
+105 - Pimpalgaon,"Primary School, East- West Building Eastern Side Room No.3",115
+106 - Pimpalgaon,"Primary School, East- West Building Eastern Side Room No.5",115
+107 - Pimpalgaon,"Primary School, South- North Building Southern Side Room No. 4",115
+108 - Kashti,"Primary School, North- South Building, Room No. 1",115
+109 - Kashti,"Primary School, North- South Building, Room No. 2",115
+110 - Vajirkhede,"Primary School, Northern Side East-West Building, Western Room No.2",115
+111 - Vajirkhede,"Primary School, Northern Side East-West Building, Western Room No.1",115
+112 - Vajirkhede,"Primary School, East-West Building, Eastern Side, Room No.1",115
+113 - Dasane,"Primary School, East West Building, Western Side, Room No. 2",115
+114 - Dasane,"Primary School, East West Building, Western Side, Room No. 3",115
+115 - Manake,"Z.P. Primary School, Room No.1, Manake",115
+116 - Dewarpade,"Primary School, East-west Building, Eastern Side, Room No.2",115
+117 - Dewarpade,"Primary School, East-west Building, Eastern Side, Room No.1",115
+118 - Bhilkot,"Primary School, East-west Building, Eastern Room No. 1",115
+119 - Bhilkot,"Primary School, East-west Building, Eastern Room No. 2",115
+120 - Sajwahal,"Primary School, North-South Building, Southern Room No. 1",115
+121 - Sajwahal,"Primary School, North-South Building, Southern Room No. 2",115
+122 - Nale,"Primary School, East-West Building, Eastern Room No.1",115
+123 - Chikhalohal,"Primary School, North-South Building, Noorthern Room No.1",115
+124 - Chikhalohal,"Primary School, North-South Building, Noorthern Room No.2",115
+125 - Chikhalohal,"Primary School, North-South Building, Noorthern Room No.3",115
+126 - Sayane Kd.,"Z.P. Primary School, Room No.1, Sayane Kd.",115
+127 - Dahikute,"Z.P Marathi School East West Building, From East Room No 1.",115
+128 - Lonwade,"Primary School, East-West Building, western Room No.1",115
+129 - Vadgaon,"Z.P. Primary School, South- North Building, Northern Side, Room No.2",115
+130 - Vadgaon,"Z.P. Primary School, South- North Building, Northern Side, Room No.3",115
+131 - Vadgaon,"Z.P. Primary School, East- West Building, Eastern Side, Room No.1",115
+132 - Bhaygaon,"Primary School, East-West Building , Western Room No. 1",115
+133 - Bhaygaon,"Primary School, East-West Building , Western Room No. 2",115
+134 - Bhaygaon,"Primary School, East-West Building , Western Room No. 3",115
+135 - Bhaygaon,"Primary School, East-West Building, Room No. 2",115
+136 - Nilgavhan,"Priamry School, East-West Building, Western Side Room No.1",115
+137 - Belgaon,"Primay School, East-West Building, Western Side, Room No. 1",115
+138 - Pandhrun,"Primary School, East-West Building , Eastern Room No.1",115
+139 - Dawalivihir,"Primary School, East-West Building , Eastern Room No.3",115
+140 - Dawalivihir,"Z.P. Primary School,Dhawaleshwar North Side Building, South North Building, Room No.2",115
+141 - Dawalivihir,"Primary School, North south Building , From Western Side Room No.1",115
+142 - Dawalivihir,"Primary School, East - West Building , From North Room No.2",115
+143 - Dawalivihir,"Z.P. Primary School, Dawalivihir, South Side Building, East West Building, From East Room No.1",115
+144 - Aghar Bk.,"Primary Shool, East-West Building No.1, Western Room No.2",115
+145 - Aghar Bk.,"Primary Shool, East-West Building No.1, Western Room No.1",115
+146 - Aghar Bk.,"Primary Shool, North-South Building No.2, Room No.1",115
+147 - Dabhadi,"Z.P. Marathi Mulanchi Shala, North-South East Facing Building No.1, Room No.1 From North Side.",115
+148 - Dabhadi,"Z.P. Marathi Mulanchi Shala, North-South East Facing Building No.1, Room No.2 From South Side.",115
+149 - Dabhadi,"Z.P.Marathi Mulachi Shala, East-West North Facing Building No.2, Room No.1 From West Side.",115
+150 - Dabhadi,"Z.P.Marathi Mulachi Shala, East-West North Facing Building No.2, Room No.1 From East Side.",115
+151 - Dabhadi,"Z.P.Marathi Mulachi Shala, South-North West Facing Building No.3, Room No.3 From South Side.",115
+152 - Dabhadi,"Z.P.Marathi Mulachi Shala, South-North West Facing Building No.3, Room No.1 From North Side.",115
+153 - Dabhadi,"T.R.High School, Southern Building No.1,Western Side Room No.1",115
+154 - Dabhadi,"Maharashtra State Agri. Corp., C section, Northern Room No.3",115
+155 - Dabhadi,"T.R.High School, East-West Building No.2, Western Side Room No.1(South facing)",115
+156 - Dabhadi,"Z.P. Dabhadi Mulinchi Shala, East-West New Building, Room No.1, From West side.",115
+157 - Dabhadi,"Z.P. Dabhadi Mulinchi Shala, East-West New Building, Room No.2, From West side.",115
+158 - Dabhadi,"Z.P. Dabhadi Mulinchi Shala, East-West New Building, Room No.2, From East side.",115
+159 - Dabhadi,"Z.P. Dabhadi Mulinchi Shala, East-West South Facing Old Building, Room No.1, From East side. Near Gate",115
+160 - Dabhadi,"T.R.High School, North- Southe Building No.1, Southern Room No.1",115
+161 - Dabhadi,"T.R.High School, Southern Building No.3, Western Room No.3",115
+162 - Dabhadi,"T.R.High School, North- South Building No.3, Western Room No.4",115
+163 - Soygaon,"Z.P. Primary School, East-West Building, Eastern Room No. 1",115
+164 - Soygaon,"Anganwadi No.7,Vitthal Nagar,, Room No.1",115
+165 - Soygaon,Maratha Vidyaprasarak (MVP) Arts and Commerce College South-North Building Room No.1 from South,115
+166 - Soygaon,"Maratha Vidyaprasarak (MVP) Arts and Commerce College South-North Building Roo,m No.2 from South",115
+167 - Soygaon,Bhagini Mandals Saraswati Mandir Soygaon Near Swami Samarth Kendra South-North Building Room No.1 From South Side,115
+168 - Soygaon,Maratha Vidyaprasarak (MVP) Arts and Commerce College South-North Building Room No.3 from South,115
+169 - Soygaon,Maratha Vidyaprasarak (MVP) Arts and Commerce College South-North Building Room No.4 from South,115
+170 - Soygaon,"Z.P. Primary School, South -North Building, Southern Room No. 3",115
+171 - Soygaon,Nav Bharat Madhyamik Vidyalay Northern Side Room No.1,115
+172 - Soygaon,"Z.P. Primary School, South -North Building, Southern Room No. 4",115
+173 - Soygaon,Bhagini Mandals Saraswati Mandir Soygaon Near Swami Samarth Kendra South-North Building Room No.2 From South Side,115
+174 - Soygaon,Bhagini Mandals Saraswati Mandir Soygaon Near Swami Samarth Kendra South-North Building Room No.3 From South Side,115
+175 - Soygaon,"Sarswati / Shuhada Vidyalaya, Uttar dakshin Imaarat, Uttarekadun Kholi Kra. 3 ( Princepal Office)",115
+176 - Soygaon,"Z.P. Primary School Near Gate, Southern, New Room No. 7",115
+177 - Soygaon,"Sarvodaya Shikshan Sanstha, East- West Building, Room No. 1",115
+178 - Soygaon,"Sarvodaya Shikshan Sanstha, East- West Building, Room No. 2",115
+179 - Soygaon,"Sarvodaya Shikshan Sanstha, East- West Building, Eastern Side New Building, Room No. 3",115
+180 - Soygaon,"Sarvodaya Shikshan Sanstha,North South Building, Facing Towards West, Room No.5",115
+181 - Soygaon,"Sarvodaya Shikshan Sanstha, East- West Building, Eastern Side New Building, Room No. 4",115
+182 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 1",115
+183 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 2",115
+184 - Soygaon,Vinay Mandir Primary School Southern Side Room No.1,115
+185 - Soygaon,Nav Bharat Madhyamik Vidyalay Soygaon Sothern Building Northern Side Room No.2,115
+186 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 3",115
+187 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 4",115
+188 - Soygaon,"Vinay Mandir Primary School, Soygaon, North South Building, From North, Room No. 1",115
+189 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 6",115
+190 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 7",115
+191 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, Northern Room No. 2",115
+192 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, West Facing Northern Room No 3",115
+193 - Soygaon,"Sarswati / Shubhada Vidayalaya, North- South Building, West Facing Northern Room No 2",115
+194 - Soygaon,"Vinay Mandir Primary School, Soygaon, South North Building, From North, Room No. 2",115
+195 - Dyane,"Z.P.Primary School (Marathi), Northern East-West Building , Eastern Room No.1",115
+196 - Dyane,"Z.P.Primary School (Marathi), Northern East-West Building , Eastern Room No.3",115
+197 - Dyane,"Z.P.Primary School (Marathi),Dnyane East-West South Facing Building , Eastern Room No.1",115
+198 - Dyane,"Z.P.Primary School (Marathi),Dnyane East-West South Facing Building , Eastern Room No.2",115
+199 - Dyane,"Z.P.Primary School (Marathi),Dyane East-West South Facing Building , Room No.3",115
+200 - Dyane,"Z.P.Primary School (Marathi),Dyane East-West South Facing Building , Room No.4",115
+201 - Dyane,"Z.P.Primary School (Marathi)(Girls), South-North New Building , North Side Room No.2",115
+202 - Dyane,"Z.P.Primary School (Marathi),Dyane East-West South Facing New Building ,Western side Room No.1",115
+203 - Dyane,"Z.P.Primary School (Marathi),Dyane East-West South Facing New Building ,Eestern side Room No.2",115
+204 - Dyane,"Z.P.Primary School (Urdu),Boys Ramzanpura, Dyane, East-West North Facing Building Estern Side Room No.3",115
+205 - Dyane,"Z.P.Primary School (Urdu),Boys Ramzanpura, Dyane, East-West North Facing Building Estern Side Room No.2",115
+206 - Dyane,"Z.P.Primary School (Urdu)(Boys), Ramzanpura Dyane North- South West Facing Old Building , North Side Room No.2",115
+207 - Dyane,"Z.P.Primary School (Urdu)(Boys), Ramzanpura Dyane North- South West Facing Old Building , North Side Room No.1",115
+208 - Dyane,"Z.P.Primary School (Urdu),Girls Ramzanpura Dyane, East-West South facing Building , Eastern Side Room No.3",115
+209 - Dyane,"Z.P.Primary School (Urdu), Dyane, North Facing, East-West Building , Eastern Room No.2",115
+210 - Dyane,"Z.P.Primary School (Urdu),Girls Ramzanpura Dyane, East-West South facing Building , Eastern Side Room No.1",115
+211 - Dyane,"Z.P.Primary School (Urdu),Girls Ramzanpura Dyane, East-West North facing Building , Eastern Side Room No.1",115
+212 - Dyane,"Z.P.Primary School (Urdu),Girls Ramzanpura, Dyane, North- South West Facing Northen Side New Building Northside Room No.1",115
+213 - Dyane,"Z.P.Primary School (Urdu),Girls Ramzanpura, Dyane, North- South West Facing Northen Side New Building Northside Room No.2",115
+214 - Dyane,"Z.P.Primary School (Urdu),Boys Ramzanpura Dyane,North- South west Facing Southern Side New Building , South Side Room No.2",115
+215 - Dyane,"Z.P.Primary School (Urdu),Boys Ramzanpura Dyane,North- South west Facing Southern Side New Building , South Side Room No.1",115
+216 - Dyane,"Z.P.Primary School (Urdu),Boys Mo.Amin Darga Ramzanpura Dyane,North- South Building west Facing North Side Room No.1",115
+217 - Dyane,"Z.P.Primary School (Urdu),Boys Mo.Amin Darga Ramzanpura Dyane,North- South Building west Facing North Side Room No.2",115
+218 - Dyane,Loknete Vyankatrao Hire Urdu High School Dyane Ramzanpura East-West North Facing Building Room No.3 From East Side,115
+219 - Dyane,Loknete Vyankatrao Hire Urdu High School Dyane Ramzanpura South-North East Facing Building Room No.1 From South Side,115
+220 - Dyane,Kino Urdu Primary School Dyane Ramzanpura South-North West Facing Building Room No.1 Form North Side.,115
+221 - Dyane,Kino Urdu Primary School Dyane Ramzanpura South-North West Facing Building Room No.2 Form North Side.,115
+222 - Dyane,Kino Urdu Primary School Dyane Ramzanpura South-North West Facing Building Room No.3 Form North Side.,115
+223 - Dyane,Kino Urdu Primary School Dyane Ramzanpura South-North West Facing Building Room No.4 Form North Side.,115
+224 - Dyane,RMS English Medium School Dyane Ramzanpura South-North East Facing Building Room No.1 Form North Side.,115
+225 - Dyane,RMS English Medium School Dyane Ramzanpura South-North East Facing Building Room No.2 Form North Side.,115
+226 - Dyane,RMS English Medium School Dyane Ramzanpura South-North East Facing Building Room No.3 Form North Side.,115
+227 - Dyane,RMS English Medium School Dyane Ramzanpura South-North East Facing Building Room No.4 Form North Side.,115
+228 - Daregaon,"Primary School, Daregaon, Kaularu School",115
+229 - Daregaon,"Primary School, Daregaon, Kaularu School Room No 2",115
+230 - Daregaon,"New Primary School, East side Room no.1",115
+231 - Daregaon,"New Primary School, East side Room no.2",115
+232 - Sayane Bk.,"Primary School, East-West Building, Eastern Room No.1",115
+233 - Sayane Bk.,"Primary School, East-West Building, Eastern Room No.2",115
+234 - Shendurni,"Primary School, East-West Building, Eastern Room No.1",115
+235 - Malegaon Camp,"Shrimati Pushpatai Hire Mahila Mahavidyalaya, South North Building Room No.6, Western Side",115
+236 - Malegaon Camp,"Shrimati Pushpatai Hire Mahila Mahavidyalaya, South North Building, Western Side, Room No.5",115
+237 - Malegaon Camp,"Shrimati Pushpatai Hire Mahila Mahavidyalaya, South North Building, Northern , Room No.5, Western Side",115
+238 - Malegaon Camp,"Shrimati Pushpatai Hire Mahila Mahavidyalaya, East-West Building, Western , Room No.3, Western Side",115
+239 - Malegaon Camp,"L.V.H. Eng, Medium School , South North Building, Southern Room No.3, Western Side",115
+240 - Malegaon Camp,"L.V.H. Eng, Medium School , South North Building, Northern Room No.4, Western Side",115
+241 - Malegaon Camp,"L.V.H. Eng, Medium School , South North Building, Northern Room No.2, Eastern Side",115
+242 - Malegaon Camp,"MMC School No.31,East - West South Building, Western Side Room No.2",115
+243 - Malegaon Camp,"MMC School No.31, Northen South Building, Northen Room No. 5",115
+244 - Malegaon Camp,"MMC School Urdu No.31,East West Building, Room No. 6",115
+245 - Malegaon Camp,"MMC School No.31, North South Building, Northen Room No. 7",115
+246 - Malegaon Camp,"MMC School No.8, North - South Building, Southern Room No.1 Western Side",115
+247 - Malegaon Camp,"MMC School No.19, North - South Building, From Southen Room No.7",115
+248 - Malegaon Camp,"MMC School No.8, North - South Building, Southern Room No.2 Western Side",115
+249 - Malegaon Camp,"MMC School No.19, North - South Building, Southern Room No.8",115
+250 - Malegaon Camp,"MMC School No.8, North - South Building, Southern Room No.3 Western Side",115
+251 - Malegaon Camp,"MMC School No.8, North - South Building, Southern Room No.8 Northern Side",115
+252 - Malegaon Camp,"MMC School No.19, North - South Building, west fasing Southern Room No.5 Western Side",115
+253 - Malegaon Camp,"MMC School No.19, North - South Building, Southern Room No.6 Western Side",115
+254 - Malegaon Camp,"MMC School No.19, North - South Building, Southern Room No.9",115
+255 - Malegaon Camp,"MMC School No.19, North - South Building, Northern Room No.2 Western Side",115
+256 - Malegaon Camp,"MMC School No.31, North - South Building, Northern Room No.3 Western Side",115
+257 - Malegaon Camp,"New building Technical High School, Camp Road, Near SRP Camp, East-West New Building Room No. 1",115
+258 - Malegaon Camp,"Technical High School, Camp Road, Near SRP Camp, East-West Building Room No. 2",115
+259 - Malegaon Camp,"Technical High School, Camp Road, Near SRP Camp, East-West Building Room No. 3",115
+260 - Malegaon Camp,"Technical High School, Camp Road, Near SRP Camp, East-West Building Room No. 5",115
+261 - Malegaon Camp,"Technical High School, Camp Road, Near SRP Camp, East-West Building Room No. 6",115
+262 - Malegaon Camp,"New Building, Technical High School, Camp Road, Near SRP Camp, East-West New Building Room No. 1",115
+263 - Malegaon Camp,"K.B.H. Vidyalaya, Malegaon Camp, East-West Building, Eastern Room No.1",115
+264 - Malegaon Camp,"K.B.H. Vidyalaya, Malegaon Camp, East-West Building, Eastern Room No.2",115
+265 - Malegaon Camp,"K.B.H. Vidyalaya, Malegaon Camp, East-West Building, Eastern Room No.3",115
+266 - Malegaon Camp,"K.B.H. Vidyalaya, Malegaon Camp, East-West Building, Eastern Room No.3",115
+267 - Sangameshwar,"MMC School No. 3, Mosam Pool, East- West Building, No.1 , Western Room No.4, Northern side",115
+268 - Sangameshwar,"MMC School No. 3, Mosam Pool, East- West Building, No.1 , Western Room No.5, Northern side",115
+269 - Sangameshwar,Y.N.Jadhav High School Mosampool (Sangameshwar) South-North East Facing Building Room No.1 From South Side,115
+270 - Sangameshwar,Y.N.Jadhav High School Mosampool (Sangameshwar) South-North West Facing Building Room No.4 From South Side,115
+271 - Sangameshwar,"MMC School No. 3, Mosam Pool, North- South Building, No.2 , Southern Room No.1, Western side",115
+272 - Sangameshwar,"MMC School No. 3, Mosam Pool, North- South Building, No.2 , Southern Room No.2, Western side",115
+273 - Sangameshwar,"MMC School No. 3, Mosam Pool, North- South Building, No.2 , Southern Room No.3, Western side",115
+274 - Sangameshwar,"MMC School No. 21, Mosam Pool, North South Building, From South, Room No.3",115
+275 - Sangameshwar,"MMC School No. 21, Mosam Pool, North South Building, From South, Room No.4, Mosam Pool",115
+276 - Sangameshwar,"Y.N.Jadhav High School, Mosam Pool, East- West Building, Eastern Room No.3, Southern Side",115
+277 - Sangameshwar,"Y.N.Jadhav High School, Mosam Pool, East- West Building, Eastern Room No.4, Southern Side",115
+278 - Sangameshwar,"Y.N.Jadhav High School, Mosam Pool, South- North Building, Northern Room No.2, Eastern Side",115
+279 - Sangameshwar,"MMC School No.28, Under Walmik Nagar Town Hall South- North Building, Northern Room No.2, Western Side",115
+280 - Sangameshwar,"MMC School No.28, Under Walmik Nagar Town Hall South- North Building, Northern Room No.2, Facing to West",115
+281 - Sangameshwar,"MMC School No.28, Walmik Nagar, South- North Building, Northern Room No.2, Facing to East",115
+282 - Sangameshwar,"MMC School No.26, Kakubai's Garden, Sangameshwar, South- North Building, Southern Room No.2",115
+283 - Sangameshwar,"MMC School No.4, Kakubai's Garden, Sangameshwar, South- North Building, Southern Room No.3",115
+284 - Sangameshwar,"M.N.P. Urdu School No. 4, East Side Building, South North Building, From North, Room No.3",115
+285 - Sangameshwar,"MMC School No.4, Kakubai's Garden, Sangameshwar, South- North Building, Southern Room No.5",115
+286 - Sangameshwar,"M.N.P. Urdu Primary School No. 4, East Side Building, South North Building, From North, Room No.2",115
+287 - Sangameshwar,Vardhaman Education Society Sau.Kantaben Ratilal Shaha Primary School (Sangameshwar) South-North West Facing New Building Room No.2 From North Side,115
+288 - Sangameshwar,Vardhaman Education Society Sau.Kantaben Ratilal Shaha Primary School (Sangameshwar) South-North West Facing New Building Room No.1 From South Side,115
+289 - Sangameshwar,Vardhaman Education Society Sau.Kantaben Ratilal Shaha Primary School (Sangameshwar) South-North East Facing New Building Room No.3 From South Side,115
+290 - Sangameshwar,"Vardhaman Education Institute, Sangameshwar, Basement, East-West Building, Western Room No. 1",115
+291 - Sangameshwar,"Vardhaman Education Institute, Sangameshwar, Basement, East-West Building, Western Room No. 2",115
+292 - Tehre,"Primary School, North- South Building, Southern Room No.1",115
+293 - Tehre,"Primary School, North- South Building, Southern Room No.1",115
+294 - Tehre,"Primary School No.2, East- West Building No.2, Near Office, Room No.1",115
+295 - Tehre,"Primary School No.2, East- West Building No.2, Near Office, Room No.1",115
+296 - Patne,"Primary School, New North-South Building, Northern Room No.2",115
+297 - Patne,"Primary School, New North-South Building, Northern Room No.4",115
+298 - Patne,"Primary School,Old Building East-West Building, Eastern Room No.1",115
+299 - Patne,"Primary School,Old Building East-West Building, Eastern Room No.3",115
+300 - Aghar Kd.,"Primary School, East-West Building, Eastern Side Room No.3",115
+301 - Aghar Kd.,"Primary School, East-West Building, Eastern Side Room No.1",115
+302 - Chinchawad,"New Primary School, East-West Building, Eastern Room No.1",115
+303 - Chinchawad,"New Primary School, East-West Building, Eastern Room No.2",115
+304 - Chinchawad,"New Primary School, South-North Building, Southern Room No.1",115
+305 - Nandgaon Bk,"Primary School, East-West Building, Eastern Room No.1",115
+306 - Nandgaon Bk,"Primary School, East-West Building, Eastern Room No.2",115
+307 - Nandgaon Bk,"Primary School, East-West Building, Eastern Room No.4",115
+308 - Wake,"Primary School, East-West Building, Eastern Room No.1",115
+309 - Wake,"Primary School, East-West Building, Eastern Room No.1",115
+310 - Mungase,"Primary School, East-West Building, Eastern Room No.1",115
+311 - Mungase,"Primary School, East-West Building, Western Room No.2 (South)",115
+312 - Mungase,"Primary School, North-South Building, Western Room No.1",115
+313 - Chandanpuri,"Primary School, North-South Building No.1, Northern Room No.1",115
+314 - Chandanpuri,"Primary School, North-South Building No.1, Northern Room No.3",115
+315 - Chandanpuri,"Digital Class Room,Chandanpuri",115
+316 - Chandanpuri,"Z.P.Primary School, Building No.2, East-West, Eastern Room No.1",115
+317 - Chandanpuri,"Z.P.Primary School, Building No.3, East-West, Eastern Room No.1",115
+318 - Maladhe,"Primary School, Maladhe, East-West Building, Eastern Room No.1",115
+319 - Maladhe,"Z.P.Primary Urdu School, Maladhe Shivar, North -South Building, Northern Room No.2",115
+320 - Maladhe,"Z.P.Primary Urdu School, Maladhe Shivar, North -South Building, Northern Room No.3",115
+321 - Maladhe,"Z.P.Primary Urdu School, Maladhe Shivar, North -South Building, Northern Room No.4",115
+322 - Maladhe,"Z.P.Primary Urdu School, Maladhe Shivar, North -South Building, Northern Room No.6",115
+323 - Maladhe (Shivar),"Loknete Vyankatrao Hiray Urdu High School, East-West Building, Eastern Room No.1",115
+324 - Maladhe (Shivar),"Loknete Vyankatrao Hiray Urdu High School, East-West Building, Eastern Room No.4",115
+325 - Savandgaon,"New Primary School, Building, Eastern Room No.1",115
+326 - Savandgaon,"New Primary School, Building, Eastern Room No.1",115
+327 - Saudane,Janta Vidyalay & Jr. Collage Saundane East-West North Facing Building Room No.1 From East Side.,115
+328 - Saudane,Janta Vidyalay & Jr. Collage Saundane East-West North Facing Building Room No.3 From East Side.,115
+329 - Saudane,Janta Vidyalay & Jr. Collage Saundane East-West South Facing Building Room No.4 From East Side.,115
+330 - Saudane,Z.P School Saundane Sauth-North West Facing Building Room No.1 From North Side,115
+331 - Saudane,Z.P School Saundane East-West North Facing Building Room No.2 From West Side,115

@@ -1,0 +1,512 @@
+PS No & Name,Address,Constituency Number
+1 - Sangode,Z.P.School Sangode New Building Room No.1 pin code 421 605,139
+2 - Kondheri,Z.P.School Kondheri Room No.1 pin code 421 605,139
+3 - Vasundri,Z.P.School Vasundri New Building Room No.1 pin code 421 605,139
+4 - Nimbavali,Z.P.School Nimbavali Room No.1 pin code 421 301,139
+5 - Raye,Grampanchayat Office Raye Room No 1 pin code 421 301,139
+6 - Raye,Z.P.Marathi School Raye Room No 1 pin code 421 301,139
+7 - Chinchavali,Z.P.School Chinchavali Room No.1 pin code 421 301,139
+8 - Khadavali,Z.P.center Marathi School Khadavali (w) Room No 1 pin code 421 301,139
+9 - Khadavali,Z.P.center Marathi School Khadavali (w) Room No 2 pin code 421 301,139
+10 - Khadavali,Z.P. Marathi & Gujrati School Khadavali (E) Room No 1 pin code 421 301,139
+11 - Khadavali,Z.P.Marathi & Gujrati School Khadavali (E) Room No 2 pin code 421 301,139
+12 - Vaveghar,Z.P.School Vaveghar Room No 1 pin code 421 301,139
+13 - Vaveghar,Z.P.School Vaveghar Room No 2 pin code 421 301,139
+14 - Valakas,Z.P. Digital School Valkas Room No.1,139
+15 - Gerase,Z.P.School Gerase New Building Room No.1 pin code 421 601,139
+16 - Kosle,Z.P.School KosleNew building Room No.1 pin code 421 601,139
+17 - Vehale,Z.P.School Vehale New Building Room No1 pin code 421 601,139
+18 - Danbav,Z.P.School Danbav Room No.1 pin code 421 301,139
+19 - Pitambare,Z.P.Primary School Nadgaon No 1 Pitambare Room No.1 pin code 421 301,139
+20 - Nadgaon,Z.P. Senior School Nadgaon no 2 Room No 1 pin code 421 301,139
+21 - Nadgaon,Z.P. Senior School Nadgaon no 2 Room No 2 pin code 421 301,139
+22 - Utane,Z.P.School Utane Room No.1,139
+23 - Guravali,Z.P. Center School Guravali Room No.1 pin code 421 301,139
+24 - Guravali,Z.P. Center School Guravali Room No.2 pin code 421 301,139
+25 - Manivali,"Ekatamik Balvikas Seva Yojna, Anganvadi Kendra, manivali 2 pin code 421 102",139
+26 - Manivali,Grampanchayat Office Hall Manivali pin code 421 102,139
+27 - Ghotasai,Z.P.School Ghotsai New Building Room No 1 pin code 421 605,139
+28 - Ghotasai,Z.P.School Ghotsai New Building Room No 2 pin code 421 605,139
+29 - Ghotasai,Z..P.School Ghotsai Room No.1 Near Old Building room no 3 pin code 421 605,139
+30 - Runde,Z.P.School Runde Room No.1 pin code 421 605,139
+31 - Falegaon,Z.P.School Falegaon New Building Room No.1 pin code 421 605,139
+32 - Falegaon,Z.P.School Falegaon New Building Room No.2 pin code 421 605,139
+33 - Ushid,Z.P.Primary School Ushid Room No.1 pin code 421 605,139
+34 - Palsoli,Z.P.School Palsoli Room No 1 pin code 421 601,139
+35 - Kakadpada,Z.P.School Kakadpada Room No 1 pin code 421 601,139
+36 - Dahivali,Z.P.School Gauripada Dahivali New Building Room No1 pin code 421 301,139
+37 - Mhasakal,Z.P.School Mhaskal New Building Room No.1 pin code 421 605,139
+38 - Anakhar,Z.P.School Ankharpada Room No.1 pin code 421 605,139
+39 - Goveli,Z.P.Center School Goveli Room No 1 pin code 421 301,139
+40 - Rayate,Rayte High School & junior collage Rayate North side Room No 3 pin code 421 301,139
+41 - Rayate,Rayte High School & junior collage Rayate North side Room No 4 pin code 421 301,139
+42 - Valivali,"Kulgaon Badlapur Nagar Parishad Marathi Primary School Valivali Ground Floor Room No. 1, Badlapur West-421503",139
+43 - Valivali,"Kulgaon Badlapur Nagar Parishad Marathi Primary School Valivali Ground Floor Room No. 2, Badlapur West-421503",139
+44 - Valivali,"Kulgaon Badlapur Nagar Parishad Marathi Primary School Valivali Ground Floor Room No. 3, Badlapur West-421503",139
+45 - Valivali,"Kulgaon Badlapur Nagar Parishad,Samaj Mandir,Ground Flr,Near Marathi Primary Marathi School Badlapur West-421503",139
+46 - Belavali,"Kulgaon Badlapur Nagar Parishad, Primary Marathi School,Ground Flr R no 1 Belavali, Badlapur West-421503",139
+47 - Belavali,"Kulgaon Badlapur Nagar Parishad, Primary Marathi School,Room No. 2, Belavali, Badlapur West-421503",139
+48 - Belavali,"Kulgaon Badlapur Nagar Parishad, Primary Marathi School,Ground Flr R no 3, Belavali, Badlapur West-421503",139
+49 - Belavali,"Kulgaon Badlapur Nagar Parishad, Primary Marathi School,Ground Flr Mandap 1 , Belavali, Badlapur West-421503",139
+50 - Belavali,"Fatima High School Belavali, Ground Floor Room No. 1, Badlapur West-421503",139
+51 - Belavali,"Fatima High School Belavali, Ground Floor Room No. 2, Badlapur West-421503",139
+52 - Belavali,"Fatima High School Belavali, Ground Floor Room No. 3, Badlapur West-421503",139
+53 - Belavali,"Kulgaon Badlapur Nagar Parishad Marathi Primary School Ground Mandap 2, Badlapur West-421503",139
+54 - Belavali,Ravindra Karale Om Datta Society Parking Partition No. 1,139
+55 - Belavali,"Fatima High School Belavali, Ground Floor Room No. 4, Badlapur West-421503",139
+56 - Belavali,"Fatima High School Belavali, Ground Floor Room No. 5, Badlapur West-421503",139
+57 - Belavali,"Fatima High School Belavali, Mandap Badlapur West-421503",139
+58 - Belavali,"Ravindra Karale, Om Datt Society, Parking partition no.2, Badlapur west -421504",139
+59 - Belavali,"Ravindra Karale, Om Datt Society Parking partition no.3, Badlapur west -421504",139
+60 - Belavali,"Rajashri C H Shahu Maharaj Vidyalay Pawar Complex ,Belavali ground Floor room no.1 Badlapur West 421503",139
+61 - Belavali,"Rajashri C H Shahu Maharaj Vidyalay Pawar Complex ,Belavali ground Floor room no.2 , Badlapur West 421503",139
+62 - Belavali,"Rajashri C H Shahu Maharaj Vidyalay Pawar Complex ,Belavali ground Floor room no.3 , Badlapur West 421503",139
+63 - Belavali,"Rajashri C H Shahu Maharaj Vidyalay Pawar Complex ,Belavali ground Floor room no.4 , Badlapur West 421503",139
+64 - Belavali,"Maharashtra Jeevan Pradhikaran Ofice ground floor R no.4 ,Badlapur West 421503",139
+65 - Belavali,"Maharashtra Jeevan Pradhikaran Ofice ground floor R no.5 ,Badlapur West 421503",139
+66 - Katrap,"Indian Education Society's, Katrap Vidyalay Ground floor room no.1 Katrap gaon ,Badlapur east -421503",139
+67 - Katrap,"Indian Education society ,Katrap Vidyalay Ground Floor Room no.2 Katrapgaon Badlapur East 421503",139
+68 - Katrap,"Indian Education Society Katrap Vidyalay Ground floor room no.3 Katrap gaon ,Badlapur east -421503",139
+69 - Katrap,"Indian Education society ,Katrap Vidyalay Ground Floor Room. No.4, Katrapgaon Badlapur East 421503",139
+70 - Katrap,"Municipal Council hall,Shreeji Center, Partition no.1 Badlapur east 421503",139
+71 - Katrap,"Municipal Council hall, Shreeji Center, Ground Floor, Partition no.2 Badlapur east 421503",139
+72 - Katrap,"Municipal Council hall, Shreeji Center, Ground Floor, Partition no.3 Badlapur east 421503",139
+73 - KatrapGaon,"Municipal Council hall, Shreeji Center, Ground Floor, Partition no.4 Badlapur east 421503",139
+74 - Katrapgaon,"Municipal Council hall, Shreeji Center, Ground Floor, Partition no.5 Badlapur east 421503",139
+75 - Katrapgaon,"Municipal Council hall, Shreeji Center, Ground Floor, Partition no.6 Badlapur east 421503",139
+76 - Katrapgaon,chaitnya Vidyalay Marathi Medium MIDC rd ground flr room no.1 Katrap Badlapur east 421503,139
+77 - Katrapgaon,chaitnya Vidyalay Marathi Medium MIDC rd ground flr Mandap Katrap Badlapur east 421503,139
+78 - Katrapgaon,More Mangal Karyalay Mohan Palm rd Nr Bhagirati Plaza Shirgaon Ground floor Partition No.1 Badlapur east 421503,139
+79 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay Ground Floor partition no.1 ,Badlapur east -421503",139
+80 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay Ground Floor partition no.2 ,Badlapur east -421503",139
+81 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay ground stage Partition 1 katrap gaon ,Badlapur east -421503",139
+82 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay ground stage Partition 2 katrap gaon ,Badlapur east -421503",139
+83 - Katrapgaon,"Indian Education Society Katrap Vidyalay Ground mandap no.1,katrapgaon Badlapur east 421503",139
+84 - Katrapgaon,Kulgaon Badlapur Marathi Primary Marathi School no.7 opp.Tulsi angan society Katrap room no.2 Badlapur east 421503,139
+85 - Katrapgaon,Kulgaon Badlapur Marathi Primary Marathi School no.7 opp.Tulsi angan society hall Partition Katrap Badlapur east 421503,139
+86 - Katrapgaon,"Tulsi angan society Hall Partition no. 1 Ground floor Katrap ,Badlapur east 421503",139
+87 - Katrapgaon,"Tulsi angan society Hall Partition no. 2 Ground floor Katrap ,Badlapur east 421503",139
+88 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay Ground Mandap 2 katrap gaon ,Badlapur east -421503",139
+89 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay Ground Mandap 3 katrap gaon ,Badlapur east -421503",139
+90 - Katrapgaon,"Indian Education Society's,Katrap Vidyalay ground mandap 4 katrap gaon ,Badlapur east -421503",139
+91 - Katrapgaon,"More Mangal Karyalay ,mohan palm road,opp. bhagirathi plaza shirgaon Gr. floor Hall, Partition No. 2 Badlapur east -421503",139
+92 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Partition no.1",139
+93 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Partition no.2",139
+94 - Manjarli,"Bhagyashree Vidyalaya, Manjarli, Ground Floor Staff Room Manjarli, Badlapur West-421503",139
+95 - Manjarli,"Bhagyashree Vidyalaya, Manjarli, Ground Floor Room.1. Manjarli, Badlapur West-421503",139
+96 - Manjarli,"Bhagyashree Vidyalaya, Manjarli Ground Floor Room No. 2 Manjarli, Badlapur West-421503",139
+97 - Manjarli,"Bhagyashree Vidyalaya, Manjarli Ground Floor Room No. 3, Manjarli, Badlapur West-421503",139
+98 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Room no.1",139
+99 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Room no.3 Badlapur West 421503",139
+100 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Room no.4 Badlapur West 421503",139
+101 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Room no.5 Badlapur West 421503",139
+102 - Manjarli,"I.E.S. Vidyalay ,Manjarli,Near Mohan Green Wood,Ground Floor Room no.6 Badlapur West 421503",139
+103 - Manjarli,"Bhagyashree Vidyalaya, Manjarli Ground Floor Room no.4, Manjarli, Badlapur West-421503",139
+104 - Manjarli,"Bhagyashree Vidyalaya, Manjarli Ground Floor Room no.5, Manjarli, Badlapur West-421503",139
+105 - Manjarli,"Bhagyashree Vidyalaya, Manjarli Ground Partition , Manjarli, Badlapur West-421503",139
+106 - Manjarli,"Bloosom English School ,Manjarli, Room no.1Badlapur west 421503",139
+107 - Manjarli,"Bloosom English School ,Manjarli, Room no.2 Badlapur west 421503",139
+108 - Manjarli,"Bhagyashree Vidyalaya, Manjarli Ground Floor Room no.6, Manjarli, Badlapur West-421503",139
+109 - Sai,Z.P.Marathi School Sai Room No.1 pin code 421 503,139
+110 - Dhoke(Dapivali),Z.P.School Dhoke (Dapivali) Room No 1 pin code 421 503,139
+111 - Ambeshiv (Bu),Z.P.School Ambeshiv Budruk Room No 1 pin code 421 503,139
+112 - Ambeshiv Khurd,Z.P.School Ambeshiv Khu Room 1 pin code 421 503,139
+113 - Apati T. Chon,Z.P.School Apti Chon School Room.No.1 pin code 421 301,139
+114 - Jambhul,Z.P.School Jambhul Room.No.1 pin code 421 505,139
+115 - Jambhul,Z.P.School Jambhul Room .No.2 pin code 421 505,139
+116 - Vasat shelavali,Z.P. Digital School Vasat shelavali Room.No.1 pin code 421 505,139
+117 - Vasat shelavali,Z.P. Digital School Vasat shelavali Room.No.2 pin code 421 505,139
+118 - Vaholi,Z.P.School Vaholi Room.No.1 pin code 421 301,139
+119 - Bhisol,Z.P.School Bhisol New Building from east side Room No 2 pin code 421 301,139
+120 - Ane,Z.P.School Ane Room No 1 pin code 421 301,139
+121 - Nalimbi,Z.P.Primary School Nalimbi Room .No.1 pin code 421 301,139
+122 - Apati,Z.P. Primary Digital School Apti Bare Room.No.1 pin code 421 301,139
+123 - Pimpaloli/Revati,Z.P.Center School Goveli Room.No.2 pin code 421 301,139
+124 - Chaure,Z.P.School Chaure Room.No.1 pin code 421 301,139
+125 - Kolam,Z.P.School Kelni Room.No1 pin code 421 301,139
+126 - Bapasai,Z.P.School Bapsai In Front Of Old Building Room.No.1 pin code 421 301,139
+127 - Mamanoli,"Z.P. Center School Mamnoli New Building Room,.No.1 pin code 421 301",139
+128 - Kunde,Z.P.School New Building Kunde Room No 1 pin code 421 301,139
+129 - Asose,Z.P.School Asose Room No.1 pin code 421 401,139
+130 - Chikhale,Z.P.School Chikhale Room No1 pin code 421 401,139
+131 - Shidagaon,Z.P.School Fanaswadi (Shidgaon) Room No.1 pin code 421 401,139
+132 - Karavele,Z.P.higher primary School Karvele New Building East side Room No1 pin code 421 401,139
+133 - Vaghivali,Z.P.School Vaghivali Room No1 pin code 421 401,139
+134 - Asole,Z.P.Primary School Asole Room No 2 pin code 421 401,139
+135 - Potagaon,Z.P.School Potgaon Room No.2 pin code 421 401,139
+136 - Rohan Antade,"Grampanchayat Office, Rohan Antade pin code 421 301",139
+137 - Dahagaon,Z.P.School Dahagaon Room No.1 pin code 421 301,139
+138 - Manjarli,Z.P.School Manjarli Room No.1 pin code 421 301,139
+139 - Poi,Z.P. School Poi Room No 1 pin code 421 301,139
+140 - Eranjad,Kulgaon Badlapur Nagar Parishad Primary Marathi School Eranjad Ground Floor R no 1 Badlapur west 421503,139
+141 - Eranjad,Kulgaon Badlapur Nagar Parishad Primary Marathi School Eranjad Ground Floor R no 2 Badlapur west 421503,139
+142 - Soniwali,Kulgaon Badlapur Nagar Parishad Primary Marathi School Soniwali Ground Floor R no 1 Badlapur west 421503,139
+143 - Soniwali,"Kulgaon Badlapur Nagar Parishad Primary Marathi School Soniwali Ground Floor R no 2, Badlapur west 421503",139
+144 - Hendrepada,Bharat college Hendrepada Ground Floor Room no.3 Badlapur west 421503,139
+145 - Hendrepada,Bharat college Hendrepada Ground Floor Principle Office Room Badlapur west 421503,139
+146 - Hendrepada,"Bharat College,Hendrepada,Ground Floor Room no.4,partition 1 Badlapur west -421503",139
+"147 - Kulgaon,Bajarpeth (W)","Bharat College,Hendrepada,Ground Floor Room no.4,partition 2 Badlapur west -421503",139
+"148 - Kulgaon,Bajarpeth (W)","Bharat College,Hendrepada Ground floor room no.5 partition 1 ,Badlapur west -421503",139
+"149 - Kulgaon,Bazarpeth","Bharat College,Hendrepada Ground floor room no.5 partition 2 ,Badlapur west -421503",139
+"150 - Kulgaon,Bazarpeth",Adarsh vidya Mandir primary section english medium ground floor room no 13 Badlapur east 421503,139
+"151 - Kulgaon,Bazarpeth",Adarsh vidya Mandir primary section english medium ground floor room no 14 Badlapur east 421503,139
+"152 - Kulgaon,Gandhi chowk",Kulgaon Badalapur Nagar Parishad Marathi School Gandhi chowk Ground Floor Room no 2 Badlapur east 421503,139
+"153 - Kulgaon,Gandhi chowk",Kulgaon Badlapur Nagar Parishad school gr floor room no 4 Badlapur east 421503,139
+154 - Kulgaon,G R patil vidyalaya and junior college gr floor room no 1 Badlapur east 421503,139
+155 - Kulgaon,G R patil vidyalaya and junior college gr floor room no 2 Badlapur east 421503,139
+156 - Kulgaon,G R patil vidyalaya and junior college gr floor room no 3 gaondevi Badlapur east 421503,139
+157 - Kulgaon,M J International school gavdevi kulgaon ground flr no 1 badlapur east 421503,139
+158 - Kulgaon,M J International school gavdevi kulgaon ground flr no 2 badlapur east 421503,139
+159 - Kulgaon,M J International school gavdevi kulgaon ground flr no 3 badlapur east 421503,139
+160 - Kulgaon,M J International school gavdevi kulgaon ground flr no 4 badlapur east 421503,139
+161 - Kulgaon,M J International school gavdevi kulgaon ground flr no 5 badlapur east 421503,139
+162 - Kulgaon,Baldin Hindi Vidyalay jai Bhavani Nagar Kulgaon Midc Ground floor R no 2 Badlapur east 421503,139
+163 - kulgaon,Baldin Hindi Vidyalay jai Bhavani Nagar Kulgaon Midc Ground floor R no 3 Badlapur east 421503,139
+164 - Kulgaon,Baldin Hindi Vidyalay jai Bhavani Nagar Kulgaon Midc Ground floor R no 4 Badlapur east 421503,139
+165 - Kulgaon,Shiramti Dwarkabai Naik Vidyalay Ground floor room no 1 Badlapur east 421503,139
+166 - Kulgaon,Shiramti Dwarkabai Naik Vidyalay Ground floor room no 2 badlapur east 421503,139
+167 - Kulgaon,Shiramti Dwarkabai Naik Vidyalay Ground floor room no 3. badlapur east 421503,139
+168 - Kulgaon,"Shiramti Dwarkabai Naik Vidyalay, Ground Floor, room no 4, badlapur east 421503",139
+169 - Kulgaon,Shiramti Dwarkabai Naik Vidyalay Ground floor room no 5 badlapur east 421503,139
+170 - Kulgaon,"Shiramti Dwarkabai Naik Vidyalay, Ground Floor, room no 6, badlapur east 421503",139
+171 - Kulgaon,Shiramti Dwarkabai Naik Vidyalay Ground floor room no 7 Badlapur east 421503,139
+172 - Kulgaon,"Shiramti Dwarkabai Naik Vidyalay, Ground Floor, Room no.9, badlapur east 421503",139
+173 - kulgaon,"Shrimati Dwarkabai Naik Vidyalay,Open Ground Mandap No.1 ,Badlapur east -421503",139
+174 - kulgaon,Shiramti Dwarkabai Naik Vidyalay Open Place Mandap no.2 Badlapur east 421503,139
+175 - kulgaon,Bharat Vidyalay Hendrepada ground flr room no 6 partition Badlapur west 421503,139
+176 - kulgaon,Bharat Vidyalay Hendrepada ground flr room no 7 partition 1 Badlapur west 421503,139
+177 - kulgaon,"Bharat Vidyalaya ground flr, room no 7, partition 2 Hendrepada Badlapur west 421503",139
+178 - kulgaon,Bharat Vidyalay Hendrepada ground flr room no 8 Badlapur west 421503,139
+179 - kulgaon,Balasaheb mhatre ingineering college ground flr partition 1 Badlapur west 421503,139
+180 - kulgaon,panna High school ground floor room no 1 hendrepada Baldlapur west 421503,139
+181 - kulgaon,panna High school ground floor room no 2 hendrepada Baldlapur west 421503,139
+182 - kulgaon hendrepada,Balasaheb mhatre Engineering college ground flr partition 2 Badlapur west 421503,139
+183 - kulgaon hendrepada,Balasaheb mhatre ingineering college ground flr partition 3 Badlapur west 421503,139
+184 - kulgaon hendrepada,panna High school ground floor room no 3 hendrepada Baldlapur west 421503,139
+185 - kulgaon hendrepada,panna High school ground floor room no 4 hendrepada Baldlapur west 421503,139
+186 - kulgaon hendrepada,panna Junior KG School Gr floor room no 1 hendrepada Badlapur west 421503,139
+187 - kulgaon hendrepada,panna Junior KG School Gr floor room no 2 hendrepada Badlapur west 421503,139
+188 - kulgaon hendrepada,"panna Junior KG School Gr floor room no 3, hendrepada Badlapur west 421503",139
+189 - kulgaon hendrepada,"Kulgaon Badlapur Nagarparishad Marathi School, ground floor, room no. 1, hendrepada, Badlapur west 421503",139
+190 - kulgaon hendrepada,"Kulgaon Badlapur Nagarparishad Marathi School, ground floor, room no. 2, hendrepada, Badlapur west 421503",139
+191 - kulgaon hendrepada,Kulgaon Badlapur Marathi School ground floor room no 3 hendrepada Badlapur west 421503,139
+"192 - Samarth Nagar, Barrage Road, Kulgaon",Khamkar Vidalay ground floor room no 1 Badlapur west 421503,139
+"193 - Samarth Nagar, Barrage Road, Kulgaon","Khamkar Vidalay barrage road, ground floor partition 1 Badlapur west 421503",139
+"194 - Samarth Nagar, Barrage Road, Kulgaon","Khamkar Vidalay barrage road, ground floor partition 2 Badlapur west 421503",139
+"195 - Samarth Nagar, Barrage Road, Kulgaon",Khamkar Vidalay Barrege road ground floor partition 3 Badlapur west 421503,139
+"196 - Samarth Nagar, Barrage Road, Kulgaon","Khamkar Vidyalay Barrege road ground floor Partition 4 ,Badlapur west -421503",139
+"197 - Samarth Nagar, Barrage Road, Kulgaon",Khamkar Vidalay barrage road Gr. Floor Partition 5 Badlapur west 421503,139
+"198 - Samarth Nagar, Barrage Road, Kulgaon","Khamkar Vidyalay Barrege road ground floor Partition 6 ,Badlapur west -421503",139
+"199 - Samarth Nagar, Barrage Road, Kulgaon",Khamkar Vidalay barrage road Gr. Floor Partition 7 Badlapur west 421503,139
+"200 - Samarth Nagar, Barrage Road, Kulgaon",chandrshekhar memorial highschool ground flr room no 1 Badlapur west 421503,139
+"201 - Samarth Nagar, Barrage Road, Kulgaon",chandrshekhar memorial highschool ground flr room no 2 Badlapur west 421503,139
+"202 - Samarth Nagar, Barrage Road, Kulgaon","chandrshekhar memorial highschool, ground flr, room no.3 Badlapur west 421503",139
+"203 - Samarth Nagar, Barrage Road, Kulgaon","chandrshekhar memorial highschool, ground flr, Gala no. 1, Badlapur west 421503",139
+"204 - Samarth Nagar, Barrage Road, Kulgaon",chandrshekhar memorial highschool ground flr room no.4 Badlapur west 421503,139
+"205 - Kulgaon, Gandhi Chowk East","Kulgaon Badlapur Nagarparishad Urdu School, gandhi chowk, ground flr, room no 1, Badlapur east 421503",139
+"206 - Kulgaon, Gandhi Chowk East","Kulgaon Badlapur Nagarparishad Urdu School, gandhi chowk, ground flr, room no 2, Badlapur east 421503",139
+"207 - Kulgaon, Gandhi Chowk East","Kulgaon Badlapur Nagarparishad Urdu School, gandhi chowk, ground flr, room no 3, Badlapur east 421503",139
+"208 - Kulgaon, Gandhi Chowk East",Kulgaon Badlapur Nagarparishad Marathi School gandhi chowk ground flr room no 1 Badlapur east 421503,139
+"209 - Kulgaon, Gandhi Chowk East","Kulgaon Badlapur Nagarparishad Marathi School, Kulgaon Ground Floor Room No.2 gandhi chowk ,Badlapur east -421503",139
+"210 - Kulgaon, Gandhi Chowk East","Kulgaon Badlapur Nagarparishad Marathi School, Room no.3 gandhi chowk Badlapur east 421503",139
+211 - kulgaon,"Aadrsh Vidyamandir prathmik vibhag kulgaon ground flr room no 15 kulgaon east (english,medium) Badlapur east 421503",139
+212 - kulgaon,"Aadrsh Vidyamandir prathmik vibhag kulgaon ground flr room no 6 kulgaon east (Marathi,medium) Badlapur east 421503",139
+213 - kulgaon Gandhi chowk,Kulgaon Nagarparishad Urdu School Kulgaon Ground Mandap No.1 Gandhi Chowk Badlapur E 421503,139
+214 - kulgaon Gandhi chowk,Kulgaon Nagarparishad Urdu School Kulgaon Ground Mandap No.2 Gandhi Chowk Badlapur E 421503,139
+215 - kulgaon Gandhi chowk,"Kulgaon Nagarparishad New Urdu Adarsh School ,Gandhi Chowk Ground Floor Partition No.1 Badlapur E 421503",139
+216 - kulgaon Gandhi chowk,"Kulgaon Nagarparishad New Urdu Adarsh School ,Gandhi Chowk Ground Floor Partition No.2 Badlapur E 421503",139
+217 - kulgaon Gandhi chowk (E),"Kamgar Kalyan Karyalay gandhi chowk Ground floor ,Badlapur east -421503",139
+218 - kulgaon Gandhi chowk (E),"Kulgaon Nagarparishad New Urdu Adarsh School ,Gandhi Chowk Ground Floor Partition No.3 Badlapur E 421503",139
+219 - kulgaon Gandhi chowk (E),"Kulgaon Badlapur Nagarparishad Urdu School, gandhi chowk ground flr Partition 4 ,Badlapur east -421503",139
+220 - kulgaon Gandhi chowk (E),Dhnyaneshwar Mauli Khule Sabhagruh Ground flr Badlapur east 421503,139
+221 - Kharvai,Kulgaon Badlapur Nagar parishad Marathi School juveli kharvai mankivali Ground flr no 2 Badlapur east 421503,139
+222 - Kharvai,Kulgaon Badlapur Nagar parishad Marathi school juveli kharvai mankivali Ground flr no 3 Badlapur east 421503,139
+223 - Kharvai,Kulgaon Badlapur Nagar parishad Marathi School juveli kharvai mankivali Ground flr no 4 Badlapur east 421503,139
+224 - Kharvai,"Kulgaon Badlapur Nagar parishad Marathi school, juveli, kharvai, mankivali, New Building, Ground flr, room no .1 Pin 421503",139
+225 - Kharvai,"Kulgaon Badlapur Nagar parishad Marathi school, juveli, kharvai, mankivali, New Building, Ground flr, room no .2 Pin 421503",139
+226 - Kharvai,"Kulgaon Badlapur Nagar parishad Marathi school, juveli, kharvai, mankivali, New Building, Ground flr, room no .3 Pin 421503",139
+227 - Kharvai,"Kulgaon Badlapur Nagar parishad Marathi school, juveli, kharvai, mankivali, New Building, Ground flr, Mandap Pin 421503",139
+228 - Kharvai,Vir Hutatma Hiraji Gomaji patil Vidyalaya kharvai Mankivali Juveli room no 1 Badlapur east 421503,139
+229 - Kharvai,Vir Hutatma Hiraji Gomaji patil Vidyalaya kharvai Mankivali Juveli room no 2 - Badlapur east 421503,139
+230 - Kharvai,Vir Hutatma Hiraji Gomaji patil Vidyalaya kharvai Mankivali Juveli room no 3 Badlapur east 421503,139
+231 - Kharvai,"Vir Hutatma Hiraji Gomaji patil Vidyalaya kharvai Mankivali Juveli , Ground Mandap Badlapur east 421503",139
+"232 - Aaptiwadi,shirgaon",samarth Vidyalaya Shirgaon Aaptewadi Ground flr room no. 1 Badlapur east 421503,139
+"233 - Aaptiwadi,shirgaon",samarth Vidyalaya Shirgaon Aaptewadi Ground flr room no 2 Badlapur east 421503,139
+"234 - Aaptiwadi,shirgaon",samarth Vidyalaya Shirgaon Aaptewadi Ground flr room no 3 Badlapur east 421503,139
+"235 - Aaptiwadi,shirgaon",samarth Vidyalaya Shirgaon Aaptewadi Ground flr room no 4 Badlapur east 421503,139
+"236 - Aaptiwadi,shirgaon",samarth Vidyalaya Shirgaon Aaptewadi Ground flr room no 5 Badlapur east 421503,139
+"237 - Aaptiwadi,shirgaon","Heavenbell Convent School, Shirgaon Aptewadi. Ground Floor Room No.1, Badlapur East -421503",139
+"238 - Aaptiwadi,shirgaon","Heavenbell Convent School, Shirgaon Aptewadi. Ground Floor Room No.2, Badlapur East -421503",139
+"239 - Aaptiwadi,shirgaon",Heavenbell Convent School Shirgaon Aaptewadi Ground flr room no 3 Badlapur east 421503,139
+"240 - Aaptiwadi,shirgaon",Heavenbell Convent School Shirgaon Aaptewadi Ground flr room no 5 Badlapur east 421503,139
+"241 - Aaptiwadi,shirgaon","Heavenbell Convent School Shirgaon,Aaptevadi, ground mandap No.1 ,Badlapur east -421503",139
+"242 - Aaptiwadi,shirgaon","Heavenbell Convent School Shirgaon,Aaptevadi, ground flr Ground mandap No.2 ,Badlapur east -421503",139
+"243 - Aaptiwadi,shirgaon","Heavenbell Convent School Shirgaon,Aaptevadi, ground flr Ground mandap No.3 ,Badlapur east -421503",139
+"244 - Aaptiwadi,shirgaon","Heavenbell Convent School Shirgaon,Aaptevadi, ground flr Ground mandap No.4 ,Badlapur east -421503",139
+"245 - Aaptiwadi,shirgaon",Nagar Parikshad Dr. Babasaheb Ambedkar Hall Parition 1 shirgaon Badlapur east-421503,139
+"246 - Aaptiwadi,shirgaon",Nagar Parikshad Dr. Babasaheb Ambedkar Hall Parition 2 shirgaon Badlapur east-421503,139
+247 - kulgaon,"Baldin Hindi Vidyalay Jai Bhavani Nagar Kulgaon,Midc Ground flr room no 5, Badlapur east 421503",139
+248 - kulgaon,"Baldin Hindi Vidyalay Jai Bhavani Nagar Kulgaon,Midc Ground flr room no 6, Badlapur east 421503",139
+249 - shirgaon,Holy Spirit School Ground flr room no 1 Badlapur east 421503,139
+250 - shirgaon,Holy Spirit School Ground flr room no 2 Badlapur east 421503,139
+251 - shirgaon,Holy Spirit School Ground flr room no 3 Badlapur east 421503,139
+252 - shirgaon,"Holy Spirit School Ground flr, room no 4, Badlapur east 421503",139
+253 - shirgaon,"Holy Spirit School Ground flr, room no 5, Badlapur east 421503",139
+254 - shirgaon,"Kulgaon Badlapur Nagar parishad Marathi school New Bldg Shirgaon Ground Floor room no 1 ,Badlapur east 421503",139
+255 - shirgaon,Kulgaon Badlapur Nagar parishad Marathi school New Bldg Shirgaon Ground Floor Mandap no.1 Badlapur east 421503,139
+256 - Varade,Z.P.School Varade Room No.1 pin code 421 503,139
+257 - Bhoj,Z.P.School Bhoj Room No.1 pin code 421 503,139
+258 - Dahivali,"Z.P.School, Dahivali, Room No.1 pin code 421 503",139
+259 - Dahivali,Group Grampanchyat Hall Dahivali pin code 421 504,139
+260 - Bendshil,Z.P.School Bendshil Room No.1 pin code 421 503,139
+261 - Chamtoli,Z.P.School Chamtoli Room No.1 pin code 421 503,139
+262 - Savre,Z.P.School Saware Room No 1 pin code 421 503,139
+263 - 211-Badlapur gaon,paranjpe High school badlapur primary marathi school Ground flr room no 1 badlapur gaon Badlapur west 421503,139
+264 - 211-Badlapur gaon,"paranjpe High school badlapur primary marathi school Ground Floor Room no.2 -, badlapur gaon Badlapur west 421503",139
+265 - 212-Badlapur gaon,"paranjpe High school badlapur primary marathi school Ground Floor room no 3, badlapur gaon Badlapur west 421503",139
+266 - 212-Badlapur gaon,"paranjpe High school badlapur primary marathi school Ground Floor room no 4, badlapur gaon Badlapur west 421503",139
+267 - 213-Badlapur gaon,Paranjape High School Badlapur Primary Marathi School ground mandap no.1 Badlapur west -421503,139
+268 - 214-Badlapur gaon,Paranjape High School Badlapur Primary Marathi School ground mandap no.2 Badlapur west -421503,139
+269 - 215-Badlapur gaon,"Kulgaon Badlapur Nagar Parishad Urdu School badlapur gaon Ground floor room no.1, Badlapur west -421503",139
+270 - 216-Badlapur gaon,"Kulgaon Badlapur Nagar Parishad Urdu School badlapur gaon Ground Floor room no.2, Badlapur west -421503",139
+271 - 216-Badlapur gaon,Kulgaon Badlapur Nagar Parishad Urdu School badlapur gaon Ground Floor Mandap 1 Badlapur west -421503,139
+272 - 217-Badlapur gaon,unjuman urdu school badlapur gaon room no. 1,139
+273 - 218-Badlapur gaon,Paranjape High School Badlapur Primary Marathi School ground mandap no.3 Badlapur west -421503,139
+274 - Rahatoli,Z.P.School Rahatoli Room.No.1 pin code 421 503,139
+275 - Chon,Z.P.Primary School Chon Room.No.1 pin code 421 503,139
+276 - Padir pada,Z.P.Primary School Padir pada Room .No.2 pin code 421 503,139
+277 - Karand,Z.P.School Karand Room.No.1 pin code 421 503,139
+278 - Ghorle,Z.P.School Ghorle.Room. No.1 pin code 421 401,139
+279 - Kishor,"Z.P.Primary School Kishor, Main building Room.No.1 pin code 421 401",139
+280 - Vanjale,Z.P.School Vanjale New Building North side Room.No.1 pin code 421 401,139
+281 - Devgaon,Z.P.School Devgaon south side Room No 1 pin code 421 401,139
+282 - Devgaon,Z.P.School Devgaon south side Room No 2 pin code 421 401,139
+283 - Nandeni,Z.P.School Nandeni west side Room no 1 pin code 421 401,139
+284 - Dhanivali,Z.P.School Dhanivali Room No.1 pin code 421 401,139
+285 - Bramhangaon/Temagaon,Z.P.School Bramhangaon Room No.1 pin code 421 401,139
+286 - Moharai,Z.P.School Moharai Room No.1 pin code 421 401,139
+287 - Shirgaon,Z.P.School Shirgaon Room No.1 pin code 421 401,139
+288 - Pimpalgaon,Z.P.School Pimpalgaon Room No.1 pin code 421 401,139
+289 - Pavale,Z.P.School Pawale Room No.1 pin code 421 401,139
+290 - Bhaluk,z.p. School Bhaluk New Building room No. 1 pin code No. 421401,139
+291 - Manivali (Bu),Z.P.School Manivali (Bu) Room No.2 pin code 421 401,139
+292 - Borgaon,Z.P.School Borgaon Room No.1 pin code 421 401,139
+293 - Bhadane,Z.P.School Bhadane New Building Room No 1 pin code 421 401,139
+294 - Bhadane,Z.P.School Bhadane New Building Room No 2 pin code 421 401,139
+295 - Kolthan,"Z.P.Primary School Kolthan, east side Room No 1 near main building pin code 421 401",139
+296 - Kolthan/ Thakarenagar,"Z.P.Primary School Kolthan, east side Room No 2 near main building pin code 421 401",139
+297 - Khandape,Z.P.School new building ground floor Khandpe Room No 1,139
+298 - Malhed,Z.P.Primary (semi English) School Malhed Room No.1,139
+299 - Vadavali,Z.P.School Vadavali New Building Ground floor Room No.1 pin code 421 401,139
+300 - Vadavali,Z.P.School Vadavali New Building first ground foor Room No.2 pin code 421 401,139
+301 - Dehanoli,Z.P.School Dehanoli Room No.1 pin code 421 401,139
+302 - Kudavali,Z.P.School Kudavali Room No.1 pin code 421 401,139
+303 - Tembare (Bu ),Z.P.School Tembhare New Building South side near road Room No.1 pin code 421 401,139
+304 - Matanagar Sonar Pada Murbad,Z.P.School Murbad No 1 East Side Room No 3 Shivaji Chowk Murbad pin code 421 401,139
+305 - Matanagar Sonar Pada Murbad,Z.P.School Murbad No 1 East Side Room No 5 Shivaji Chowk Murbad pin code 421 401,139
+306 - Murbad,Swami Vivekand English Medium School Murbad Room No 1 pin code 421 401,139
+307 - Murbad,Swami Vivekanand English Medium School Room No 2 Murbad pin code 421 401,139
+308 - Murbad,New English school murbad back side building north side room no 1 pin code 421 401,139
+309 - Murbad,New English school murbad back side building north side room no 2 pin code 421 401,139
+310 - Murbad,Swami Vivekananda English Medium School Room No 4 Murbad pin code 421 401,139
+311 - Zenda Naka Ambedkar Nagar Murbad,Z.P.Marathi Girl School No 2 Room No 1 Murbad New Building no.1 pin code 421 401,139
+312 - Zenda Naka Ambedkar Nagar Murbad,Z.P.Marathi Girl School New Building no.1 Room No2 Murbad pin code 421 401,139
+313 - Murbad,New English School Murbad north side Room No 1 pin code 421 401,139
+314 - Murbad,New English School Murbad north side Room No.3 pin code 421 401,139
+315 - Murbad Ambedkar nagar Sambhaji Nagar Murbad,New English School Murbad north side Room No 4 pin code 421 401,139
+316 - Murbad Ambedkar nagar Sambhaji Nagar Murbad,New English School Murbad north side Room No.5 pin code 421 401,139
+317 - Murbad Ambedkar nagar Sambhaji Nagar Murbad,Z.P.Marathi Girl School Murbad No 2 new building no.2 east side Room No 1 pin code 421 401,139
+318 - Murbad Ambedkar nagar Sambhaji Nagar Murbad,Z.P.Marathi Girl School Murbad No 2 new building no.2 east side Room No 2 pin code 421 401,139
+319 - Murbad Ambedkar nagar Sambhaji Nagar Murbad,Z.P.Marathi Girl School Murbad No 2 new building no.2 east side Room No 3 pin code 421 401,139
+320 - Shastrinagar,Z.P.School Murbad Shastri Nagar Room No. 1 pin code 421 401,139
+321 - Shastrinagar,Z.P.School Shastri Nagar Murbad Room No.2 pin code 421 401,139
+322 - Devape,Z.P.School Devape Room No.1 pin code 421 401,139
+323 - Fanasoli,Z.P.School Fanasoli Room No.1 pin code 421 401,139
+324 - Devralwadi,Z.P.School Devralwadi Room No.1 pin code 421 401,139
+325 - Vehare,Z.P.School Vehare Room No.1 pin code 421 401,139
+326 - Pasheni,Z.P. School Pasheni Room No.1 pin code 421 401,139
+327 - Kole,Z.P.School Kole New Building Room no 1 pin code 421 401,139
+328 - Masale,Z.P.School Masale - Belpada New Building Room No.2 pin code 421 401,139
+329 - Birwadi,Z.P.School Birwadi Room no 1 pin code 421 401,139
+330 - Asanoli,Z.P.Primary School Asnoli Room No.1 pin code 421 503,139
+331 - Chandap,Z.P. Primary School Chandap Room No 1 pin code 421 503,139
+332 - Yeve,Z.P.Primary School Yeve Room No.1 pin code 421 503,139
+333 - Pimpaloli,Z.P.Primary School Pimploli Room No.1 pin code 421 503,139
+334 - Vashivali,Z.P.School Vashivali Room No.1 pin code 421 401,139
+335 - Sonavale,Z.P.School Sonavale Room No.1 pin code 421 503,139
+336 - Mulagav,Z.P.School Mulgaon building no 1 Room No.1 pin code 421 503,139
+337 - Mulagav,Z.P.School Mulgaon Room No.2 pin code 421 503,139
+338 - Kanhor,"Z.P.School Kanhor, Room No.1, pin code 421 503",139
+339 - Kanhor,"Z.P.School Kanhor, Room No.2, pin code 421 503",139
+340 - Jambhale,Z.P.School Devaloli Room No.1 pin code 421 503,139
+341 - Goregaon,Z.P.Marathi & Urdu School Goregaon Room No.1 pin code 421 503,139
+342 - Kasgaon,Z.P.School Kasgaon Room No.1 pin code 421 503,139
+343 - Chinchawali,Z.P.School Chinchawali Room No.1 pin code 421 503,139
+344 - Dhavalepada,Z.P.School Dhavalepada Room No.1 pin code 421 503,139
+345 - Dhavalegaon,Z.P.School Dhavalegaon Room No.1 pin code 421 503,139
+346 - Kudsavare,Z.P.Marathi School Kudsavare Room No.1 pin code 421 503,139
+347 - Shil,Z.P.Primary School Shil Room No.1 pin code 421 503,139
+348 - Indagaon,Z.P.Primary School Indgaon Room No.1 pin code 421 503,139
+349 - Karav,Z.P. Primary School Karav Room No.1 pin code 421 503,139
+350 - Vangani,Vidya Vikas School &Jr. College Building Ground Floor Room No.1 Vangani (W) pin code 421 503,139
+351 - Vangani,Vidya Vikas School & Jr. College Building Groung Floor Room No.2 Vangani (W) pin code 421 503,139
+352 - Vangani,Vidya Vikas School Secondary School Ground Floor Room No.7 Vangani (W) pin code 421 503,139
+353 - Vangani,Vidya Vikas School Secondary School Ground Floor Room No.8 Vangani (W) pin code 421 503,139
+354 - Vangani,Vidya Vikas School & Jr. College Ground Mandap No.1 Vangani (W) pin code 421 503,139
+355 - Vangani,"Vidya Vikas School, Secondary School, Ground Mandap No.2 Vangani (W) pin code 421 503",139
+356 - Vangani,"Vidya Vikas School, Secondary School, Ground Mandap No.3 Vangani (W) pin code 421 503",139
+357 - Vangani,"Mahatma Phule Vidya Mandir Vangani Room No. 3 Near Vangani Railway Station,pin code 421 503",139
+358 - Vangani,"Mahatma Phule Vidya Mandir Vangani Room No. 4 Near Vangani Railway Station,pin code 421 503",139
+359 - Vangani,Z.P.Marathi School no 2 Vanganigaon (E) ground floor Room No.2 pin code 421 503,139
+360 - Vangani,Z.P.Marathi School no 2 Vanganigaon ground floor room no. 3 pin code 421 503,139
+361 - Vangani,"Z.P. Marathi School no 2 Vanganigaon (E),Ground floor Room No. 1 pin code 421 503",139
+362 - Done,"Z.P.Marathi School Done, Room No. 1 pin code 421 503",139
+363 - Done,Z.P.Marathi School Done room no 2 pin code 421 503,139
+364 - Charagaon (Sambari),Zp Primary School Chargaon Building no 1 (north) Room No 1 pin code 421 503,139
+365 - Boradapada,Z.P. School Boradpada Room No. 1 pin code 421 503,139
+366 - Kuderan,"Z.P. School Kuderan, Room No. 1 pin code 421 503",139
+367 - Dharol,"Z.P. Primary School, Dharol, Room No. 1 pin code 421 503",139
+368 - Sasane,"Z.P. School Sasane,Room No. 1 pin code 421 401",139
+369 - Shiravali,"Z.P. School Shiravali, South side Room No. 1 pin code 421 401",139
+370 - Shiravali Pada,"Z.P. School, Shiravali, North side Room No. 1 pin code 421 401",139
+371 - Manivali,"Z.P.School, Manivali (Shi),Room No. 1 pin code 421 401",139
+372 - Sajai,"Z.P. School Sajai,Room No. 1 pin code 421 401",139
+373 - Madkepada,"Z.P. School Madkepada,Room No. 1 pin code 421 401",139
+374 - Bhuvan,"Z.P. School, Bhuvan Room No. 1 pin code 421 401",139
+375 - Nadhai,Z.P.School Nadhai Room No. 1 pin code 421 401,139
+376 - Khateghar,Z.P.School Khateghar Room No. 1 pin code 421 401,139
+377 - Kondesakhare,Z.P.School Kondesakhare room No. 1 pin code 421 401,139
+378 - Shivle,"Z.P.School Shivle,East side Room No.1 pin code 421 401",139
+379 - Shivle,Z.P.School Shivle East side Room No. 3 pin code 421 401,139
+380 - Ambele (Bu),Z.P.School Ambele (Bu) Room No. 1 pin code 421 401,139
+381 - Umbarapada,"Z.P.School, Umbarpada Ground floor Room No. 1 pin code 421 401",139
+382 - Umbarapada,Z.P.School Umbarpada mandap in ground pin code 421 401,139
+383 - Saralagaon,"Z.P.School, Saralgaon, Room No. 1 pin code 421 401",139
+384 - Nevalapada,"Z.P.School, Nevalpada Room No. 1 pin code 421 401",139
+385 - Mohop Narayanagaon,Anaganwadi kendra Mohop pin code 421 401,139
+386 - Askot,Z.P.Primary School Askot Room No. 1 pin code 421 401,139
+387 - Sangam,Z.P. School Sangam New Building Room No. 1 pin code 421 401,139
+388 - Veluk,"Z.P.School, Veluk Room No. 1 pin code 421 401",139
+389 - Bursunge,"Z.P.School, Bursunge Room No. 1 pin code 421 401",139
+390 - Khed,"Z.P.School Khed, East side room no 1 pin code 421 401",139
+391 - Shai,"Z.P.School,Shai Room No. 1 pin code 421 401",139
+392 - Shelgaon,"Z.P.School, Shelgaon Room No. 1 pin code 421 401",139
+393 - Shiroshi,"Z.P.School, Shiroshi west side Room No. 1 pin code 421 401",139
+394 - Mal,Z.P.School Mal Room No. 1 pin code 421 401,139
+395 - Lakud pada,"Z.P.School, Lakud pada Room No.1 pin code 421 401",139
+396 - Jambhul wadi,"Z.P.School, Jambhul wadi Room No.1 pin code 421 401",139
+397 - Kochare (Bu),"Z.P.School, Kochare(Bu) Room No.1 pin code 421 401",139
+398 - Kisal,Z.P.Primary School Kisal New Building East side Ground Floor Room No. 1 pin code 421 401,139
+399 - Pargaon,"Z.P.primary School, Pargaon (Bhalkichapada) Room No. 1 pin code 421 401",139
+400 - Sakhare,"Z.P.Primary School, Sakhare New building West side Room No. 1 pin code 421 401",139
+401 - Kasgaon,Z.P.School Kasgaon no 2 Room No. 1 pin code 421 401,139
+402 - Khutal (Bangala),"Z.P.Primary School, Khutal (Bangala) Room No. 1 pin code 421 401",139
+403 - Ambele (Khu),Z.P. School Ambele (Khu) room no 1 pin code 421 401,139
+404 - Nagaon,"Z.P.School Nagaon, Room No. 2 pin code 421 401",139
+405 - Dangurle,"Z.P.School Dangurle, Room No. 1 pin code 421 401",139
+406 - Manivali (Khu),"Z.P.primary School, Manivali (vyapari) New Building Room No. 1 pin code 421 401",139
+407 - Koravale,"Z.P.School, Koravale Room No. 1 pin code 421 401",139
+408 - Koravale,Z.P.School Koravale room No. 2 pin code 421 401,139
+409 - Kalamkhande,Z.P.School Kalamkhande Room No. 1 pin code 421 401,139
+410 - Khandare,Z.P.School Khandare Room No. 1 pin code 421 401,139
+411 - Jamghar,Z.P.School Jamghar Room No. 1 pin code 421 401,139
+412 - Dahigaon,Z.P.School Dahigaon Room No. 1 pin code 421 401,139
+413 - Shelari,Z.P.School Shelari Room No. 1 pin code 421 401,139
+414 - Kedurli,Z.P. School Kedurli north side of village Room No. 1 pin code 421 401,139
+415 - Mhadas,Z.P.School Mhadas Room No. 1 pin code 421 401,139
+416 - Bandhivali,Z.P.School Bandhivali Room No. 1 pin code 421 401,139
+417 - Sakurli,Z.P.School Sakurli Room No. 1 pin code 421 401,139
+418 - Raogaon,Z.P.School Raogaon Room No. 1 pin code 421 401,139
+419 - Nhave,Z.P.School Nhave Room No. 1 pin code 421 401,139
+420 - Tondali,Z.P.School Tondali Room No. 1 pin code 421 401,139
+421 - Kachakoli,Z.P.School Kachkoli Room No. 1 pin code 421 401,139
+422 - Mohghar,Z.P.School Mohghar Room No. 1 pin code 421 401,139
+423 - Tagwadi,Z.P.School Tagwadi Room no 1 pin code 421 401,139
+424 - Patgaon,Z.P.School Patgaon Room No. 1 pin code 421 401,139
+425 - Patgaon Chandrapur Malegaon,Z.P.School Patgaon Room No. 2 pin code 421 401,139
+426 - Mhasa,Z.P.School Mhasa Room No. 1 pin code 421 401,139
+427 - Mhasa,Z.P.School Mhasa Room No. 4 pin code 421 401,139
+428 - Kanhol,Z.P.School Kanhol ground floor east side Room No. 3 pin code 421 401,139
+429 - Ambegaon,Z.P.School Ambegaon Room No. 1 pin code 421 401,139
+430 - Gavali,Z.P.School Gavali New Building south side Room No. 1 pin code 421 401,139
+431 - Agashi,Z.P.School Agashi Room No. 1 pin code 421 401,139
+432 - Ambetembhe,Z.P.School Ambetembhe Room No. 1 pin code 421 401,139
+433 - Jambhurde,"Z.P.School, Jambhurde Room No. 1 pin code 421 401",139
+434 - Khanivare,Z.P.School Khanivare east side Room No. 1 pin code 421 401,139
+435 - Narivali,"Z.P.School Narivali, South side Room No. 1 pin code 421 401",139
+436 - Narivali,Z.P.School Narivali South side Room No. 3 pin code 421 401,139
+437 - Uchale,Z.P.School Uchale Room No. 1 pin code 421 401,139
+438 - Talekhal,Z.P.School Talekhal Room No. 1 pin code 421 401,139
+439 - Dehari,Anganwadi Dehari Room No. 1 pin code 421 401,139
+440 - Tulai,Z.P.School Tulai Room No. 2 pin code 421 401,139
+441 - Kalambhad (Mu),Z.P.School Kalambhad (Mu) Room No. 1 pin code 421 401,139
+442 - Kalambhe,Z.P.School Kalambhe Room No. 1 pin code 421 401,139
+443 - Thune,Z.P.School Thune Room No. 1 pin code 421 401,139
+444 - Kanharle,Z.P.School Kanharle Room No. 1 pin code 421 401,139
+445 - Vidhe,Z.P.School Vidhe Room No. 1 pin code 421 401,139
+446 - Majgaon,Z.P.School Majgaon Room No. 1 pin code 421 401,139
+447 - Dahivali,Z.P.School Dahivali Room No. 1 pin code 421 401,139
+448 - Nandgaon,Z.P.School Nandgaon Room No. 1 pin code 421 401,139
+449 - Khedale Talavali,Z.P.School KhedaleTalvali Room No. 1 pin code 421 401,139
+450 - Khedale Talavali,Z.P.School KhedaleTalvali (libraray) Room No. 2 pin code 421 401,139
+451 - Padale,Z.P.School Padale Room No. 1 pin code 421 401,139
+452 - Koloshi,Z.P.School Koloshi Room no 1 pin code 421 401,139
+453 - Parhe,Z.P.Primary School Parhe Kandali Room No. 1 pin code 421 401,139
+454 - Inde,Z.P.School Inde Room No. 1 pin code 421 401,139
+455 - Sayale,Z.P.School Sayale west side Room No. 1 pin code 421 401,139
+456 - Umaroli Budruk,Z.P. centre School Balegaon Umroli new building ground floor north side Room No. 1 pin code 421 401,139
+457 - Balegaon,Z.P. centre School Balegaon Umroli new building ground floor north side Room No. 2 pin code 421 401,139
+458 - Dhasai,Z.P.School Dhasai East Side Room No. 2 pin code 421 402,139
+459 - Dhasai,Z.P.School Dhasai East Side Room No. 3 pin code 421 402,139
+460 - Dhasai,Z.P.School Dhasai East Side Room No. 4 pin code 421 402,139
+461 - Ojivale,Z.P.School Ojivale Room No. 1 pin code 421 401,139
+462 - Alyani,Z.P. School Alyani Room no 1 pin code 421 401,139
+463 - Manivali,Z.P.School Manivali (gho)Room No. 1 pin code 421 401,139
+464 - Tokavade,Z.P.Digital centre School Tokavade new building Room No. 1 pin code 421 401,139
+465 - Khapari,Z.P.School Khapari Room No. 1 pin code 421 401,139
+466 - Chasole,Z.P.School Chasole Room No. 2 pin code 421 401,139
+467 - Jadai,Z.P.Primary School Jadai Room No. 1 pin code 421 401,139
+468 - Talegaon,Z.P.Primary School Talegaon Room No. 1 pin code 421 401,139
+469 - Anandapur,Z.P.School Anandpur Room No. 1 pin code 421 401,139
+470 - Kharshet,Z.P.School Umroli (Kharshet) Room No. 1 pin code 421 401,139
+471 - Fangloshi,Z.P.School Fangloshi Room No. 1 pin code 421 401,139
+472 - Merdi,Z.P.School Merdi Room No.1 pin code 421 401,139
+473 - Modhalwadi,Z.P.School Modhalwadi Room No. 1 pin code 421 401,139
+474 - Nyahadi,Z.P. Kendra School Nyahadi Room No. 1 pin code 421 401,139
+475 - Khutal (Ba),"Z.P. School Khutal Baragaon, Room No. 1 pin code 421 401",139
+476 - Shivechiwadi,Z.P.Primary School Shivechiwadi Gruond floor Room no 1 pin code 421 401,139
+477 - Fangane,Z.P.School Fangane Room No. 1 pin code 421 401,139
+478 - Avalegaon,Z. P. School Avalegaon Room No. 1 pin code 421 401,139
+479 - Zadaghar,Z. P. School Zadghar east side Room No. 1 pin code 421 401,139
+480 - Zadaghar,Z. P. School Zadghar Room No. 3 pin code 421 401,139
+481 - Karchonde,Z. P. School Karchonde Room No. 1 pin code 421 401,139
+482 - Talavali (Ba),Z. P. School Talavali (Baragaon) Room No. 1 pin code 421 401,139
+483 - Vaishakhare,Z.P.School Vaishakhare west side Room No.3 pin code 421 401,139
+484 - Vaishakhare,Z.P.School Vaishakhare west side Room No. 2 pin code 421 401,139
+485 - Pendhari,Z. P. School Pendhari Room No. 1 pin code 421 401,139
+486 - Eklahare,Z. P. School Eklahare Room No. 1 pin code 421 401,139
+487 - Shirapur,Z. P. primary School Dhasaiwadi Room No. 1 pin code 421 401,139
+488 - Chafe,Z.P.Thane primary vidyamandir School Chafe Room No. 1 pin code 421 401,139
+489 - Mahaj,Z.P.School Mahaj Room No. 1 pin code 421 401,139
+490 - Khevare,Aganwadi Building Khevaregaon Room No. 1 pin code 421 401,139
+491 - Umaroli (Khu ),Z. P. School Umroli Khurd Room No. 1 pin code 421 401,139
+492 - Dudhanoli,Z. P. School Dudhanoli Room No. 1 pin code 421 401,139
+493 - Khopivali,Z.P.School Khopivali west side Room No. 1 pin code 421 401,139
+494 - Sidhdagad/ Khanivare,Z. P. School Khanivare east side Room No. 2 pin code 421 401,139
+495 - Dongarnhave,Z. P. School Dongarnhave east side Room No. 1 pin code 421 401,139
+496 - Dongarnhave,Z.P.School Dongarnahve east side Room No. 2 pin code 421 401,139
+497 - Dhanki,Z.P. school Dhanki room no 1 pin code 421 401,139
+498 - Milhe,Z. P.School Milhe New building Room No. 1 pin code 421 401,139
+499 - Milhe,Z. P.School MilheNew building Room No. 2 pin code 421 401,139
+500 - Kalambhand (Bho),Z. P.School Kalambhad (Bho) West side Room No. 1 pin code 421 401,139
+501 - Durgapur,Z. P. School Durgapur New Building Room No. 1 pin code 421 401,139
+502 - Madh,Z. P. School Madh Room No. 1 pin code 421 401,139
+503 - Ramapur,Z. P.School Rampur Room No. 1 pin code 421 401,139
+504 - Sonavale,Z. P. School Sonavale South side Room No. 3 pin code 421 401,139
+505 - Sonagaon,Z. P. School Songaon Room No. 1 pin code 421 401,139
+506 - Palu,Z. P. School Palu Room No. 1 pin code 421 401,139
+507 - Singapur,Z. P. School Singapur Room No. 2 pin code 421 401,139
+508 - Moroshi,Z. P. School Moroshi Room No. 1 pin code 421 401,139
+509 - Fangulgavhan,Z.P. School Fangulgavhan Room No. 1 pin code 421 401,139
+510 - Savarne,Z. P.School Savarne Room No. 1 pin code 421 401,139
+511 - Valhivare,Z. P. School Valhivare Room No. 1 pin code 421 401,139

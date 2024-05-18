@@ -29,41 +29,41 @@ if __name__ == "__main__":
 
 #2023
 
-# # URL of the page to scrape
-# url = "https://ceo.karnataka.gov.in/304/_gallery_/en"
+# URL of the page to scrape
+url = "https://ceo.karnataka.gov.in/304/_gallery_/en"
 
-# # Send a GET request to the URL
-# response = requests.get(url)
+# Send a GET request to the URL
+response = requests.get(url)
 
-# # Parse the HTML content
-# soup = BeautifulSoup(response.text, "html.parser")
+# Parse the HTML content
+soup = BeautifulSoup(response.text, "html.parser")
 
-# # Find all anchor tags with class 'filelist'
-# pdf_links = soup.find_all("a", class_="filelist")
+# Find all anchor tags with class 'filelist'
+pdf_links = soup.find_all("a", class_="filelist")
 
-# # Directory to save the PDFs
-# save_dir = "PDFs/Karnataka/Assembly Election 2023"
+# Directory to save the PDFs
+save_dir = "data/PDFs/KA/AE 2023"
 
-# # Create the directory if it doesn't exist
-# if not os.path.exists(save_dir):
-#     os.makedirs(save_dir)
+# Create the directory if it doesn't exist
+if not os.path.exists(save_dir):
+    os.makedirs(save_dir)
 
-# # Iterate through the links and download PDFs
-# for link in pdf_links:
-#     href = link.get("href")
-#     # Check if the link is a PDF
-#     if href.endswith(".pdf"):
-#         pdf_url = href
-#         # Download the PDF
-#         pdf_response = requests.get(pdf_url)
-#         # Extract the filename from the URL
-#         filename = href.split("/")[-1]
-#         # Save the PDF to the directory
-#         with open(os.path.join(save_dir, filename), "wb") as f:
-#             f.write(pdf_response.content)
-#             print(f"Downloaded: {filename}")
+# Iterate through the links and download PDFs
+for link in pdf_links:
+    href = link.get("href")
+    # Check if the link is a PDF
+    if href.endswith(".pdf"):
+        pdf_url = href
+        # Download the PDF
+        pdf_response = requests.get(pdf_url)
+        # Extract the filename from the URL
+        filename = href.split("/")[-1]
+        # Save the PDF to the directory
+        with open(os.path.join(save_dir, filename), "wb") as f:
+            f.write(pdf_response.content)
+            print(f"Downloaded: {filename}")
 
-# print("All PDFs downloaded successfully.")
+print("All PDFs downloaded successfully.")
 
 
 

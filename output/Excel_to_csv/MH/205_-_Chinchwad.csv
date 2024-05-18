@@ -1,0 +1,529 @@
+PS No & Name,Address,Constituency Number
+1 - Mamurdi,"St.George English Medium School, Thomus Nagar, Mamurdi, South North building, Ground Floor, Southern side Room No. 1",205
+2 - Mamurdi,"St.George English Medium School, Thomus Nagar, Mamurdi, South North building, Ground Floor, Southern side Room No. 2",205
+3 - Vikasnagar (Kiwale),"Wisdom English Medium High school, South North building, East face, Southern side Room no. 2, Vikasnagar, Kiwale",205
+4 - Mamurdi,"St.George English Medium School, Thomus Nagar, Mamurdi, South North building, Ground Floor, Southern side Room No. 3",205
+5 - Vikasnagar (Kiwale),"Wisdom English Medium High school, South North building, East face, Southern side Room no. 3, Vikasnagar, Kiwale",205
+6 - Vikasnagar (Kiwale),"Wisdom English Medium High school, South North building, East face, Southern side Room no. 4, Vikasnagar, Kiwale",205
+7 - Vikasnagar (Kiwale),"Wisdom English Medium High school, South North building, East face, Ground Floor Southern side Room no. 5, Vikasnagar, Kiwale",205
+8 - Vikasnagar (Kiwale),"Wisdom English Medium High school, South North building, East face, Ground Floor Southern side Room no. 6, Vikasnagar, Kiwale",205
+9 - Vikasnagar (Kiwale),"Wisdom English Medium School South North Western face, Ground Floor Southern side room no 2 Vikasnagar Kiwale",205
+10 - Vikasnagar (Kiwale),"Wisdom English Medium School South-North-Westface Building Ground Floor Southern side Room No. 3, Vikas Nagar Kiwale.",205
+11 - Vikasnagar (Kiwale),Wisdom English Medium School South-North-Westface Building Ground Floor Stage cloth Partition 1,205
+12 - Vikasnagar (Kiwale),Wisdom English Medium School South-North- Westface Building Ground Floor Southern sideRoom No. 4Vikas Nagar Kiwale,205
+13 - Vikasnagar (Kiwale),Wisdom English Medium School South-North- Westface Building Ground Floor Southern sideRoom No. 5 Vikas Nagar Kiwale,205
+14 - Vikasnagar (Kiwale),Wisdom English Medium School South-North-Westface Building Ground Floor Southrthern sideRoom No. 6 Vikas Nagar Kiwale,205
+15 - Vikasnagar (Kiwale),Wisdom English Medium School South-North-Westface Building Ground Floor Southrthern sideRoom No. 7 Vikas Nagar Kiwale,205
+16 - Vikasnagar (Kiwale),"St. Joseph Bethany School, Dattanagar, Vikasnagar, East West Building, Ground Floor, No. 1 from East",205
+17 - Vikasnagar (Kiwale),"St. Joseph Bethany School, Dattanagar, Vikasnagar, East West Building, Ground Floor, Room No. 2 from East",205
+18 - Vikasnagar (Kiwale),"Vidya Bhuvan School (VIBS) Pendse Colony, Vikasnagar, Kiwale, East West Building, North Face, Ground Floor, Eastern side Room No 1",205
+19 - Vikasnagar (Kiwale),"Vidya Bhuvan School (VIBS) Pendse Colony, Vikasnagar, Kiwale, East West Building, North Face, Ground Floor, Eastern side Room No 3",205
+20 - Vikasnagar (Kiwale),"Vidya Bhuvan School (VIBS) Pendse Colony, Vikasnagar, Kiwale, East West Building, North Face, Ground Floor, Eastern side Room No 2",205
+21 - Vikasnagar (Kiwale),"Vidya Bhuvan School (VIBS) Pendse Colony, Vikasnagar, Kiwale, South North Building, Ease Face, Ground Floor, Southern side Room No 4",205
+22 - Vikasnagar (Kiwale),"Vidya Bhuvan School (VIBS) Pendse Colony, Vikasnagar, Kiwale, South North Building, East Face, Ground Floor, Southern side Room No 2",205
+23 - Vikasnagar (Kiwale),"Vidya Bhuvan School (VIBS) Pendse Colony, Vikasnagar, Kiwale, South North Building, East Face, Ground Floor, Southern side Room No 3",205
+24 - Kiwalegaon,"P.C.M.C. Primary school no.96 Kiwale, North South Building, East Face, Ground Floor, Southern side, Room No 4",205
+25 - Kiwalegaon,"P.C.M.C. Primary school no.96 Kiwale, North South Building, East Face, Ground Floor, Southern side, Room No 2",205
+26 - Kiwalegaon,"P.C.M.C. Primary school no.96 Kiwale, North South Building, East Face, Ground Floor, Southern side, Room No 5",205
+27 - Kiwalegaon,"P.C.M.C. Primary school no.96 Kiwale, North South Building, East Face, Ground Floor, Southern side, Room No 6",205
+28 - Ravet Gaon,"Late Babanrao Bhondave Primary School, Rawet School no.97, Rawet gaon. East West, North face building, Ground Floor, Western side, Room No 2",205
+29 - Ravet Gaon,"Late Babanrao Bhondave Primary School, Rawet School no.97, Rawet gaon. East West, North face building,Ground Floor, Western side, Room No 1",205
+30 - Ravet Gaon,"Late Babanrao Bhondave Primary School, Rawet School no.97, Rawet gaon. East West, North face building,Ground Floor, Principal Office",205
+31 - Ravet Gaon,City Pride School Rawet East Facing Building Ground Floor Room No 1 From North,205
+32 - Ravet Gaon,City Pride School Rawet East Facing Building Ground Floor Room No 2 From North,205
+33 - Ravet Gaon,City Pride School Rawet East Facing Building Ground Floor Room No 3 From North,205
+34 - Ravet Gaon,City Pride School Rawet East Facing Building Ground Floor Room No 4 From North,205
+35 - Ravet Gaon,City Pride School Rawet East Facing Building Room No 1 From South,205
+36 - Ravet Gaon,City Pride School Ravet East Facing Building Room No 2 From South,205
+37 - Ravet Gaon,City Pride School Ravet East Facing Building Room No 3 From South,205
+38 - Ravet Gaon,City Pride School Ravet East Facing Building Room No 4 From South,205
+39 - Ravet Gaon,City Pride School Rawet East Facing Building 2 Ground Floor Room No 1 From North,205
+40 - Ravet Gaon,City Pride School Rawet East Facing Building 2 Ground Floor Room No 2 From North,205
+41 - Ravet Gaon,City Pride School Ravet East Facing Building 2 Room No 3 From South,205
+42 - Ravet Gaon,City Pride School Ravet East Facing Building 2 Room No 4 From South,205
+43 - Ravet Gaon,City Pride School Rawet East Facing Building 3 Ground Floor Room No 2 From North,205
+44 - Ravet Gaon,"Creative Public School, Ravet Eastern side Ground floor room no 7",205
+45 - Ravet Gaon,"Creative Public School, Ravet Eastern side Ground floor room no 8",205
+46 - Ravet Gaon,"Creative Public School, Ravet Eastern side Ground floor room no 9",205
+47 - Ravet Gaon,"Creative Public School, Ravet Eastern side Ground floor room no 10",205
+48 - Ravet Gaon,"Creative Public School, Ravet Eastern side Ground floor room no 4",205
+49 - Ravet Gaon,"Creative Public School, Ravet Eastern side Ground floor room no 6",205
+50 - Bhoir Nagar,"Jaywant Primary School, Jaywant Secondary Highschool, Bhoirnagar, East West, North face building, Ground Floor, Eastern side Room no.1",205
+51 - Bhoir Nagar,"Jaywant Primary School, Jaywant Secondary Highschool, Bhoirnagar, East West, North face building, Ground Floor, Eastern side Room no.2",205
+52 - Bhoir Nagar,"Jaywant Primary School, Jaywant Secondary Highschool, Bhoirnagar, East West, North face building, Ground Floor, Eastern side Room no.3",205
+53 - Bhoir Nagar,"Jaywant Primary School, Jaywant Secondary Highschool, Bhoirnagar, East West, North face building,Ground Floor, Eastern side Room no.4",205
+54 - Bhoir Nagar,"Vasantdada Patil Building, Opposite Premlok Park Hospital, Premlok Park, Room No 1",205
+55 - Bhoir Nagar,"Late Manisha Bhoir Virangula Kendra, Opposite Premlok Park Hospital, Behind Chatrapati Shahu Maharaj Gym, Premlok Park Room No 1",205
+"56 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.4",205
+"57 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.5",205
+"58 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.7",205
+"59 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.8",205
+"60 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.9",205
+"61 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.10",205
+"62 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.11 (Hall)",205
+"63 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.12",205
+"64 - Premlok Park, Dalvinagar","Mahatama fule English Medium school S.N.Bldg, North face bldg, Ground Floor, Southern side, R.no.13",205
+65 - Walhekarwadi,"Matru Vidyalaya, Ahernagar, (Walhekarwadi), East West building, South Face, Ground floor, Western side, Room no.3",205
+66 - Walhekarwadi,"Matru Vidyalaya, Ahernagar, (Walhekarwadi), East West building, South Face, Ground floor, Western side, Room no.4",205
+67 - Walhekarwadi,"Matru Vidyalaya, Ahernagar, (Walhekarwadi), South North building, West Face, Northern side, Room no.1",205
+68 - Walhekarwadi,"Matru Vidyalaya, Ahernagar, (Walhekarwadi), South North building, West Face, Northern side, Room no.2",205
+69 - Walhekarwadi,"Matru Vidyalaya, Ahernagar, (Walhekarwadi), East West building, South Face, Ground floor, Western side, Room no.5",205
+70 - Walhekarwadi,"Community Hall, PMRDA, Sector no 30/32, Walhekarwadi, Chintamani Chowk, Room No 1",205
+71 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 1",205
+72 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Hall Partition Room No 1",205
+73 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 2",205
+74 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 3",205
+75 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 4",205
+76 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 5",205
+77 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 7",205
+78 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Southern Side, Room No 8",205
+79 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Hall, Southern Side, Partition Room No 2",205
+80 - Walhekarwadi,"Gurumaiyya Primary School, ChinchwadeNagar, South North Building, Ground Floor, Souther Side, Room No 9",205
+81 - Walhekarwadi,"Adarsh Balak Mandir, (Shri Vrudhheshwar Shikshan Prasarak MAndal) ,Bijli nagar, Chinchwad, East-West Building, Ground Floor, Room no 1 from East",205
+82 - Punavale,"Sau Anusaya Oval Secondary School Punawale, Ground Floor Room No.1",205
+83 - Punavale,"Sau Anusaya Oval Secondary School Punawale, Ground Floor Room No.2",205
+84 - Punavale,"Sau Anusaya Oval Secondary School Punawale, Ground Floor Room No.3",205
+85 - Punavale,"PCMC Public School Kai Diliprao Ekanath Dhawale Primary School , Punawale, East West Building, Ground Floor, Room No 2 from West.",205
+86 - Punavale,"PCMC Public School Kai Diliprao Ekanath Dhawale Primary School , Punawale, East West Building, Ground Floor, Room No 1 from West.",205
+87 - Punavale,"PCMC Public School Kai Diliprao Ekanath Dhawale Primary School , Punawale, East West Building, Ground Floor, Room No 3 from West.",205
+88 - Punavale,"PCMC Public School Kai Diliprao Ekanath Dhawale Primary School , Punawale, East West Building, Ground Floor, Room No 5 from West. Head Master Office.",205
+89 - Punavale,"PCMC Public School Kai Diliprao Ekanath Dhawale Primary School , Punawale, East West Building, Ground Floor, Room No 4 from West.",205
+90 - Walhekarwadi,"Baban Rama Bhondve Vidya Mandir, (Prerana Shikshan Sanstha) Walhekarwadi, East West Building, Ground Floor Northern side Room No 1",205
+91 - Walhekarwadi,"Baban Rama Bhondve Vidya Mandir, (Prerana Shikshan Sanstha) Walhekarwadi, East West Building, Ground Floor Northern side Room No 2",205
+92 - Walhekarwadi,"Baban Rama Bhondve Vidya Mandir, (Prerana Shikshan Sanstha) Walhekarwadi, North South Building, Ground Floor Room No 4",205
+93 - Walhekarwadi,"Baban Rama Bhondve Vidya Mandir, (Prerana Shikshan Sanstha) Walhekarwadi, North South Building, Ground Floor Room No 1",205
+94 - Walhekarwadi,"Baban Rama Bhondve Vidya Mandir, (Prerana Shikshan Sanstha) Walhekarwadi, North South Building, Ground Floor Room No 2",205
+95 - Walhekarwadi,"Baban Rama Bhondve Vidya Mandir, (Prerana Shikshan Sanstha) Walhekarwadi, North South Building, Ground Floor Room No 3",205
+96 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.4",205
+97 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.5",205
+98 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.6",205
+99 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.7",205
+100 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.8",205
+101 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.9",205
+102 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.10",205
+103 - Chinchwadgaon,"Guru Ganesh Balak mandir and Seth Ratilala Gosaliya Shishuvihar Chinchwad Get No.1 South-North Building, West Face, Stone Building, Ground floor, Southern side Room No.11",205
+104 - Chinchwadgaon,"Sau. Tarabai Shankarlal Mutha, Girls Highschool & Jr College, Chinchwad Gaon, East West building, Ground Floor, Room No 6 from East",205
+105 - Chinchwadgaon,"Sau. Tarabai Shankarlal Mutha, Girls Highschool & Jr College, Chinchwad Gaon, East West building, Ground Floor, Room No 7 from East",205
+106 - Chinchwadgaon,"Sau. Tarabai Shankarlal Mutha, Girls Highschool & Jr College, Chinchwad Gaon, East West building, Ground Floor, Room No 1 from West",205
+107 - Chinchwadgaon,"Sau. Tarabai Shankarlal Mutha, Girls Highschool & Jr College, Chinchwad Gaon, East West building, Ground Floor, Room No 2 from West",205
+108 - Chinchwadgaon,"Sau. Tarabai Shankarlal Mutha, Girls Highschool & Jr College, Chinchwad Gaon, North-South building, Ground Floor, Room No 3 from South (Waiting Room)",205
+109 - Chinchwadgaon,"Acharya Shri Anand Rushiji English Medium School, chinchwad, East West Building, Ground Floor, Room No 8 from East.",205
+110 - Chinchwadgaon,"Acharya Shri Anand Rushiji English Medium School, chinchwad, East West Building, Ground Floor, Room No 7 from East.",205
+111 - Chinchwadgaon,"Acharya Shri Anand Rushiji English Medium School, chinchwad, East West Building, Ground Floor, Room No 1 from West.",205
+112 - Chinchwadgaon,"Acharya Shri Anand Rushiji English Medium School, chinchwad, East West Building, Ground Floor, Room No 2 from West.",205
+113 - Chinchwadgaon,"Shri.Fattechand Jain School And Junior College, Gate No. 2, South Facing Building, Ground Floor West Room No.1 (South facing)",205
+114 - Chinchwadgaon,"Shri Fattechand Jain High School & Jr. College Gate No. 2, North-South Building, Ground floor, Room No. 2 from North.",205
+115 - Chinchwadgaon,"Shri Fattechand Jain High School & Jr. College Gate No. 2, North-South Building, Ground floor, Room No. 3 from North",205
+116 - Chinchwadgaon,"Shri Fattechand Jain High School & Jr. College Gate No. 2, North-South Building, Ground floor, Room No. 4 from North",205
+117 - Chinchwadgaon,"Shri Fattechand Jain High School & Jr. College Gate No. 2, North-South Building, Ground floor, Room No. 1 from West (North facing)",205
+118 - Chinchwadgaon,Jain Fattechand Vidyalaya Gate No 2 Ground Floor North Side Room No 2,205
+119 - Chinchwadgaon,Jain Fattechand Vidyalaya Gate No. 2 Ground Floor East Side Room No. 1,205
+120 - Chinchwadgaon,Jain Fattechand Vidyalaya Gate No. 2 Ground Floor East Side Room No. 2,205
+121 - Chinchwadgaon,"Shikshan Prasarak Mandal New English School, Chinchwad, South North building, Southern side Room no. 1",205
+122 - Chinchwadgaon,"Shikshan Prasarak Mandal New English School, Chinchwad, South North building, Southern side Room no. 2",205
+123 - Chinchwadgaon,"Shikshan Prasarak Mandal New English School, Chinchwad, South North building, Southern side Room no. 3",205
+124 - Chinchwadgaon,"PCMC's Hutatma Chaphekar Vidyalaya, Boy-Girls New Building, Chinchwad, East West Building, Ground Floor, North Face Room No 1 (Principal Office)",205
+125 - Chinchwadgaon,"P.C.M.C. Hutatma Chaphekar Vidhyalaya, Boys & Girls old building, Chinchwad, New building, Room no.1",205
+126 - Chinchwadgaon,"P.C.M.C. Hutatma Chaphekar Vidhyalaya, Boys & Girls old building, Chinchwad, New building, Room no.2",205
+127 - Chinchwadgaon,"PCMC Public School , Hutatma Chaphekar Vidyamandir, Urdu Primary School, Chinchwad Gaon, South North Building, Ground Floor, Room No 1 From South, (Hall)",205
+128 - Chinchwadgaon,"PCMC Public School , Hutatma Chaphekar Vidyamandir, Urdu Primary School, Chinchwad Gaon, South North Building, Ground Floor, Room No 2 From South, (Hall)",205
+129 - Chinchwadgaon,"Krushanji Laxman Chinchwade Patil Abhyasika and Spardha Pariksha Kendra, Chinchwadgaon,Ground Floor Parking cloth Partition room No 1",205
+130 - Chinchwadgaon,"Krushanji Laxman Chinchwade Patil Abhyasika and Spardha Pariksha Kendra, Chinchwadgaon, Ground Floor Parking cloth Partition room No 2",205
+131 - Chinchwadgaon,"Fattechand Jain Highschool & Jr.College, Chinchwad, Gate No.4, East West Building, South Face, Western side Room No.3",205
+132 - Chinchwadgaon,"Fattechand Jain Highschool & Jr.College, Chinchwad, Gate No.4, East West Building, South Face, Western side Room No.5",205
+133 - Talera nagar,"poddar International School, Kakadepark, Chinchwad, Ground Floor, Southern Side, Room No. 1 (6)",205
+134 - Talera nagar,"poddar International School, Kakadepark, Chinchwad, Ground Floor, Southern Side, Room No. 3 (11)",205
+135 - Talera nagar,"poddar International School, Kakadepark, Chinchwad, Ground Floor, Southern Side, Room No. 4 (12)",205
+136 - Talera nagar,"poddar International School, Kakadepark, Chinchwad, Ground Floor, Northern Side, Room No. 5 (13)",205
+137 - Talera nagar,"poddar International School, Kakadepark, Chinchwad, Ground Floor, Northern Side, Room No. 6 (14)",205
+138 - Talera nagar,"Poddar International School, Kakadepark, Chinchwad,East- west building Ground Floor, Room No. 1 From west.",205
+139 - Talera nagar,"Poddar International School, Kakadepark, Chinchwad,North -South building, Canteen - parking area, Ground Floor, Room No. 1 From North- Cloth partition.",205
+140 - Talera nagar,"Poddar International School, Kakadepark, Chinchwad,North -South building, Canteen - parking area, Ground Floor, Room No. 2 From North- Cloth partition.",205
+141 - Talera nagar,"Poddar International School, Kakadepark, Chinchwad,North -South building, Canteen - parking area, Ground Floor, Room No. 3 From North- Cloth partition.",205
+142 - Talera nagar,P.C.M.C.'s Shivaji alias Nana Rambhau Bhoir Cultural Hall Keshavnagar Ground Floor Cloth Partition Room No. 1,205
+143 - Talera nagar,P.C.M.C.'s Shivaji alias Nana Rambhau Bhoir Cultural Hall Keshavnagar Ground Floor Cloth Partition Room No. 2,205
+144 - Keshavnagar,P.C.M.C.'s Shivaji alias Nana Rambhau Bhoir Cultural Hall Keshavnagar Ground Floor Cloth Partition Room No. 3,205
+145 - Keshavnagar,P.C.M.C.'s Shivaji alias Nana Rambhau Bhoir Cultural Hall Keshavnagar Ground Floor cloth Partition Room No. 4,205
+146 - Keshavnagar,"""SUKHI BHAWAN"" created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side Room No.1",205
+147 - Keshavnagar,"SUKHI BHAWAN created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side Room No.2",205
+148 - Keshavnagar,"SUKHI BHAWAN created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side Room No.3",205
+149 - Keshavnagar,"SUKHI BHAWAN created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side Room No.4",205
+150 - Keshavnagar,"SUKHI BHAWAN created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side cloth Partition No.5",205
+151 - Keshavnagar,"SUKHI BHAWAN created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side cloth Partition No.6",205
+152 - Keshavnagar,"SUKHI BHAWAN created by Kalyan Prathisthan Keshavnagar,Chinchwad.Parking Floor, From East side cloth Partition No.7",205
+153 - Chinchwadgaon,"Krantivir Chafekar Vidyalaya, Chinchwad, East West building, Ground floor, Eastern side Room no.1",205
+154 - Chinchwadgaon,"Krantivir Chafekar Vidyalaya, Chinchwad, East West building, Ground floor, Eastern side Room no.2",205
+155 - Chinchwadgaon,"Krantivir Chafekar Vidyalaya, Chinchwad, East West building, Ground floor, Eastern side Room no.3",205
+156 - Chinchwadgaon,"Krantivir Chafekar Vidyalaya, Chinchwad, East West building, Ground floor, Eastern side Room no.4",205
+157 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.1",205
+158 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.3",205
+159 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.4",205
+160 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.5",205
+161 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.6",205
+162 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.7",205
+163 - Vijaynagar Kalewadi,"Nirmal Bethany English School, Vijaynagar, Kalewadi, South North building, Ground floor, Eastern side Room no.1",205
+164 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.1",205
+165 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.3",205
+166 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.4",205
+167 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.5",205
+168 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.6",205
+169 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.7",205
+170 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.8",205
+171 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.9",205
+172 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Northern side Room no.10",205
+173 - Vijaynagar Kalewadi,"Alphansa Highschool, Vijaynagar, Kalewadi, South North building, East Face, Ground floor, Southern side Room no. 1 (Activity Room)",205
+174 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.1",205
+175 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.2",205
+176 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.3",205
+177 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.4",205
+178 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.5",205
+179 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.6",205
+180 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.7",205
+181 - Kalewadi,"B.T. Memorial English Medium School ( OamScents High school) South-North Building, Ground floor, Southside Class room no.8",205
+182 - Kalewadi,"P.C.M.C.'s School no.56/2, Kalewadi, Old building Ground floor, Southern side Room no.-1",205
+183 - Kalewadi,"P.C.M.C.'s School no.56/2, Kalewadi, Old building Ground floor, Southern side Room no.-2",205
+184 - Kalewadi,"P.C.M.C.'s School no.56/2, Kalewadi, Old building Ground floor, Southern side Room no.-3",205
+185 - Kalewadi,"PCMC Primary School 56/1, PawanaNagar, Kalewadi, near BRT Road, Ground Floor Parking Shed No 1",205
+186 - Kalewadi,"PCMC Primary School 56/1, PawanaNagar, Kalewadi, near BRT Road, Ground Floor cloth Partition Room No 2",205
+187 - Kalewadi,"P.C.M.C.'s Urdu School Kalewadi, New building Ground floor, Southern side Room no. 2",205
+188 - Kalewadi,"P.C.M.C.'s Urdu School Kalewadi, New building Ground floor, Southern side Room no. 3",205
+189 - Kalewadi,"M.M.School (Marathwada Mitra mandal ) kalewadi, Parking (Ground Floor) West cloth Partition Room No.1",205
+190 - Kalewadi,M.M.School (Marathwada Mitra mandal ) kalewadi (Ground Floor) cloth Partition RoomNo.2,205
+191 - Kalewadi,M.M.School (Marathwada Mitra mandal ) kalewadi (Ground Floor) cloth Partition Room No.3,205
+192 - Kalewadi,M.M.School (Marathwada Mitra mandal ) kalewadi (Ground Floor) cloth Partition Room.4,205
+193 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, South Face Western side Room No 1",205
+194 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, South Face Western side Room No 3",205
+195 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, South Face Western side Room No 4",205
+196 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, South Face Western side Room No 5",205
+197 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, North Face Eastern side Room No 1",205
+198 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, North Face Eastern side Room No 2",205
+199 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, North Face Eastern side Room No 3",205
+200 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, North Face Eastern side Room No 4",205
+201 - Kalewadi,"Babys English HighSchool, TapkirNagar, Kalewadi, East West building, North Face Eastern side Room No 5",205
+202 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon East West Building, Ground Floor, East Side Room No. 1",205
+203 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon East West Building, Ground Floor, East Side Room No. 2",205
+204 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon East West Building, Ground Floor, East Side Room No. 3 (Principal's Office)",205
+205 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon East West Building, Ground Floor, East Side Room No. 4 (Principal's Office)",205
+206 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon East West Building, Ground Floor, Room No. 5 from East",205
+207 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon East West Building, Ground Floor, East Side Room No. 6",205
+208 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon, Ground Floor, South Side Room No. 1",205
+209 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon, Ground Floor, South Side Room No. 2",205
+210 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon, Ground Floor, South Side Room No. 3",205
+211 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No 60/1, Thergao, Ground Floor, North Room No. 4",205
+212 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No 60/1, Thergao, Ground Floor, North Room No.5",205
+213 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon north Building, Ground Floor, East Side Room No. 1",205
+214 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon North face Building, Ground Floor, East Side Room No. 2",205
+215 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon North face Building, Ground Floor, East Side Room No. 3",205
+216 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon North face Building, Ground Floor, East Side Room No. 4",205
+217 - Thergaon,"Yashwantrao Chavan P.C.M.C's School No. 60/1, Thergaon North face Building, Ground Floor, East Side Room No. 5",205
+218 - Thergaon,"Sancheti Primary and Secondary School, Thergaon, South North Budilding, Ground Floor, Southern side Room No. 3",205
+219 - Thergaon,"Sancheti Primary and Secondary School, Thergaon, South North Budilding, Ground Floor, Southern side Room No. 6",205
+220 - Thergaon,"Sancheti Primary and Secondary School, Thergaon, South North Budilding, Ground Floor, Southern side Room No. 4",205
+221 - Thergaon,"Sancheti Primary and Secondary School, Thergaon, South North Budilding, Ground Floor, Southern side Room No. 5",205
+222 - Thergaon,"Kantilal Khivansara Vidyalaya, English Medium School, Thergaon, East West Building, North face, Ground floor, Western side, Room No. 1",205
+223 - Thergaon,"Kantilal Khivansara Vidyalaya, English Medium School, Thergaon, East West Building, North face, Ground floor, Western side, Room No. 2",205
+224 - Thergaon,"Kantilal Khivansara Vidyalaya, English Medium School, Thergaon, East West Building, North face, Ground floor, Western side, Room No. 3",205
+225 - Thergaon,"Kantilal Khivansara Vidyalaya, English Medium School, Thergaon, East West Building, North face, Ground floor, Western side, Room No. 4",205
+226 - Thergaon,"Khivansara Patil Vidyalaya, Thergaon, Kanyashala, North South building, East Face, Ground floor, Northern side Room no.1",205
+227 - Thergaon,"Khivansara Patil Vidyalaya, Thergaon, Kanyashala, North South building, East Face, Ground floor, Northern side Room no.2",205
+228 - Thergaon,"Khivansara Patil Vidyalaya, Thergaon, Kanyashala, North South building, East Face, Ground floor, Northern side Room no.3",205
+229 - Kalewadi,"Vidyadeep Shikshan Society, Taibai Rajwade Pre.Primary & Secondary School (Mane Highschool, Rajwade nagar, Kalewadi) South North building, West Face, Ground floor Southern side Room no.1",205
+230 - Kalewadi,"Vidyadeep Shikshan Society, Taibai Rajwade Pre.Primary & Secondary School (Mane Highschool, Rajwade nagar, Kalewadi) South North building, West Face, Ground floor Southern side Room no.2",205
+231 - Kalewadi,"Vidyadeep Shikshan Society, Taibai Rajwade Pre.Primary & Secondary School (Mane Highschool, Rajwade nagar, Kalewadi) South North building, West Face, Ground floor Southern side Room no.4",205
+232 - Kalewadi,"Dnyeshwari Shikshan Prasarak Mandal, Parvati English Medium School, JyotibaNagar, Kalewadi, South North Building, Ground Floor, Northern side Room No. 1",205
+233 - Kalewadi,"Dnyeshwari Shikshan Prasarak Mandal, Parvati English Medium School, JyotibaNagar, Kalewadi, South North Building, Ground Floor, Northern side Room No. 2",205
+234 - Kalewadi,"Dnyeshwari Shikshan Prasarak Mandal, Parvati English Medium School, JyotibaNagar, Kalewadi, South North Building, Ground Floor, Northern side Room No. 3",205
+235 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Northern side Room no.1 (17)",205
+236 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Northern side Room no.2 (18)",205
+237 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Northern side Room no.3 (19)",205
+238 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Eastern side Room no.1 (21)",205
+239 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Eastern side Room no.2 (22)",205
+240 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Eastern side Room no.3 (23)",205
+241 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, North Face, Ground floor, Eastern side Room no.4 (24)",205
+242 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, South Face, Ground floor, Western side Room no.1",205
+243 - Tapkirnagar,"Smt.Laxmibai Tapkir Secondary & Higher Secondary Highschool, Tapkirnagar, East West building, South Face, Ground floor, Western side Room no.2",205
+244 - Kirtinagar Thergaon,"The New Mellenium English Medium School, Thergaon, (Kirtinagar), Ground Floor Room no.1",205
+245 - Kirtinagar Thergaon,"The New Mellenium English Medium School, Thergaon, (Kirtinagar), Ground Floor Room no.2",205
+246 - Kirtinagar Thergaon,"The New Mellenium English Medium School, Thergaon, (Kirtinagar), Ground Floor Room no.5",205
+247 - Kirtinagar Thergaon,"The New Mellenium English Medium School, Thergaon, (Kirtinagar), Ground Floor Room no.6",205
+248 - Kirtinagar Thergaon,"The New Mellenium English Medium School, Thergaon, (Kirtinagar), Ground Floor Room no.8",205
+249 - Thergaon,"Prerana School, Thergaon. South North Building, West Face, Ground floor, Northern side Room No. 2",205
+250 - Thergaon,"Prerana School, Thergaon. South North Building, West Face, Ground floor, Northern side Room No. 3",205
+251 - Thergaon,"Prerana School, Thergaon. East West Building, North Face, Ground floor, Eastern side Room No. 1",205
+252 - Thergaon,"Prerana School, Thergaon. East West Building, North Face, Ground floor, Eastern side Room No. 2",205
+253 - Thergaon,"Prerana School, Thergaon. East West Building, North Face, Ground floor, Eastern side Room No. 3",205
+254 - Thergaon,"Prerana School, Thergaon. East West Building, North Face, Ground floor, Eastern side Room No. 4",205
+255 - Thergaon,"Prerana School, Thergaon. East West Building, North Face, Ground floor, Eastern side Room No. 5",205
+256 - Thergaon,"Prerana School, Thergaon. North South Building, East Face, Ground floor, Southern side Room No. 1",205
+257 - Thergaon,"Prerana School, Thergaon. North South Building, East Face, Ground floor, Southern side Room No. 2",205
+258 - Santoshnagar Thergaon,"PCMC Public School, NaguBhau Barane Primary School Boys & Girls 60/2, Santoshnagar, Thergaon, South North Building, East face, Ground floor, Southern side Room No. 1",205
+259 - Santoshnagar Thergaon,"PCMC Public School, NaguBhau Barane Primary School Boys & Girls 60/2, Santoshnagar, Thergaon, South North Building, East face, Ground floor, Southern side Room No. 2",205
+260 - Santoshnagar Thergaon,"PCMC Public School, NaguBhau Barane Primary School Boys & Girls 60/2, Santoshnagar, Thergaon, South North Building, East face, Ground floor, Southern side Room No. 3",205
+261 - Santoshnagar Thergaon,"PCMC Public School, NaguBhau Barane Primary School girls & boys 60/2 Santoshnagar, Thergaon, East West Building, North Face, Ground Floor Room No 1",205
+262 - Santoshnagar Thergaon,"PCMC Public School, NaguBhau Barane Primary School girls & boys 60/2 Santoshnagar, Thergaon, East West Building, North Face, Ground Floor Room No 2",205
+263 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon West Facing Building Ground Floor North Side Room No.1,205
+264 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon West Facing Building Ground Floor North Side Room No.2,205
+265 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon West Facing Building Ground Floor North Side Room No 3,205
+266 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon North Facing Building Ground Floor East From Room No.1,205
+267 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon North Facing Building Ground Floor East From Room No.2,205
+268 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon North Facing Building Ground Floor East From Room No.3,205
+269 - Santoshnagar Thergaon,Khivansara Patil Vidya Mandir of Krantivir Chafekar Memorial Committee Ganeshnagar Thergaon North Facing Building Ground Floor East From Room No.4,205
+270 - Jaimalharnagar Thergaon,"Sane Guruji Adarsha VidyaNiketan, Jai Malharnagar, Thergoan, Building no 2, East West building, South Facing, Eastern side Room no.1",205
+271 - Jaimalharnagar Thergaon,"Sane Guruji Adarsha VidyaNiketan, Jai Malharnagar, Thergoan, Building no 2, East West building, South Facing, Eastern side Room no.2",205
+272 - Jaimalharnagar Thergaon,"Sane Guruji Adarsha VidyaNiketan, Jai Malharnagar, Thergoan, Building no 2, East West building, South Facing, Eastern side Room no.3",205
+273 - Jaimalharnagar Thergaon,"Sane Guruji Adarsha VidyaNiketan, Jai Malharnagar, Thergoan, Building no 2, East West building, South Facing, Eastern side Room no.4",205
+274 - Rahatani,"P.C.M.C. School no.55, Rahatani, South North Building, Ground floor, Southern side Room No.1",205
+275 - Rahatani,"P.C.M.C. School no.55, Rahatani, South North Building, Ground floor, Southern side Room No.2",205
+276 - Rahatani,"P.C.M.C. School no.55, Rahatani, East West Building, Ground floor, Eastern side Room No.1",205
+277 - Rahatani,"P.C.M.C. School no.55, Rahatani, East West Building, Ground floor, Western facing Balwadi Room No 2",205
+278 - Rahatani,"P.C.M.C. School no.55, Rahatani, East West Building, Ground floor, Eastern side Room No.2",205
+279 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor, Parking No 1 From Eastern Side",205
+280 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor, East facing, Room No 1",205
+281 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor, Parking No 2 From Eastern Side",205
+282 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor, Parking No 3 From Eastern Side",205
+283 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor, Parking No 4 From Eastern Side",205
+284 - Rahatani,"P.C.M.C. School no.55, Rahatani, East WestBuilding, Ground floor, Eastern side Room No.3",205
+285 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor Hall Eastern Side",205
+286 - Rahatani,"Maharashi Vidya Mandir HighSchool and Junior College, Shrinagar Rahatni, Ground Floor Hall Western Side",205
+287 - Shrinagar Rahatni,"Bhikoba Tambe Primary School, Shrinagar, Rahatani, Ground Floor, Northern side R.no.2",205
+288 - Shrinagar Rahatni,"Bhikoba Tambe Primary School,, Shrinagar, Rahatani, Ground Floor, Northern side R.no.3",205
+289 - Shrinagar Rahatni,"Bhikoba Tambe Primary School,, Shrinagar, Rahatani, Ground Floor, Northern side R.no.4",205
+290 - Shrinagar Rahatni,"Bhikoba Tambe Primary School,, Shrinagar, Rahatani, Ground Floor, Northern side R.no.5",205
+291 - Shrinagar Rahatni,"Bhikoba Tambe Primary School,, Shrinagar, Rahatani, Ground Floor, Northern side R.no.6",205
+292 - Shrinagar Rahatni,"Bhikoba Tambe Primary School, Shrinagar, Rahatani, Ground floor, Eastern side Room No.1",205
+293 - Shrinagar Rahatni,"Bhikoba Tambe Primary School, Shrinagar, Rahatani, Ground floor, Eastern side Room No.2",205
+294 - Shrinagar Rahatni,"Bhikoba Tambe Primary School, Shrinagar, Rahatani, Ground floor, Eastern side Room No.3",205
+295 - Shrinagar Rahatni,"S.N.B.P. School, Rahatni, North South Building, Ground Floor, Eastern Side Room No 1",205
+296 - Shrinagar Rahatni,"S.N.B.P. School, Rahatni, North South Building, Ground Floor, Eastern Side Room No 2",205
+297 - Shrinagar Rahatni,"S.N.B.P. School, Rahatni, North South Building, Ground Floor, Eastern Side Room No 3",205
+298 - Shrinagar Rahatni,"S.N.B.P. School, Rahatni, North South Building, Ground Floor, Eastern Side Room No 4",205
+299 - Bhumakar Vasti Wakad,"Abaji Rambhau Bhumkar Primary School, Bhumkar Vasti School No 104, Wakad, East West Building, South face, Ground floor, Western side Room No.3",205
+300 - Bhumakar Vasti Wakad,"Abaji Rambhau Bhumkar Primary School, Bhumkar Vasti School No 104, Wakad,East West Building, South face, Ground floor, Western side Room No.5 (Balwadi Class)",205
+301 - Bhumakar Vasti Wakad,"Abaji Rambhau Bhumkar Primary School, Bhumkar Vasti School No 104, Wakad, East West Building, South face, Ground floor, Western side Room No.4",205
+302 - Bhumakar Vasti Wakad,"The Good Samaritan School, Wakad, South North Building, Ground Floor, Southern Side Room No 1",205
+303 - Bhumakar Vasti Wakad,"The Good Samaritan School, Wakad, South North Building, Ground Floor, Southern Side Room No 2",205
+304 - Bhumakar Vasti Wakad,"The Good Samaritan School, Wakad, South North Building, Ground Floor, Southern Side Room No 3",205
+305 - Bhumakar Vasti Wakad,"The Good Samaritan School, Wakad, South North Building, Ground Floor, Southern Side Room No 4",205
+306 - Bhumakar Vasti Wakad,"The Good Samaritan School, Wakad, South North Building, Ground Floor, Southern Side Room No 5",205
+307 - Bhumakar Vasti Wakad,"The Good Samaritan School, Wakad, South North Building, Ground Floor, Southern Side Room No 6",205
+308 - Pimple Saudagar,"P.C.M.C. Primary School no.51, Pimple Soudagar, South North Building, West Face, Ground floor, Southern side Room no.1",205
+309 - Pimple Saudagar,"P.C.M.C. Primary School no.51, Pimple Soudagar, South North Building, West Face, Ground floor, Southern side Room no.2",205
+310 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, Western Facing Building, Ground Floor, Room No 1 From North.",205
+311 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, Western Facing Building, Ground Floor, Room No 2 From North.",205
+312 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, Western Facing Building, Ground Floor, Room No 3 From North.",205
+313 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, South Facing Building, Ground Floor, Room No 2 From west.",205
+314 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, South Facing Building, Ground Floor, Room No 3 From west.",205
+315 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, South Facing Building, Ground Floor, Room No 4 From west.",205
+316 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, East Facing Building, Ground Floor, Room No 1 From west.",205
+317 - Pimple Saudagar,"New City Pride English medium School, Pimple Sudagar, North Facing Building, Ground Floor, Room No 1 From South.",205
+318 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Ground Floor Canteen Hall cloth Partition 1",205
+319 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Ground Floor Canteen Hall cloth Partition 2",205
+320 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Ground Floor, Cloth Partition room no 1",205
+321 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Ground Floor, Cloth Partition rooom 2",205
+322 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Ground Floor, Cloth Partition room 3",205
+323 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 1, Cloth Patition.",205
+324 - Pimple Saudagar,"P.C.M.C. Primary School no.51, Pimple Soudagar, South North Building, West Face, Ground floor, Southern side Room no.3",205
+325 - Pimple Saudagar,"PCMC Annasaheb magar , secondary school, Pimpale Saudagar, East West Building, South face , Ground Floor, eastern side , Room No. 1",205
+326 - Pimple Saudagar,"PCMC Annasaheb magar,secondary school,Pimpale Saudagar, East West Building, Southern face i, Ground Floor, Eastern side , Room No. 2",205
+327 - Pimple Saudagar,"P.C.M.C. Annasaheb Magar Secondary Highschool,Pimple Soudagar, South North building, West face, Ground floor, Western side Room no.3",205
+328 - Pimple Saudagar,"P. K. International English School, Pimple Saudagar, South North Building, Ground Floor Southern Side Room No 1",205
+329 - Pimple Saudagar,"P. K. International English School, Pimple Saudagar, South North Building, Ground Floor Southern Side Room No 2",205
+330 - Pimple Saudagar,"P. K. International English School, Pimple Saudagar, South North Building, Ground Floor Southern Side Room No 3",205
+331 - Pimple Saudagar,"P. K. International English School, Pimple Saudagar, South North Building, Ground Floor Southern Side Room No 4",205
+332 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 2, Cloth Patition.",205
+333 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 3, Cloth Patition.",205
+334 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 4, Cloth Patition.",205
+335 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 5, Cloth Patition.",205
+336 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 6, Cloth Patition.",205
+337 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 7, Cloth Patition.",205
+338 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 8, Cloth Patition.",205
+339 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 9, Cloth Patition.",205
+340 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 10, Cloth Patition.",205
+341 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 11, Cloth Patition.",205
+342 - Pimple Saudagar,"G.K. Gurukul, Opposite Govind Garden, Pimple Saudagar, Basement Parking, Room No 12, Cloth Patition.",205
+343 - Pimple Gurav,"Kashi Vishveshwara English Medium School, Pimple Gurav, Ground Floor, West facing room no.01",205
+344 - Pimple Gurav,"Kashi Vishveshwara English Medium School, Pimple Gurav, Ground Floor, West facing room no.02",205
+345 - Pimple Gurav,"Kashi Vishveshwara English Medium School, Pimple Gurav, Ground Floor, Eastern side Partition 01",205
+346 - Pimple Gurav,"Kashi Vishveshwara English Medium School, Pimple Gurav, Ground Floor, Southern side Partition 01",205
+347 - Pimple Gurav,"Kashi Vishveshwara English Medium School, Pimple Gurav, Ground Floor, Southern side Partition 02",205
+348 - Pimple Gurav,"Kashi Vishveshwara English Medium School, Pimple Gurav, Ground Floor, Southern side Partition 03",205
+349 - Sudharshan nagar,"Shri Sai English Medium School, Sudarshannagar, Vaiduvasti, East West Building, North Face, Ground Floor, Eastern Side Room No. 1",205
+350 - Sudharshan nagar,"Shri Sai English Medium School, Sudarshannagar, Vaiduvasti, East West Building, North Face, Ground Floor, Eastern Side Room No. 2",205
+351 - Sudharshan nagar,"Shri Sai English Medium School, Sudarshannagar, Vaiduvasti, East West Building, North Face, Ground Floor, Eastern Side Room No. 3",205
+352 - Sudharshan nagar,"Shri Sai English Medium School, Sudarshannagar, Vaiduvasti, East West Building, North Face, Ground Floor, Eastern Side Room No. 4",205
+353 - Sudharshan nagar,"Kilbil English Medium School, First class room from east side, PrabhatNagar, PimpleGurav",205
+354 - Sudharshan nagar,"Kilbil English Medium School, second class room from east side, PrabhatNagar, PimpleGurav",205
+355 - Sudharshan nagar,"Kilbil English Medium School, third class room from east side, PrabhatNagar, PimpleGurav",205
+356 - Sudharshan nagar,"Kilbil English Medium School, fourth class room from east side, PrabhatNagar, PimpleGurav",205
+357 - Sudharshan nagar,"Kilbil English Medium School, fifth class room from east side, PrabhatNagar, PimpleGurav",205
+358 - Sudharshan nagar,"Kilbil English Medium School, six class room from east side, PrabhatNagar, PimpleGurav",205
+359 - Pimple Gurav,"Secondary School Pimple Gurav, Old bldg, West face, Ground Floor, Northern side R.no.1",205
+360 - Pimple Gurav,"Secondary School Pimple Gurav, Old bldg, West face, Ground Floor, Northern side R.no.2",205
+361 - Pimple Gurav,"Secondary School Pimple Gurav, Old bldg, West face, Ground Floor, Northern side R.no.3",205
+362 - Pimple Gurav,"Secondary School Pimple Gurav, Old bldg, West face, Ground Floor, Northern side R.no.4",205
+363 - Pimple Gurav,"Secondary Highschool, PimpleGurav, Old Building Parking No 1",205
+364 - Pimple Gurav,"Pimpri Chinchwad Library, PimpleGurav, Opposite Secondary Highschool, South Face, Ground Floor, Eastern Side Room No 1",205
+365 - Pimple Gurav,"Maharashtra Rajya Kaushlya Vidyapith, Pimple Gurav, Room No 3 Cloth Partition.",205
+366 - Pimple Gurav,"Maharashtra Rajya Kaushlya Vidyapith, Pimple Gurav, Room No 4 Cloth Partition.",205
+367 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building, Ground Floor Leftside wing of Enternace gate, Staff Room",205
+368 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building, Ground Floor Leftside wing of Enternace gate, Room No 11",205
+369 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building, Ground Floor Right side wing of Enternace gate, Principal Office",205
+370 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 1 (Leftside wing of Enternace gate)",205
+371 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 2 (Leftside wing of Enternace gate)",205
+372 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 3 (Leftside wing of Enternace gate)",205
+373 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 4 (Leftside wing of Enternace gate)",205
+374 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 5 (Leftside wing of Enternace gate)",205
+375 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 6 (Leftside wing of Enternace gate)",205
+376 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 7 (Leftside wing of Enternace gate)",205
+377 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 8 (Leftside wing of Enternace gate)",205
+378 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 9 (Leftside wing of Enternace gate)",205
+379 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/1Pimplegurav, New Building No 1, Ground Floor Room No 10 (Leftside wing of Enternace gate)",205
+380 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 1 (Rightside wing of Enternace gate)",205
+381 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 2 (Rightside wing of Enternace gate)",205
+382 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 3 (Rightside wing of Enternace gate)",205
+383 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 4 (Rightside wing of Enternace gate)",205
+384 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 5 (Rightside wing of Enternace gate)",205
+385 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 6 (Rightside wing of Enternace gate)",205
+386 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 7 (Rightside wing of Enternace gate)",205
+387 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 8 (Rightside wing of Enternace gate)",205
+388 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 9 (Rightside wing of Enternace gate)",205
+389 - Pimple Gurav,"P.C.M.C. Boys & Girls School No 54/2 Pimplegurav, New Building No 2, Ground Floor Room No 10 (Rightside wing of Enternace gate)",205
+390 - Kaspte vasti Wakad,"Maruti Genu Kaspate Primary School, Kaspate Vasti School No.59, Wakad, South North Building, East Face, Ground floor, Northern side Room No.1",205
+391 - Kaspte vasti Wakad,"Maruti Genu Kaspate Primary School, Kaspate Vasti School No.59, Wakad, South North Building, East Face, Ground floor, Northern side Room No.2",205
+392 - Kaspte vasti Wakad,"Dhanraj Secondary School, (Pri Primary, Primary and Secondary) KaspateWasti, Wakad, East West North Face Building, Ground Floor, Eastern Side Room No 1",205
+393 - Kaspte vasti Wakad,"Dhanraj Secondary School, (Pri Primary, Primary and Secondary) KaspateWasti, Wakad, East West North Face Building, Ground Floor, Eastern Side Room No 2",205
+394 - Kaspte vasti Wakad,"Dhanraj Secondary School, (Pri Primary, Primary and Secondary) KaspateWasti, Wakad, East West North Face Building, Ground Floor, Eastern Side Room No 3",205
+395 - Kaspte vasti Wakad,"Dhanraj Secondary School, (Pri Primary, Primary and Secondary) KaspateWasti, Wakad, East West North Face Building, Ground Floor, Eastern Side Room No 4",205
+396 - Kaspte vasti Wakad,"Wisdom World School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 1",205
+397 - Kaspte vasti Wakad,"Wisdom World School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 2",205
+398 - Kaspte vasti Wakad,"Wisdom World School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 3",205
+399 - Kaspte vasti Wakad,"Wisdom World School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 4",205
+400 - Kaspte vasti Wakad,"Wisdom World School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 5",205
+401 - Kaspte vasti Wakad,"Wisdom World School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 6",205
+402 - Kaspte vasti Wakad,"wisdom world School,kalewadi Phata,kaspate Wasti West Face Building Ground Floor Room no 7",205
+403 - Wakad,"P.C.M.C. High School Boys & Girls, Wakad, Building no.1, South North building, West Face, Ground floor, Southern side Room no.2",205
+404 - wakad,"P.C.M.C. High School Boys & Girls, Wakad, Building no.1, Library",205
+405 - Wakad,"P.C.M.C. High School Boys & Girls, Wakad, Building no.1, South North building, West Face, Groundfloor, Southern side Room no.1",205
+406 - wakad,"P.C.M.C. High School Boys & Girls, Wakad, Building no.1, Principal Office",205
+407 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor From South Room No.1,205
+408 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor South Side Room No.2,205
+409 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor South Side Room No 3,205
+410 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor South Side Room No. 4,205
+411 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor South Side Room No. 5,205
+412 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor South Side Room No 6,205
+413 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakada West Facing Building Ground Floor South Side Room No 7,205
+414 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad West Facing Building Ground Floor South Side Room No 8,205
+415 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad North Facing Building Ground Floor North Side Room No.9,205
+416 - Wakad,P.C.M.C.'s Primary School Boys & Girls New Building Wakad North Facing Building Ground Floor North Side Room No.10,205
+417 - Wakad,"P.C.M.C.'s Primary School Boys & Girls New Building Wakad east wast building , south Facing Building Ground Floor Cloth partition Room No. 1",205
+418 - Wakad,"P.C.M.C.'s Primary School Boys & Girls New Building Wakad east wast building , south Facing Building Ground Floor Cloth partition Room No. 2",205
+419 - Wakad,Infant Jijus School Wakad Ground Floor left side Room no 1,205
+420 - Wakad,Infant Jijus School Wakad Ground Floor left side Room no 2,205
+421 - Wakad,Infant Jijus School Wakad Ground Floor left side Room no 3,205
+422 - Wakad,Infant Jesus SchoolWakad Ground Floor left side Room no 5,205
+423 - Wakad,Infant Jesus SchoolWakad Ground Floor left side Room no 4,205
+424 - Wakad,Infant Jesus SchoolWakad Ground Floor left side Room no 6,205
+425 - Wakad,"PCMC Gym, Kaverinagar, East Facing Building, Ground Floor, Room No 1",205
+426 - Wakad,"PCMC GYM, Kaveri Nagar, East Face Building, Ground Floor, Room No 2",205
+427 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking Shed No. 1",205
+428 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking cloth Partition Room No. 2",205
+429 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking cloth Partition Room No. 3",205
+430 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking cloth Partition Room No. 4",205
+431 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking cloth Partition Room No. 5",205
+432 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking cloth Partition Room No. 6",205
+433 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking, Parking cloth Partition Room No. 7",205
+434 - Wakad,"Kamal Pratishthan Mount Litera Zee School, Kaspate Wasti, Wakad, Basement Parking cloth Partition RoomNo. 8",205
+435 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, New Building, Ground floor, Eastern side Room no.1",205
+436 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South north Building, westrn facing Ground floor, Room no.1",205
+437 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, New Building, Ground floor, Eastern side Room no.2",205
+438 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, New Building, Ground floor, Eastern side Room no.3",205
+439 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, Old Building, Ground floor, South side Room no.2",205
+440 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South north Building, East facing Ground floor, South side Room no. 1",205
+441 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South north Building, East facing Ground floor, South side Room no. 2",205
+442 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South North Building, East Face, Ground Floor Southern side room No.3",205
+443 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South North Building, East Face, Ground Floor Southern side room No.4",205
+444 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South North Building, East Face, Ground Floor Primary School Principal Office",205
+445 - Pimplenilakh Vishalnagar,"Vidyavinay Niketan Vidyalaya, (Dnyanoba Chondhe School), Vishalnagar, Pimple Nilakh, South North Building, East Face, Ground Floor Primary School Computer Lab",205
+446 - Pimple Gurav,"Mar Evhenis Convent Highschool, Gajanan nagar, Pimple Gurav, South North Building, East Face, Ground floor, Southern side Room No. 1",205
+447 - Pimple Gurav,"Mar Evhenis Convent Highschool, Gajanan nagar, Pimple Gurav, South North Building, East Face, Ground floor, Southern side Room No. 2",205
+448 - Pimple Gurav,"Mar Evhenis Convent Highschool, Gajanan nagar, Pimple Gurav, South North Building, East Face, Ground floor, Southern side Room No. 3",205
+449 - Pimple Gurav,"Mar Evhenis Convent Highschool, Gajanan nagar, Pimple Gurav, South North Building, East Face, Ground floor, Southern side Room No. 4",205
+450 - Pimple Gurav,"Mar Evenis Convent Highschool, Gajanan Nagar, Pimple Gurav, Ground floor, Parking From South side cloth Partition Room no. 6",205
+451 - Pimple Gurav,"Mar Evenis Convent Highschool, Gajanan Nagar, Pimple Gurav, Ground floor, Parking From South side cloth Partition Room no. 7",205
+452 - Pimple Gurav,Pcmc Kaluram Maruti Jagtap Badmiton Hall Pimple Gurav South north building Ground Floor public library Room No 1,205
+453 - Pimple Gurav,Pcmc Kaluram Maruti Jagtap Badmiton Hall Pimple Gurav South north building Ground Floor Parking Cloth Partition Room No 2,205
+454 - Pimple Gurav,Pcmc Kaluram Maruti Jagtap Badmiton Hall Pimple Gurav South north building Ground Floor Parking Cloth Partition Room No 3,205
+455 - Pimple Gurav,Pcmc Kaluram Maruti Jagtap Badmiton Hall Pimple Gurav South north building Ground Floor Parking Cloth Partition Room No 4,205
+456 - Pimple Gurav,"Mar Evenis Convent Pre-Primary school, Gajanan Nagar, Pimple Gurav, Ground From South Room no. 1 (Hall)",205
+457 - Pimple Gurav,"Mar Evhenis Convent Pre Primary school, Gajanan nagar, Pimple Gurav, South North Building, East Face, Ground floor, Southern side Room No. 1",205
+458 - Pimple Gurav,"Mar Evhenis Convent Pre Primary school, Gajanan nagar, Pimple Gurav, South North Building, East Face, Ground floor, Southern side Room No. 2",205
+459 - Pimple Gurav,"Master Mind English Medium School, Krishnanagar, East West building, North Face, Ground floor, Room no.1",205
+460 - Pimple Gurav,"Master Mind English Medium School, Krishnanagar, East West building, North Face, Ground floor, Room no.1 with partition in Room No 1",205
+461 - Navi Sangvi,"Yashwant Dhondiba Tannu Primary Vidyalaya, New Sangvi (Shantidevi Jaysing Huja Gurunank Highschool, Sangvi) South North building, East Face, Southern side Room no.1",205
+462 - Navi Sangvi,"Yashwant Dhondiba Tannu Primary Vidyalaya, New Sangvi (Shantidevi Jaysing Huja Gurunank Highschool, Sangvi) South North building, East Face, Southern side Room no.2",205
+463 - Navi Sangvi,"Yashwant Dhondiba Tannu Primary Vidyalaya, New Sangvi (Shantidevi Jaysing Huja Gurunank Highschool, Sangvi) South North building, East Face, Southern side Room no.3",205
+464 - Navi Sangvi,"Yashwant Dhondiba Tannu Primary Vidyalaya, New Sangvi (Shantidevi Jaysing Huja Gurunank Highschool, Sangvi) South North building, East Face, Southern side Room no.4",205
+465 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East Face South-North Building, Ground Floor Southern Side Room no 1",205
+466 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East Face South-North Building Ground Floor Southern Side Room No 2",205
+467 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East Face South-North Building Ground Floor Southern Side Room No. 3",205
+468 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East Face South-North Building, Ground Floor Southern Side Room No. 4",205
+469 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East FaceSouth-North Building Ground Floor Southern Side Room No. 5",205
+470 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East FaceSouth-North Building Ground Floor Southern Side Room No. 6",205
+471 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East FaceSouth-North Building Ground Floor Southern Side Room No. 7",205
+472 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, Old Building No. 1 East FaceSouth-North Building Ground Floor Southern Side Room No. 8 (Vice Principal Office)",205
+473 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, New South North Building, East Face, Ground Floor Northern Side (Physics Lab)",205
+474 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, New South North Building, West Face, Ground Floor Northern Side (Computer Lab)",205
+475 - Navi Sangvi,"Baburaoji Gholap Secondary and Higher Secondary School, New Sangvi, New South North Building, North Face, Ground Floor Northern Side (Biology Lab)",205
+476 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, East West Building, Ground Floor from East Room No.1",205
+477 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, East West Building, Ground Floor from East Room No.2",205
+478 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, South North Building, Ground Floor from North Room No.1",205
+479 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, South North Building, Ground Floor from North Room No.2",205
+480 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, South North Building, Ground Floor from North Room No.3",205
+481 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, South North Building, Ground Floor from North Room No.4",205
+482 - Pimple Nilakh,"P.C.M.C. Primary School Boys / Girls No.52 pimple nilakh, South North Building, Ground Floor from North Room No.5",205
+483 - Pimple Nilakh,"Pimple Nilakh, Primary School Boys/ Girls no 52, Pimple Nilakh, west Facing building, Room no 1 from North-Cloth Patitiion",205
+484 - Pimple Nilakh,"Pimple Nilakh, Primary School Boys/ Girls no 52- Pimple Nilakh, west Facing building, Room no 2 from North-Cloth Patitiion",205
+485 - Pimple Nilakh,"Pimple Nilakh, Primary School Boys/ Girls no 52- Pimple Nilakh, west Facing building, Room no -3 from North-Cloth Patitiion",205
+486 - Navi Sangvi,"Baburaoji Gholap Vidyalay, New Sangvi, Ground Floor Room No 4",205
+487 - Navi Sangvi,"Baburaoji Gholap Vidyalay, New Sangvi, Ground Floor Room No 8",205
+488 - Navi Sangvi,"Baburaoji Gholap Vidyalay, New Sangvi, Ground Floor Room No 9",205
+489 - Sangvigaon,"Nursinh Highschool & Junior Collage, Sangavi Eastwest, Northern Face Ground Floor, From west Room No.1",205
+490 - Sangvigaon,"Nursinh Highschool & Junior Collage, Sangavi Eastwest, Northern Face Ground Floor, From west Room No.2",205
+491 - Sangvigaon,"Nursinh Highschool & Junior Collage, Sangavi Eastwest, Northern Face Ground Floor, From west Room No.3",205
+492 - Sangvigaon,"Nursinh Highschool & Junior Collage, Sangavi Eastwest, Northern Face Ground Floor, From west Room No.4",205
+493 - Sangvigaon,"Nursinh Highschool & Junior Collage, Sangavi Eastwest, Northern Face Ground Floor, From west Room No.2",205
+494 - Sangvigaon,"Nursinh High School & Junior Collage, Madhuban Colony, Galli No.1 Ground Floor, From Left Room No. 1",205
+495 - Sangvigaon,"Nursinh High school & Jr College, Sangvi ,Main Building, Ground Floor, Room No 1 From North.",205
+496 - Sangvigaon,"Nursinh High school & Jr College, Sangvi ,Main Building, Ground Floor, Room No 2 From North.",205
+497 - Sangvigaon,"Nursinh High school & Jr College, Sangvi ,Main Building, Ground Floor, Room No 3 From North.",205
+498 - Sangvigaon,"Nursinh High School & Junior Collage, Madhuban Colony, Galli No.1 Ground Floor, From Left Room No. 2",205
+499 - Sangvigaon,"Nursinh High School & Junior Collage, Madhuban Colony, Galli No.1 Ground Floor, From Left Room No. 3",205
+500 - Sangvigaon,"Nursinh High School & Junior Collage, Madhuban Colony, Galli No.1 Ground Floor, From Left Room No. 4",205
+501 - Sangvigaon,"Nursinh High School & Junior Collage, Madhuban Colony, Gall No.1 Ground Floor, From Left Room No. 5",205
+502 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi East West building east facing, Ground Floor, A - Hall -1 from East.",205
+503 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi East West building east facing, Ground Floor, A - Hall -2 from East.",205
+504 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi East West building east facing, Ground Floor, A - Hall -3 from East.",205
+505 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi East West building east facing, Ground Floor , Recreation Room from East",205
+506 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi East West building east facing, Ground Floor, Computer Room from East.",205
+507 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi, Ground Floor, East facing, Room No-1 Cloth Partition.",205
+508 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi, Ground Floor, West facing, Room No-2 Cloth Partition.",205
+509 - Sangvigaon,"PCMC Public School, Punyashlok Ahilyadevi Holkar Primary School no 49, Sangvi, Ground Floor, West facing, Room No-3 Cloth Partition.",205
+510 - Sangvigaon,"Little Flower English Medium School, ShitoleNagar, Sangavi, North Face, Ground Floor Room No 1",205
+511 - Sangvigaon,"Little Flower English Medium School, ShitoleNagar, Sangavi, North Face, Ground Floor Room No 2",205
+512 - Sangvigaon,"Little Flower English Medium School, ShitoleNagar, Sangavi, East Face, Ground Floor Room No 3 Computer Room",205
+513 - Sangvigaon,"Little Flower English Medium School, ShitoleNagar, Sangavi, South Face, Ground Floor Room No 4",205
+514 - Sangvigaon,"Little Flower English Medium School, ShitoleNagar, Sangavi, South Face, Ground Floor Room No 1 (Hall)",205
+515 - Sangvigaon,"Little Flower English Medium School, ShitoleNagar, Sangavi, South Face, Ground Floor Room No 2 (Hall)",205
+516 - Sangvigaon,"National School, Sangvi (Sangamnagar), South North building, East Face, Ground floor, Southern side Room no.1",205
+517 - Sangvigaon,"National School, Sangvi (Sangamnagar), South North building, East Face, Ground floor, Southern side Room no.2",205
+518 - Sangvigaon,"National School, Sangvi (Sangamnagar), South North building, East Face, Ground floor, Eastern side Room no.3",205
+519 - Sangvigaon,"National School, Sangvi (Sangamnagar), South North building, East Face, Ground floor, Eastern side Room no.4",205
+520 - Sangvigaon,"National School, Sangvi (Sangamnagar), South North building, East Face, Ground floor, Eastern side Room no.5",205
+521 - Sangvigaon,"National School, Sangvi (Sangamnagar), South North building, East Face, Ground floor, Eastern side Room no.6",205
+522 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, North South building, Room no 3",205
+523 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, Eastern side of Stage",205
+524 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, western side of Stage",205
+525 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, North South building, Ground floor, Northern side Room no 4",205
+526 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, North South building, Ground floor, Northern side Room no 5",205
+527 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, North South building, Balwadi Room no 1",205
+528 - Sangvigaon,"Late Sou Shakuntalabai Anandrao Shitole Primary School Sangavi, North South building, Balwadi Room no 3",205

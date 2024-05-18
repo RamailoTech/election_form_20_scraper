@@ -1,0 +1,368 @@
+PS No & Name,Address,Constituency Number
+1 - Khandali,Z.P.H.S. Khandali (East Side ),236
+2 - Khandali,Z.P.H.S. Khandali (West Side ),236
+3 - Khandali,Z.P.H.S. Khandali (Center Side ),236
+4 - Dhasvadi,Z.P.P.S. Dhaswadi (Left Side),236
+5 - Dhasvadi,Z.P.P.S. Dhaswadi (Right Side),236
+6 - Naravatvadi,Z.P.P.S. Narvatwadi,236
+7 - Yeldarvadi,Z.P.P.S. Yeldarwadi,236
+8 - Andhori,Z.P.H.S.Andhori (East Side),236
+9 - Andhori,Z.P.H.S. Andhori (South Side),236
+10 - Andhori,Z.P.H.S. Andhori New Buliding (North Side),236
+11 - Andhori,Z.P.H.S. Andhori New Buliding (South Side),236
+12 - Guttewadi,Z.P.P.S. Guttewadi,236
+13 - Molvan,Z.P.P.S. Molvan,236
+14 - Hinganaganv,Z.P.P.S. Hingangaon,236
+15 - Devkara,Z.P.P.S. Devkara,236
+16 - Mohaganv Kha,Z.P.P.S. Mohgaon (Kha),236
+17 - Dagadwadi,Z.P.P.S. Dagadwadi,236
+18 - Kolwadi,Z.P.P.S. Kolwadi (New Building),236
+19 - Kingaon,Z.P.H.S. Kingaon (East Side),236
+20 - Kingaon,Z.P.H.S. Kingaon (West Side),236
+21 - Kingaon,Z.P.Girls School New building Kingaon,236
+22 - Kingaon,Z.P.H.S. New Building Kingaon,236
+23 - Kingaon,Bhagwan Vidhyalaya Old Building Kingaon (North Side),236
+24 - Kingaon,Bhagwan Vidhyalaya new Building Room no 1 Kingaon,236
+25 - Kingaon,Bhagvan Vidyalya New Building Room No.3 Kingaon,236
+26 - Chikhali,Z.P.C.P.S. Chikhali ( East Side),236
+27 - Chikhali,Z.P.C.P.S. Chikhali (West Side),236
+28 - Kendrevadi,Z.P.P.S. Kendrewadi,236
+29 - Dhalegaon,Z P C.P.S Dhalegaon (East Side),236
+30 - Dhalegaon,Z P C.P.S Dhalegaon (West Side),236
+31 - Dhalegaon,Z P C.P.S. Dhalegoan (North Center Side),236
+32 - Vannjaravadi,Z.P.P.S. Wanjarwadi,236
+33 - Yestar,Z. P. P. S Yestar,236
+"34 - Takalgao She,",Z.P.P.S. Takalgaon (Shen),236
+35 - Sumthana,Z.P.P.S. Sumthana,236
+36 - Nagzari,Z.P.P.S.New Building Nagzari,236
+37 - Gangahipparga,Z.P.C.P.S. GangaHipparga (left side ),236
+38 - Gangahipparga,Z.P.C.P.S.Gangahipparga,236
+39 - Ujana,Z.P.P.S. Ujana (east side ),236
+40 - Ujana,Z.P.P.S. Ujana (west side),236
+41 - Wadarwadi,Z.P.P.S.Wadarwadi,236
+42 - Sangavi Su,Z.P.C.P.S. Sangavi Su (right side ),236
+43 - Sangavi Su,Z.P.C.P.S. Sangavi Su (left side ),236
+44 - Sunegav Sa,Z.P.P.S. Sunegaon sa.,236
+45 - Ralga,Z.P.P.S. Ralga,236
+46 - Rui Uttar,Z.P.P.S. Rui (Utter),236
+47 - Rui Dakshin,Z.P.P.S. Rui (Dakshin),236
+48 - Rui Tanda,Z.P.P.S. Rui Dakshin (North Side),236
+49 - Manndari,Z.P.P.S. Mangdari,236
+50 - Shindagi Ku,Z.P.P.S. Sindgi Kh.,236
+51 - Varavanti Tanda,Z.P.P.S. Varwanti Tanda,236
+52 - Varavanti,Z.P.P.S. Varwanti,236
+53 - Hagadal,Z.P.P.S. Hagdal,236
+54 - Gugdal,Z.P.P.S.Gugdal,236
+55 - Rudha,Z.P.P.S. Ruddha,236
+56 - Anandvadi,Z.P.P.S. Anandwadi (Ka),236
+57 - Kalegav,Z.P.P.S. Kalegaon (East Side),236
+58 - Kalegav,Z.P.P.S. Kalegaon (West Side),236
+59 - Suenegav Shannedri,Z.P.P.S. Sunegaon Shendri,236
+60 - Sheendri Suneganv,Z.P.P.S. Shendri Su.,236
+61 - Shenakud,Z.P.P.S. Shenkud,236
+62 - Chilkha,Z. P. P.Chilkha,236
+63 - Sora,Z. P. P.S.Sora,236
+64 - Par,Z. P. P.S.Par,236
+65 - Borgaon,Z. P. P.S Borgaon (khu),236
+66 - Mavalgaon,Z. P. P.S Mavalgaon,236
+67 - Lendegaon,Z. P. P. S. Lendegaon,236
+68 - Vairagad,Z. P. P. S. Vairagad,236
+69 - Mankhed,Z.P.P.S. Mankhed,236
+70 - Sonkhed,Z.P.P.S. Sonkhed,236
+71 - Kopra,Z.P.C.P.S. New Building Kopra (South Side),236
+72 - Kopra,Z.P.C.P.S. New Building Kopra (North Side),236
+73 - Patoda,Z.P.P.S. Patoda,236
+74 - Khanapur Mo,Z.P.P.S. Khanapur (Mo),236
+75 - Dhanora Bk.,Z.P.P.S. Dhanora Bk (East Side ),236
+76 - Dhanora Bk.,Z.P.P.S. Dhanora Bk (North Side ),236
+77 - Gunjoti,Z.P.P.S. Gunjoti,236
+78 - Satala Khu.,Z.P.C.P.S. Satala Khu.(North-East Side),236
+79 - Satala Khu.,Z.P.C.P.S. Satala Khu.(South-West Side),236
+80 - Jadhala,Z.P.P.S. Jadhala (East Side),236
+81 - Jadhala,Z.P.P.S. Jadhala (West Side),236
+82 - Dalvewadi,Z.P.P.S. Dalvewadi,236
+83 - Hipparga Kopdev,Z.P.P.S. Hipparga Kopdev,236
+84 - Parchanda,Z.P.P.S. Parchanda,236
+85 - Ugilewadi,Z.P.P.S. Ugilewadi,236
+86 - Hipparga Kajal,Z.P.H.S.Hipparga Kajal (East Side),236
+87 - Hipparga Kajal,Z.P.H.S.Hipparga Kajal(West Side),236
+88 - Vilegaon,Z.P.P.S. Vilegav (east side),236
+89 - Vilegaon,Z.P.P.S. Vilegaon (West Side),236
+90 - Vhotala,Z.P.P.S. Vhotala,236
+91 - Lanji,Z.P.P.S. Lanji,236
+92 - Tambatsangvi,Z.P.P.S. Tambatsangvi,236
+93 - Halani,Z.P.P.S. Halni,236
+94 - Ahmedpur,Gat Sadhan Kendra Ahmedpur,236
+95 - Ahmedpur,Gat Sadhan Kendra Ahmedpur (West Side),236
+96 - Ahmedpur,Z.P.C.P.S. Ahmedpur (Middle Side),236
+97 - Ahmedpur,Sarv Samavekshak Sanshodhan Prashikshan Kendra Ahmedpur,236
+98 - Ahmedpur,Z.P.C.P.S. Ahmedpur (North Side),236
+99 - Ahmedpur,Mahatma Phule Vidyalaya Ahmedpur (West Side) Room No. 4,236
+100 - Ahmedpur,Mahatma Phule Vidyalaya Ahmedpur (West Side) Room No. 5,236
+101 - Ahmedpur,Ravindranath Tagor Vidhyalaya. Ahmedpur (North Side) Room No. 3,236
+102 - Ahmedpur,Ravindranath Tagor Vidhyalaya Ahmedpur.(North Side) Room No. 4,236
+103 - Ahmedpur,Ravindranath Tagor Vidhyalaya.Ahmedpur (Left Side) Room No. 1,236
+104 - Ahmedpur,Ravindranath Tagor Vidhyalaya.Ahmedpur (Left Side) Room No. 2,236
+105 - Ahmedpur,"Kamla Nehru Vidyalay, Ahmedpur (East Side)",236
+106 - Ahmedpur,"Kamla Nehru Vidyalay, Ahmedpur (West Side)",236
+107 - Ahmedpur,"Kamla Nehru Vidyalay, Ahmedpur (West Side) Class 8th B",236
+108 - Ahmedpur,"Yeshwant Pra. School Kalegaon Road, Ahmedpur (East Side)",236
+109 - Ahmedpur,"Yeshwant Pra. School Kalegaon Road, Ahmedpur (Center Side)",236
+110 - Ahmedpur,"Yeshwant Pra. School Kalegaon Road, Ahmedpur (West Side)",236
+111 - Ahmedpur,Yashvant Vidhyalaya Main Building Side Building No.1 Room No. 1 Ahmedpur,236
+112 - Ahmedpur,Yashvant Vidhyalaya Main Building Side Building No.1 Room No. 2 Ahmedpur,236
+113 - Ahmedpur,Nutan marathi Vidhyalaya Ahmedpur (Right Side),236
+114 - Ahmedpur,Nutan marathi Vidhyalaya Ahmedpur (Right Side) Room No. 2,236
+115 - Ahmedpur,Vimlabai Deshmukh Girl School(secondary) (South Side) Class 6 B Ahmedpur,236
+116 - Ahmedpur,Vimlabai Deshmukh Girl School(secondary) (South Side) Class 7A Ahmedpur,236
+117 - Ahmedpur,Vimlabai Deshmukh Girl School Primary (West Side) Balwadi Room Ahmedpur,236
+118 - Ahmedpur,Vimalabai Deshmukh Girl School Primary (West Side) Digital Lab Room Ahmedpur,236
+119 - Ahmedpur,Vimlabai Deshmukh Girl School(secondary) (South Side) Class 7 B Ahmedpur,236
+120 - Ahmedpur,Z P Girls High School Ahmadapur (East Side ),236
+121 - Ahmedpur,Z P Girls High School Ahmadapur Class 2,236
+122 - Ahmedpur,Z P Girls High School Ahmadapur (West Side ),236
+123 - Ahmedpur,Z.P.Girls High School Ahmedpur (South Side),236
+124 - Ahmedpur,Nutan Marathi Vidyalay Ahmadapur (Right Side),236
+125 - Ahmedpur,Nutan Marathi Vidyalay Ahamadapur (Left Side),236
+126 - Ahmedpur,Chhatrapati Shahu Maharaj Pra.Sha.Ahmadpur (West Side),236
+127 - Ahmedpur,Dr. Zakeer Hussain Urdu School Ahmedpur (Right Side),236
+128 - Marshivani,Z.P.P.S. Marshivani,236
+129 - Marshivani Tanda,Z.P.P.S. Marshivani Tanda,236
+130 - Shenni,Z.P.P.S. Shenni,236
+131 - Thodga,Z.P.C.P.S. Thodga (East Side),236
+132 - Thodga,Z.P.C.P.S. Thodga (South Center Side),236
+133 - Dhanora Khu,Z.P.P.S. Dhanora Kh.,236
+134 - Mogha,Z.P.P.S. Mogha,236
+135 - Shindagi Bk.,Z.P.P.S..Sindagi Bu (right Side ),236
+136 - Shindagi Bk.,Z.P.P.S. Sindagi Bu (Left Side ),236
+137 - Bramhawadi,Z.P.P.S. Bramhawadi,236
+138 - Kini Kadu,Z.P.P.S. Kinni Kadu,236
+139 - Sawrgaon Thot,Z.P.P.S. Sawargaon Thot,236
+140 - Hangarga,Z.P.P.S. Hangarga,236
+141 - Tirth,Z.P.P.S. Tirth,236
+142 - Jamb,Z.P.P.S. Jamb,236
+143 - Unni,Z.P.P.S.Unni,236
+144 - Hasarni,Z.P.P.S. Hasarni,236
+145 - Mandani,Z.P.P.S. Mandani,236
+146 - Kokanga,Z.P.P.S. Kokanga,236
+147 - Javalga,Z.P.P.S. Javalga,236
+148 - Malegaon Kd,Z.P.P.S. Malegaon Khu.,236
+149 - Thorlewadi,Z.P.P.S. Thorlewadi,236
+150 - Tembhurni,Z.P.P.S. Tembhurni,236
+151 - Talegaon,Z.P.P.S. Talegaon,236
+152 - Nandura Bk.,Z.P.C.P.S. Nandura Bu (Right Side ),236
+153 - Nandura Kd.,Z.P.P.S. Nandura Khu (Left Side ),236
+154 - Bramhapuri,Z.P.P.S. Bramhapuri,236
+155 - Gotala,Z.P.P.S. Gotala,236
+156 - Sawargaon Rokda,Z.P.C.P.S.Savargaon Rokada (South Side),236
+157 - Sawargaon Rokda,Z.P.C.P.S.Savargaon Rokada (Centre Side),236
+158 - Kolwadi,Z.P.P.S. Kolwadi,236
+159 - Sawrgaon Rokda,Z.P.C.P.S.Savargaon Rokada (North West Side),236
+160 - Bhuttekrwadi,Z.P.P.S. Bhuttekaravadi,236
+161 - Nagthana,Z.P.P.S. Nagathana,236
+162 - Takalgaon Ka.,Z.P.P.S. Takalgaon (Kamkhed) (South Side),236
+163 - Takalgaon Ka.,Z.P.P.S.Takalgaon (Kamkhed) (North Side),236
+164 - Belgaon,Z.P.P.S.Belgaon (East Side),236
+165 - Hadoli,Z.P.P.S. Hadoli,236
+166 - Kendrewadi,Z.P.P.S. Kendrewadi,236
+167 - Mahalangi,Z.P.P.S. Mahalangi (East Side),236
+168 - Mahalangi,Z.P.P.S.Mahalangi (West Side),236
+169 - Raiwadi,Z.P.P.S. Raiwadi New Building Room.No.1,236
+170 - Raiwadi,Z.P.P.S. Raiwadi New Building Room.No.3,236
+171 - Kawathali,Z.P.P.S.Kavathali,236
+172 - Ramwadi,Z.P.P.S. Ramwadi,236
+173 - Zari Kd.,Z.P.P.S. Zari Khu,236
+174 - Zari Bk.,Z.P.C.P.S. Zari (Bk) (South Side),236
+175 - Zari Bk.,Z.P.C.P.S. Zari (Bk) (North Side),236
+176 - Zari Bk.,Z.P.C.P.S. Zari (Bk) (West Side),236
+177 - Himpalner,Z.P.P.S Himpalner (South Side),236
+178 - Himpalner,Z.P.P.S.Himpalner North Side,236
+179 - Fattepur,Z.P.P.S. Fattepur,236
+180 - Lingdhall,Z.P.P.S. Lingdhal,236
+181 - Methi,Z.P.P.S. Methi,236
+182 - Salgara,Z.P.P.S. Salgara,236
+183 - Ajani Kd.,Z.P.P.S. Ajani Kh.,236
+184 - Belur,Z.P.P.S. Belur,236
+185 - Mahadevwai,Z.P.P.S. Mahadev wadi,236
+186 - Shirur Tajband,Z.P.C.P.S. Shirur Tajaband (East Side ),236
+187 - Shirur Tajband,Z.P.C.P.S. Shirur Tajaband (West Side),236
+188 - Shirur Tajband,Z.P.C.P.S. Shirur Tajaband (Middle Side),236
+189 - Shirur Tajband,Samuh Sadahan Kendra Shirur Tajband,236
+190 - Shirur Tajband,Mahesh Vidyalay Shirur Ta (Left Side),236
+191 - Shirur Tajband,Mahesh Vidhyalaya Shirur Taj (Right Side),236
+192 - Shirur Tajband,Gram Panchayat Office Shirur Tajband,236
+193 - Valsangi,Z.P.C.P.S.Walsangi (North Side ),236
+194 - Valsangi,Z.P.C.P.S.Walsangi (South Side ),236
+195 - Hippalgaon,Z.P.C.P.S. Hippalagav (Right Side),236
+196 - Hippalgaon,Z.P.C.P.S. Hippalagav (Left Side),236
+197 - Hadolti,Z.P.H.S. Hadolati (South Side),236
+198 - Hadolti,Z.P.H.S. Hadolati (North Side),236
+199 - Hadolti,Z.P.Girls School Hadolati (East Side),236
+200 - Hadolti,Z.P.Girls School Hadolati (West Side),236
+201 - Hadolti,Karmayogi Tulshiram Pawar Mahavidhyalay Hadolti,236
+202 - Anandwadi,Z.P.P.S. Anandwadi (Ha),236
+203 - Babaldara,Z.P.P.S.Babaldara,236
+204 - Sayyedpur Kd.,Z.P.P.S. Sayyedpur Kd.,236
+205 - Ambegaon,Z.P.P.S. Ambegaon,236
+206 - Bodka,Z.P.P.S. Bodka,236
+207 - Vaigaon,Z.P.P.S. Waigaon (Right Side),236
+208 - Vaigaon,Z.P.P.S. Waigaon (Left Side),236
+209 - Chobali,Z.P.P.S. Chobali (Right Side ),236
+210 - Chobali,Z.P.P.S. Chobali (Left Side),236
+211 - Morewadi,Z.P.P.S. Morewadi,236
+212 - Gadewadi,Z.P.P.S. Gadewadi,236
+213 - Makani,Z.P.P.S. Makni (Right Side),236
+214 - Makani,Z.P.P.S. Makni (Left Side),236
+215 - Umarga Yelladevi,Z.P.P.S. Umarga Yaladevi (Right Side),236
+216 - Umarga Yelladevi,Z.P.P.S. Umarga Yalladevi (Left Side),236
+217 - Telgaon,Z.P.P.S. Telgaon,236
+218 - Telgaon,Z.P.P.S.Telgaon Room No-(8),236
+219 - Umarga Court,Z.P.P.S.Umarga Kort (Right Side),236
+220 - Umarga Court,Z.P.P.S.Umarga Kort (Left Side),236
+221 - Mulki,Z.P.P.S. Mulki,236
+222 - Chapoli,Z.P.C.P.S Chapoli (west side),236
+223 - Chapoli,Z.P.C.P.S.Chapoli (south side),236
+224 - Chapoli,Gram Panchayat Office Chapoli,236
+225 - Chapoli,Z.P.H.S.Girl School Chapoli,236
+226 - Shankarwadi (Chapoli),Z.P.P.S. Shankarwadi,236
+227 - Bramhwadi (Chapoli),Z.P.P.S.Brahmawadi (Chapoli),236
+228 - Anandwadi,Z.P.P.S. Anandwadi,236
+229 - Naigaon,Z.P.P.S. Naigaon (East Side),236
+230 - Naigaon,Z.P.P.S. Naigaon (West Side),236
+231 - Hanmant jawalga,Z.P.P.S. Hanmant jawalga,236
+232 - Hali Kd.,Z.P.P.S.Hali Khurd (South Side),236
+233 - Hali Kd.,Z.P.P.S Hali khurd (West Side),236
+234 - Wagholi,Z.P.P.S. Wagholi,236
+235 - Bramhwadi (W),Z.P.P.S. Bramhwadi (W),236
+236 - Janwal,Z.P.C.P.S.Janwal (North Side),236
+237 - Janwal,Z.P.C.P.S.Janwal (South Side),236
+238 - Janwal,Z.P.Girls School Janwal (South Side),236
+239 - Janwal,Z.P.Girls School Janwal (West Side),236
+240 - Shiwani (M),Z.P.P.S. Shivni ( M ),236
+241 - Jagalpur (khu),Z.P.P.S. Jagalapur Khu,236
+242 - Shiwankhed (bk),Z.P.C.P.S Shivankhed (Bk) (East Side),236
+243 - Shiwankhed (bk),Z.P.C.P.S Shivankhed (Bk) (Wast Side),236
+244 - Shiwankhed (bk),Z.P.C.P.S Shivankhed(Bk) (Middle Side),236
+245 - Ganjur,Z.P.C.P.S Ganjur (East side),236
+246 - Ganjur,Z.P.C.P.S Ganjur (West side ),236
+247 - Ganjurwadi,Z.P.P.S. Ganjurawadi,236
+248 - Nandgaon,Z.P.P.S. Nandgaon,236
+249 - Dapkyal,Z.P.P.S. Dapkyal,236
+250 - Gharola,Z.P.P.S.Gharola East Side,236
+251 - Gharola,Z.P.P.S.Gharola West Side,236
+252 - Wadwal na.,Z.P.H.S. Wadwal (Na.) (East Side),236
+253 - Wadwal na.,Z.P.H.S. Wadwal (Na.) (South Side),236
+254 - Wadwal na.,Z.P.H.S. Wadwal (Na) (North Side),236
+255 - Wadwal na.,Z.P.Girls School Wadwal Na (Center Side),236
+256 - Wadwal na.,Z.P.Girls School Wadwal (na) (West Side),236
+257 - Wadwal na.,Z.P. Girl School Wadwal (Na) (East Side),236
+258 - Mohnal,Z.P.P.S. Mohnal,236
+259 - Latur road,Z.P.P.S. Latur Road 7th Class room (West Side),236
+260 - Latur road,Z.P.P.S. Latur Road 5th Class Room (East Side),236
+261 - Kadmuli,Z.P.P.S. Kadamuli,236
+262 - Chakur,Gat Sadhan kendra Chakur,236
+263 - Chakur,Z.P.Girls high School Chakur room no.8,236
+264 - chakur,Z.P.Boys high School Chakur room no.7,236
+265 - chakur,Z.P.Boys high School Chakur room no.8,236
+266 - chakur,Z.P.Girls high School Chakur Class 4th (East Side),236
+267 - chakur,Z.P.C.P.S.Indira Nagar C.R.C.Room Chakur (West Side ),236
+268 - chakur,Z.P.C.P.S.Indira Nagar Class 7th Chakur (East Side),236
+269 - chakur,Jagat Jagruti Primary Vidyamandir Chakur,236
+270 - chakur,Jagat Jagruti Primary Vidyamandir Chakur Room No.3,236
+271 - chakur,Jagat Jagruti High School Staff Room Chakur,236
+272 - chakur,Jagat Jagruti Primary Vidyamandir South Side Chakur New Building,236
+273 - chakur,Z.P.Prashala (Boys) Chakur Room No. 3 New Building,236
+274 - chakur,Z.P.Prashala (Boys) Chakur Room No. 4 New Building,236
+275 - chakur,Z.P.H.S. Chakur (Girls) Room No. 1,236
+276 - chakur,Anganwadi No.15 Chakur,236
+277 - chakur,Z.P.Prashala (Boys) Chakur Room No.6 New Building,236
+278 - chakur,Z.P.H.S. Chakur (Boys) Room No.5,236
+279 - Saranwadi,Z.P.P.S. Saranwadi,236
+280 - Algarwadi,Z.P.P.S. Algarwadi (Bk),236
+281 - Algarwadi,Z.P.P.S Algarwadi Bk (South Side),236
+282 - Mashnerwadi,Z.P.P.S. Mashnerwadi,236
+283 - Ajansonda bk,Z.P.C.P.S. Aanjansoda Bk. (South side),236
+284 - Ajansonda bk,Z.P.P.S. Ajansonda Bk. New Building (North Side),236
+285 - Ajansonda bk,Gat Sadhan Kendra Ajansonda Bk. (East Side),236
+286 - Bhakarwadi,Z.P.P.S. Bhakarwadi,236
+287 - Bramhwadi,Z.P.P.S. Bramhawadi (Ajansonda Bk),236
+288 - Kharabwadi,Z.P.P.S. Kaudagaon,236
+289 - Nagdarwadi,Z.P.P.S. Nagadaravadi,236
+290 - Kumtha Bk.,Z.P.C.P.S.New Building kumtha (bu)(East Side) Room no.1,236
+291 - Kumtha Bk.,Z.P.C.P.S. New Building kumtha (bu) (East Side) Room no.2,236
+292 - Kumtha Bk.,Z.P.C.P.S. New Building kumtha (bu) (West Side) Room no.1,236
+293 - Kumtha Bk.,Z.P.C.P.S. New Building kumtha (bu) (West Side) Room no.2,236
+294 - Kaudgaon,Z.P.P.S. Kaudagaon,236
+295 - Shivankhed Khu,Z.P.P.S. Shivankhed khu (East Side),236
+296 - Shivankhed Khu,Z.P.P.S. Shivankhed khu (West Side),236
+297 - Shivankhed Khu,Z.P.P.S. Shivankhed khu (Right Side),236
+298 - Hatkarwadi,Z.P.P.S. Hatkarawadi,236
+299 - Wadgaon ekki,Z.P.P.S. Wadgaon (Ekki) (South side),236
+300 - Wadgaon ekki,Z.P.P.S. Wadgaon (Ekki) (North Side),236
+301 - Sangachiwadi,Z.P.P.S.Sangachiwadi,236
+302 - Shelgaon,Z.P.C.P.S. Shelgaon (North Side),236
+303 - Shelgaon,Z.P.C.P.S. Shelgaon (West Side),236
+304 - Rachannawadi,Z.P.P.S. Rachannawadi (West South Side),236
+305 - Rachannawadi,Z.P.P.S. Rachannawadi (West Middle Side),236
+306 - Takalgaon she,Z.P.P.S. Takalgaon She,236
+307 - Borgaon bk,Z.P.P.S. Borgaon Bu,236
+308 - Kalkoti,Z.P.P.S.Kalkoti,236
+309 - Shirnal,Z.P.P.S. Shirnal,236
+310 - Bothi,Z.P.P.S Bothi (West Side),236
+311 - Bothi,Z.P.P.S.Bothi Room No.4,236
+312 - Mandurki,Z.P.P.S. Manduraki,236
+313 - Tirthwadi,Z.P.P.S. Tirthwadi,236
+314 - Hanmantwadi,Z.P.P.S.Hanmantawadi,236
+315 - Tiwatghal,Z.P.P.S.Tivatghyal,236
+316 - Tiwghal,Z.P.P.S.Tivghal,236
+317 - Bhatsangavi,Z.P.P.S Bhatsangvi New Building,236
+318 - Bansawargaon,Z.P.P.S.Bansavargaon,236
+319 - Gharani,Z.P.C.P.S. Gharani (East Side),236
+320 - Gharani,Z.P.C.P.S. Gharani (West Side),236
+321 - Gharani,Z.P.C.P.S. Gharani (Middle Side),236
+322 - Ambulga,Z.P.P.S. Ambulaga,236
+323 - Mohdal,Grampanchyat Karyalya Mohdal,236
+324 - Ashta,Z.P.C.P.S.Ashta (East Side),236
+325 - Ashta,Z.P.C.P.S.Ashta (Centre Side),236
+326 - Ashta,Z.P.C.P.S.Ashta (West Side),236
+327 - Mahalangra,Z.P.P.S. Mahalangra,236
+328 - Mahalangra,Z.P.P.S. Mahalangra (Middle Side),236
+329 - Mahalangrawadi,Z.P.P.S. Mahalangrawadi,236
+330 - Murambi,Z.P.P.S.Murambi,236
+331 - Sugaon,Z.P.P.S Sugaon (South Side),236
+332 - Sugaon,Z.P.P.S Sugaon (North Side),236
+333 - Sugaon,Z.P.P.S. Sugaon (Middle Side),236
+334 - Sugaon,Z.P.P.S. Sugaon (North Side),236
+335 - Devangra,Z.P.P.S Devangra (East Side) New Building Room No.1,236
+336 - Devangra,Z.P.P.S Devangra (West Side) New Building Room No.5,236
+337 - Dewangrawadi,Z.P.P.S. Devangrawadi,236
+338 - Limbalwadi,Z.P.P.S. Limbalwadi,236
+339 - Hatkarwadi,Z.P.P.S. Hatakarawadi,236
+340 - Nalegaon,Z.P.Girls School New Building Nalegaon,236
+341 - Nalegaon,Anganwadi No.13 Near Girls School Nalegaon,236
+342 - Nalegaon,Z.P.H.S Nalegaon (New Building Room No. 9),236
+343 - Nalegaon,Z.P.H.S.Nalegaon (New Building Room No. 12),236
+344 - Nalegaon,Z.P. Girl School Nalegaon (East Side),236
+345 - Nalegaon,Z.P.Girl School Nalegaon (Center side),236
+346 - Nalegaon,Z.P.Girl School Nalegaon (West side),236
+347 - Nalegaon,Z.P.H.S. Nalegaon (Old Building Room No. 6 West Side),236
+348 - Nalegaon,Z.P.H.S. Nalegaon (New Building Room No. 4 Center Side),236
+349 - Nalegaon,Z.P.H.S. Nalegaon (New Building Room No. 2 South Side),236
+350 - Ajansonda Kd.,Z.P.P.S.Anjansonda (Khu),236
+351 - Bolegaon Kd.,Z.P.P.S. Bolegaon khu,236
+352 - Atola,Z.P.C.P.S. Atola (East Side),236
+353 - Atola,Z.P.C.P.S. Atola (West Side),236
+354 - Atola,Z.P.C.P.S. Atola Room no.2,236
+355 - Ujalamb,Z.P.P.S. Ujalamb (East Side),236
+356 - Ujalamb,Z.P.P.S. Ujalamb (West side),236
+357 - Nageshwadi,Z.P.P.S. Nageshawadi,236
+358 - Rohina,Z.P.P.S.Rohina East Side,236
+359 - Rohina,Z.P.P.S.Rohina West Side,236
+360 - Rohina,Z.P.P.S.Rohina Center Side,236
+361 - Sandol,Z.P.P.S Sandol Office Room,236
+362 - Mahandol,Z.P.P.S. Mahandol,236
+363 - Dongraj,Z.P.P.S. Dongraj,236
+364 - Dongraj,Z.P.P.S. Dongraj ( Middle Side),236
+365 - Kabansangavi,Z.P.P.S. Kabansangavi (East side),236
+366 - Kabansangavi,Z.P.P.S. Kabansangavi (West side),236
+367 - Bawalgaon,Z.P.P.S. Bawalagaon,236

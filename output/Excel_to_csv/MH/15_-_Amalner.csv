@@ -1,0 +1,321 @@
+PS No & Name,Address,Constituency Number
+1 - Nim,"Z.P. Primary School, East-West New Building, East Side, Room No.2 Nim",15
+2 - Nim,"Z.P. Primary School, East-West New Building, East Side,Room No.3 Nim",15
+3 - Padalase,"Z.P.Primary School, East-West New building , West Side Room No.2, Padalase",15
+4 - Bohare,"Z.P. .Primary School, East-West Building Room No.2, Bohare",15
+5 - Bohare,"Z.P. Primary School, North-South building South Side Room No.2 , Bohare",15
+6 - Kalali,"Z.P.Primary School, East-West Building East Side Room No.2, Kalali",15
+7 - Satri,"Z.P.Primary School, East-West Building East Side Room No.2. Satri",15
+8 - Hingone Sim Pra.J.,"Z.P.PrimaryVidya Mandir, North-South building North Side Room No.1 , Hingone Sim Pr.J.",15
+9 - Hingone Khurd Pra. J.,"Z.P. Marathi School, East-West Building East Side Room No.1.Dodhawad",15
+10 - Dodhawad,"Z.P.Marathi School, West Side, Room No.2, Dodhwad",15
+11 - Jalod,"Z.P.Primary School, East-West New Building East Side Room No.1, Jalod",15
+12 - Jalod,"Z.P.Primary School, East-West New Building West Side Room No.2, Jalod",15
+13 - Gangapuri,"Z.P. Primary School, North-South Building North Side Room No.1, (Hexagonal) Gangapuri",15
+14 - Mathgawhan,"Samaj Mandir, Mathgawhan",15
+15 - Mathgawhan,Grampanchayt Office Mathgawhan,15
+16 - Rundhati,"Z.P. Primary School, East-West Building West Side Room No.1(Hexagonal), Rundhati",15
+17 - Mungse,"Z.P. Primary School, East-West Building East Side Room No.2, Mungse",15
+18 - Khaparkheda Pr.Ja.,"Z.P. Primary School, East-West Building East Side Room No.1, Khaparkheda Pr.J.",15
+19 - Savkheda,"Z.P.Kendra Shala, East-West Building, West Side Room No.1, Savkheda",15
+20 - Savkheda,"Z.P.Kendra Shala, East-West Building, West Side Room No.2, Savkheda",15
+21 - Dhavde,"Z.P. Primary School, Hexagonal Room No.1, Dhavde",15
+22 - Nimbhora,"Z.P. Higher Primary School, North-South New Building North Side Room No.1, Nimbhora",15
+23 - Nimbhora,"Z.P. Higher Primary School, North-South New Building South Side Room No.1, Nimbhora",15
+24 - Pingalwade,"Z.P. Primary School, South - North New Building, South Side Room No.1, Pingalwade",15
+25 - Pra.Dangari,"Z.P.Primary School,East-west Building, East Side Room No.1, Pr.Dangari",15
+26 - Pra.Dangari,"Z.P. Primary School, North-South Building East Side Room No.2, Pr. Dangari",15
+27 - Kalamsare,"Sharda Secondary School, South North Letters Building, South Side Room no. 01",15
+28 - Kalamsare,"Sharda Secondary School, Southern Slap Building, East Room no. 03",15
+29 - Kalamsare,"Sharda Secondary School, Southern Slap Building, East Room no. 03",15
+30 - Vasare,"Z.P. Primary School, East-West Old Building West Side Room No.1, Vasare",15
+31 - Tandali,"Z.P. School, East-West Building East Side Room No.2(Hexagonal), Tandali",15
+32 - Shahapur,"Z.P. Kendra Shala, East-West Building East Side Room No.2, Shahapur",15
+33 - Shahapur,"Z.P. Kendra Shala, East-West Building East Side Room No.4, Shahapur",15
+34 - Bhilali,"Z.P. Primary School, East-West Building East Side Room No.1, Bhilali",15
+35 - Ektas,"Z.P. Primary School, East-North Hexagonal Room, Ektas",15
+36 - Eklahare,"Z.P. Primary School, North-South Building North Side Room No.1 , Eklahare",15
+37 - Bamhane,"Z.P. Primary School, East-West Building, East Side Room No.2, Bamhane",15
+38 - Kalambe,"Z.P. Primary School, North-South Building North Side Room No.2 , Kalambe",15
+39 - Padase,"Z.P.Primary School, East-West New Building East Side Room No.3 , Padase",15
+40 - Kharde,"Z.P. Primary School, East Side Room No. 1, Kharde",15
+41 - Khedi Bk. Pr.Da.,"Z.P. Primary School, East-West Building West Side Room No.1 , Khedi Bk. Pr.Da.",15
+42 - Marwad,"Z.P. Primary School, East-West Building East Side Room No.1, Marwad",15
+43 - Marwad,"Z.P. Primary School, East-West Building East Side Room No.3, Marwad",15
+44 - Marwad,"Z.P. Primary School, East-West Building East Side Room No.4, Marwad",15
+45 - Govardhan,"Z.P. Primary School, East-West Building East Side Room No.4 , Govardhan",15
+46 - Borgaon,"Z.P. Primary School, East-West Building East Side Room No.3 , Borgaon",15
+47 - Karankhede,"Z.P. Primary School, South-North New Building North Side Room No.1 , Karankhede",15
+48 - Hingone Bk.,"Z.P.Primary School, East-West Building Easterm side room no 02 Hingone Bk.",15
+49 - Daregaon,Z.P.Primary School New Hexagonal Room Daregaon,15
+50 - Mehergaon,"Z.P. Primary School, North-South Old Building, South Side Room No.02 Mehergaon",15
+51 - Amalgaon,"Z.P. Center School, North South New Building South Side Room No.3 , Amalgaon",15
+52 - Amalgaon,"Z.P. Center School, North South New Building South Side Room No.6 , Amalgaon",15
+53 - Amalgaon,"Z.P. Kendra Shala, Hexagonal East Side Room No.3, Amalgaon",15
+54 - Khaushi Bk.,"Z.P. Primary School, North-South New Building South Side Room No.1 , Khaushi Bk.",15
+55 - Patonda,"Z.P. Boys School, East-West Building,East Side Room No.2 , Patonda",15
+56 - Patonda,"Z.P. Boy's School, East-West Building West Side Room No.2 , Patonda",15
+57 - Patonda,"Z.P.Girl's School, North-South Building North Side Hexagonal Room No.1, Patonda",15
+58 - Patonda,"Z.P.Boy's School, East-West Building Hexagonal Room No.1 , Patonda",15
+59 - Nandri,"Z.P.Primary School, West Side Hexagonal Room No.1 Nandri",15
+60 - Dapori Bk.,"Z.P. Primary School, North-South Building West Side Facing Room No.1, Dapori Bk.",15
+61 - Kamatwadi,"Z.P. Primary School, New East-West Building East Side Room No.1, Kamatwadi",15
+62 - Pimpali Pr.Ja.,"Z.P. Primary School, East-West Building, West Side Room No.1, Pimpali Pr.Ja.",15
+63 - Pimpali Pr.Ja.,"Z.P. Primary School (Hexagonal) Seprate Room No.2, Pimpali Pr.Ja.",15
+64 - Khedi Kh. Pr.Ja.,"Z.P. Primary School, North-South Building, South Side Room No.1, Khedi Kh.Pr.J.",15
+65 - Chaubari,"Z.P. Primary School, North-South New Building South Side Room No.1, Chaubari",15
+66 - Chaubari,"Z.P. Primary School, North-South New Building North Side Room No.1, Chaubari",15
+67 - Bhortek,"Z.P. Primary School New Building, West Side Room No.1, Bhortek",15
+68 - Sabgawhan,"Z.P. Marathi School, North-South Building South Side Room No.2 , Sabgawhan",15
+69 - Bharvas,"Z.P. Primary School, East-West Building East Side Room No.1 , Bharvas",15
+70 - Bharvas,"Z.P. Primary School, East-West Building East Side Room No.3, Bharvas",15
+71 - Lonpancham,"Z.P. Primary School, North - South Building Separate Room, Lonpancham",15
+72 - Mudi Pr.Da.,"Z.P. Marathi School, East-West New Building East Side Room No.1, Mudi Pr.Da.",15
+73 - Mudi Pr.Da.,"Z.P. Marathi School, East-West New Building East Side Room No.2, Mudi Pr.Da.",15
+74 - Mudi Pr.Da.,"Z.P. Marathi School, East-West New Building East Side Room No.4, Mudi Pr.Da.",15
+75 - Mudi Pr.Da. (Bodarde),"Z.P. Marathi School, East-West New Building East Side Room No.5, Mudi Pr.Da.",15
+76 - Lon Bk.,"Z.P. Primary School, North-South New Building ,South Side Room No.1 , Lon Bk",15
+77 - Lon Bk.,"Z.P. Primary School, North-South New Building ,South Side Room No.3 , Lon Bk",15
+78 - Lon Bk.,"Z.P. Primary School, North-South New Building ,South Side Room No.4 , Lon Bk",15
+79 - Jaitpir,"Z.P. Kendra Shala, East-West Old Building West Side Room No.1 , Jaitpir",15
+80 - Jaitpir,"Z.P. Kendra Shala, East-West Old Building West Side Room No.2, Jaitpir",15
+81 - Dhanora,"Z.P. Primary School, North Hexagonal Room, DhaNo.ra",15
+82 - Dhar,"Z.P. Primary School, East-West Building New Building East Side Room No.1, Dhar",15
+83 - Dhar,"Z.P. Primary School, East-West New Building East Side Room No.2, Dhar",15
+84 - Malpur,"Z.P. Primary School East-West Building Room no. 2, Malpur",15
+85 - Anturli,"Z.P. Primary School, East-West New Building ,Western Side Room No.3, Anturli",15
+86 - Anturli,"Z.P. Primary School, East-West New Building ,Western Side Room No.1, Anturli",15
+87 - Khaparkheda Pr.Da.,"Z.P. Primary School, East-West New Building East Side Room No.1, Khaparkheda Pra. Dangari",15
+88 - Taskhede,"Z.P. Primary School, North-South Building North Side Room No.1 , Taskhede",15
+89 - Amode,"Z.P.Primary School, Old Grampanchayat Office Room, Amode",15
+90 - Gandhali,"Aanganvadi Gandhali North-South Building South Side Room No.1, Gandhali",15
+91 - Gandhali,"Grampanchayat Karyalaya, Gandhali",15
+92 - Pilode,"Z.P. Sanyukt Primary School Gandhali-Pilode North-South Building North Side Room No.2, Pilode",15
+93 - Pilode,"Z.P. Sanyukt Primary School Gandhali-Pilode North-South Building South Side Room No.1, Pilode",15
+94 - Dahiwad,"Z.P. Center School East-West New Building East Side Room No.3, Dahiwad",15
+95 - Dahiwad,"Z.P.Kendra Shala, East-West New Building west Side Room No.2. Dahiwad",15
+96 - Dahiwad,"Z.P. Kendra Shala East-West Old Building East Side Room No.1, Dahiwad",15
+97 - Dahiwad,"Z.P. Kendra Shala East-West New Building West Side Room No.1, Dahiwad",15
+98 - Dahiwad Kh.,"Z.P. Primary Vidya mandir North-South new Building North Side Room No.1, Dahiwad Kh.",15
+99 - Gadkhamb,"Z.P. Primary School, East-West Old Building East Side Room No.1 . Gadkhamb",15
+100 - Gadkhamb,"Z.P. Primary School, East-West Old Building West Side Room No.2 , Gadkhamb",15
+101 - Gadkhamb,"Z.P. Shala East-West New Building West Side Room No.2 , Gadkhamb",15
+102 - Dhupi,"Z.P. Primary School, North-South Building , No.thern Side Room No.2 , Dhupi",15
+103 - Nandgaon,"Z.P. Primary School, North-South BuildingSouth Side Room NO. 1, Nandgaon",15
+104 - Ladgaon,"Z.P. Primary School, North-South New Building , North Side Room No.1, Ladgaon",15
+105 - Galwade Bk.,"Z.P. Higher Primary School, East-West Building, East Side Room No.1, Galwade Bk.",15
+106 - Galwade Kh.,"Anganwadi Room, Galwade Kh.",15
+107 - Zadi,"Z.P. Marathi School, North-South New Building North Side Room No.1 , Zadi",15
+108 - Zadi,"Z.P. Marathi School, East-West Old Building East Side Room No.1 , Zadi",15
+109 - Vavade,"Z.P. Kendra Shala East-West Old Building East Side Room No.1, Vavade",15
+110 - Vavade,"Z.P. Kendra Shala East-West Old Building East Side Room No.3, Vavade",15
+111 - Vavade,"Z.P. Kendra Shala East-West Old Building East Side Room No.5, Vavade",15
+112 - Mandal,"Z.P. Kanya Shala North-South New Building , North Side Room No.1 , Mandal",15
+113 - Mandal,"Z.P. Kanya Shala North-South New Building , South Side Room No.1 , Mandal",15
+114 - Mandal,"Z.P. Mulanchi Shala East-West Building East Side Room No.1, Mandal",15
+115 - Mandal,"Z.P. Mulanchi Shala East-West Building West Side Room No.1, Mandal",15
+116 - Shirsale Bk.,"Z.P. Marathi School, East-West New Building East Side Room No.3 . , Shirsale Bk.",15
+117 - Shirsale Bk.,"Z.P. Marathi School, North south Building, North Side, Room No.1 , Shirsale Bk.",15
+118 - Dhekusim,"Z.P. Primary School, East-West Old Building, East Side, Room No.2 , Dhekusim",15
+119 - Dhekusim,"Z.P. Primary School, South - North Building, South Side, Room No.1 , Dhekusim",15
+120 - Nagaon Bk.,"Z.P. Primary School, East West Building East Side Room No.1 , Nagaon Bk.",15
+121 - Nagaon Bk.,"Z.P. Primary School, East-West Building East Side Room No.2 , Nagaon Bk.",15
+122 - Nagaon Kh.,"Z.P. Primary School, East-West Building East Side Hexagonal Room No.1 , Nagaon Kh",15
+123 - Sonkhedi,"Z.P. Primary School, East West Building West Side Room No.1, Sonkhedi",15
+124 - Nimzari,Z.P.Primary School East-West Building East Side Room No.2 Nimzari,15
+125 - Takarkhede,"Z.P. Primary School, East-West Building, East Side Room No.1, Takarkhede",15
+126 - Takarkhede,"Z.P. Primary School, East-West Building ,East Side Room No.3 , Takarkhede",15
+127 - Deogaon,"Z.P.Primary High School, North-south Building No 4,North Side Room No.1 , Devgaon",15
+128 - Deogaon,"Z.P.Primary High School, ‍East - West Building East Side Room No.1 , Devgaon",15
+129 - Amalner,"Paratap High School, Suvarna Mahotsav East-West Building East Side, Room No.3, Amalner",15
+130 - Amalner,"Paratap High School, Suvarna Mahotsav East-West Building East Side, Room No.4, Amalner",15
+131 - Amalner,"Shivaji HighSchool & Jr.College,North-South building, Tambepura South Side Room No.1, Amalner",15
+132 - Amalner,"Shivaji HighSchool & Jr.College,Tambepura East-West Building Western Side Room No.3, Tambepura Amalner",15
+133 - Amalner,"Shivaji HighSchool & Jr.College,Tambepura East-West Building Eastern Side Room No.1, Tambepura Amalner",15
+134 - Amalner,Shivaji Vidya Mandir South-North Building Southern Room No. 1 Amalner,15
+135 - Amalner,Shivaji Vidya Mandir South-North Building Southern Room No. 3 Amalner,15
+136 - Amalner,"Shivaji Vidya Mandir Prim Schoo,East West Building,East Side Room No.1 , Amalner",15
+137 - Amalner,"Shivaji Vidya Mandir Prim School East West Building, West Side Room No.2 , Amalner",15
+138 - Amalner,"Dr.Babasaheb Ambedkar Government Backword Class Boy's Hostel Office ,Chopda Road, Amalner",15
+139 - Amalner,"Aabaso. Anil Ambar Patil Primary School, Gandhali Pura East-West Building East Side Room No.1, Amalner",15
+140 - Amalner,"Deputy Engineer, Water Supply Z.P. Subdivision Office , Amalner",15
+141 - Amalner,"Nagarpalika Firebrigade Building South Side Room 3, Amalner",15
+142 - Amalner,"Swami Vivekananda International School South-North Building, East Room No. 1, Amalner",15
+143 - Amalner,"Swami Vivekananda International School South-North Building, West Room No. 1, Amalne",15
+144 - Amalner,Shri N T Mundada Global English medium school amalner old East-West building West Side Room no 01 ,15
+145 - Amalner,Shri N T Mundada Global English medium school amalner East-West New building East Side Room no 01 (Southward),15
+146 - Amalner,Shri N T Mundada Global English medium school amalner East-West New building West Side Room no 01 (Northward),15
+147 - Amalner,"Nagarpalika Recovery Dept. Room No 01, Amalner",15
+148 - Amalner,"Nagarpalika Recovery Dept. Room No 02, Amalner",15
+149 - Amalner,"Shetkari Sahakari Sangh Office , Room No.1, Amalner",15
+150 - Amalner,"Aabaso. Anil Ambar Patil Primary School, Gandhali Pura North-South Building South SideRoom No.2, Amalner",15
+151 - Amalner,"Aabaso. Anil Ambar Patil Primary School, Gandhali Pura North-South Building South Side Room No.3, Amalner",15
+152 - Amalner,"Shetkari Sahakari Sangh Office , Room No.2, Amalner",15
+153 - Amalner,"Aabaso. Anil Ambar Patil Primary School, Gandhali Pura East-West Building East Side Room No.3, Amalner",15
+154 - Amalner,"Backward Class Chhatralaya South Side Room No.1, Amalner",15
+155 - Amalner,"Backward Class Chhatralaya Room No.2, Amalner",15
+156 - Amalner,Backward Class Chhatralaya room no3 amalner,15
+157 - Amalner,"Nagar Parishad Samaj Mandir East Side Room, Amalner",15
+158 - Amalner,"Samaj Mandir West Side Room, Amalner",15
+159 - Amalner,"Nagarpalika Madhyamik Vidyalaya, North South Building , West Side Room No.1, Amalner",15
+160 - Amalner,"Nagarpalika Madhyamik Vidyalaya, North South Building , West Side Room No.2, Amalner",15
+161 - Amalner,"Nagarpalika Madhyamik Vidyalaya, North South Building , East Side Room No.1, Amalner",15
+162 - Amalner,"Nagarpalika Madhyamik Vidyalaya, North South Building , East Side Room No.2 , Amalner",15
+163 - Amalner,"Lokmanya Shikshan Mandal , Navin Marathi School, East West Building, East Side Room No.1 , Amalner",15
+164 - Amalner,"Nagar Parishad Lalwani Kanyashala (New vision English school), North south building North Side Room No. 1 , Amalner",15
+165 - Amalner,"D.R.Kanyashala , ground floor Room No.2, Amalner",15
+166 - Amalner,"Rajsarathi Sabhagruh , Amalner",15
+167 - Amalner,"Panchayat Samiti Sabhagruh , Amalner",15
+168 - Amalner,"Saraswati Vidya Mandir Shankar Nagar, North Side Room No.2 Amalner",15
+169 - Amalner,"Saraswati Vidya Mandir Shankar Nagar, North Side Room No.3 Amalner",15
+170 - Amalner,"Saraswati Vidya Mandir Shankar Nagar, North Side Room No.4 Amalner",15
+171 - Amalner,"Jay Yogeshwar Sec.& High.Sec.School East West Building , South Facing Room No.1 , Amalner",15
+172 - Amalner,"Jay Yogeshwar Sec. & High Sec., North-South New Building, Eastern Room No. 1, Amalner",15
+173 - Amalner,"Jay Yogeshwar Sec.& High.Sec.School East West Building , North Facing Room No.2 , Amalner",15
+174 - Amalner,"Stamp Wendor Hall , Near Rajsarathi Sabhagruh , Amalner",15
+175 - Amalner,"Sane Guruji Madhayamik Vidyalaya , North South Building , North Side Room No.1, Amalner",15
+176 - Amalner,"Golden Wings School ,East West Building,Room No. 2 , Amalner",15
+177 - Amalner,"Golden Wings School ,East West Building Room No. 1 , Amalner",15
+178 - Amalner,"Golden Wings School ,East West Building, Room No. 3 , Amalner",15
+179 - Amalner,"Golden Wings School ,East West Building, Room No. 4 , Amalner",15
+180 - Amalner,"Gangaram Sakharam HighSchool, East West Building, West Side Room No. 1 , Amalner",15
+181 - Amalner,"Gangaram Sakharam HighSchool, East West Building, West Side Room No. 3 , Amalner",15
+182 - Amalner,"Lokmanya Shikshan Mandal , Navin Marathi School , East-West building East Side Room No 6 , Amalner",15
+183 - Amalner,"Lokmanya Shikshan Mandal , Navin Marathi School , East-West building East Side Room No.4 , Amalner",15
+184 - Amalner,"Indira Gandhi School, East West Building, East Side Room No.1, , Amalner",15
+185 - Amalner,"Indira Gandhi School, North-South Building North SideRoom No.1, Amalner",15
+186 - Amalner,"Indira Gandhi School, North-South Building North SideRoom No.2, Amalner",15
+187 - Amalner,"Indira Gandhi School,East-west Building eastern side Room No 02, Amalner",15
+188 - Amalner,"Gangaram Sakharam HighSchool, East West Building, East Side Room No.1, Amalner",15
+189 - Amalner,"Gangaram Sakharam HighSchool, East West Building, East Side Room No.2, Amalner",15
+190 - Amalner,"Nagar Palika School No.12, (Saibaba Urdu Primary School ) North south building Southern Side Room No.3 (East Side), Amalner",15
+191 - Amalner,"Nagar Palika School No.12, (Saibaba Urdu Prim School ) North south building South Side Room No.2 (East Side), Amalner",15
+192 - Amalner,Vanita Samaj Mandal School Room no. 1 Amalner,15
+193 - Amalner,"Narayandas Tejakaran Mundada Highschool East-West Building North Side Room, Amalner",15
+194 - Amalner,"Rajarshi Shahu Primary School, Pailad North Side Room No.2, Amalner",15
+195 - Amalner,"Rajarshi Shahu Primary School, Pailad North Side East Facing Room No.2, Amalner",15
+196 - Amalner,"Karmaveer Dadasaheb Gaikwad Highschool North-South Building South Side Room No.1, Pailad, Amalner",15
+197 - Amalner,"Karmaveer Dadasaheb Gaikwad Highschool North-South Building South Side Room No.3, Pailad, Amalner",15
+198 - Amalner,"Nagarpalika School No.12, North south building south Side Room No.1 (West site), Amalner",15
+199 - Amalner,"Nagarpalika UrduSchool, No.6, East west building, Groundfloor, East Side Room No.1, Amalner",15
+200 - Amalner,"Nagarpalika UrduSchool, No.6, East west building, Groundfloor, East Side Room No.3, Amalner",15
+201 - Amalner,"Nagarpalika UrduSchool, No.6, East west building, Groundfloor, East Side Room No.5, Amalner",15
+202 - Amalner,"Nagarpalika School No.12, North south building South Side , Room No.4 , (West Side)Amalner",15
+203 - Amalner,"Nagarpalika School No.12, North south building (West Side) East Side Room No.1, Amalner",15
+204 - Amalner,Narayandas Tejkaran Mundada High School South-North Building North Side Room No.2 Amalner,15
+205 - Amalner,Narayandas Tejkaran Mundada High School North-South Building South Side Room No.1 Amalner,15
+206 - Amalner,Narayandas Tejkaran Mundada High School East-West Building South Side Room Amalner,15
+207 - Amalner,"Samata Yuvak Kalyan Kendra Sanchalit Sec.School Fafore road East west building, East Side Room No.2 Amalner",15
+208 - Amalner,"Samata Yuvak Kalyan Kendra Sanchalit Primary School Fafore road East west building, East Side Room No 03 Amalner",15
+209 - Amalner,"Samata Yuvak Kalyan Kendra Sanchalit Primary School Fafore road East west building, East Side Room No.04 Amalner",15
+210 - Ardi,"Z.P.Primary School, East west building, East Side Room No.3,",15
+211 - Ardi,"Z.P.Primary School, East west building, west Side Room No.2,",15
+212 - Talwade,"Anganwadi Room, Talwade",15
+213 - Javkheda,"Z.P.Primary School, East-West New Building, East Side Room No.1, Javkheda",15
+214 - Javkheda,"Z.P. Primary School, East-West New Building, East Side Room No.4, Javkheda",15
+215 - Javkheda,"Z.P. Primary School, North-South Building South Side Room No.2, Javkheda",15
+216 - Pimple Kh.,"Gram Panchayat Karyalaya, Pimple Kh.",15
+217 - Pimple Bk.,"Gram Panchayat Office, Pimple Bk.",15
+218 - Atale,"Z.P. Primary School, East-West Building, East Side Room No.1 , Atale",15
+219 - Mangrul,"Z.P. Primary Boy's school, South-North Building South Side Room No.1, Mangrul",15
+220 - Mangrul,"Z.P. Primary Boy's school, South-North Building North Side Room No.2, Mangrul",15
+221 - Mangrul,"Z.P. Primary Girl's School, East-West Building West Side Room No.1, Mangrul",15
+222 - Mangrul,"Z.P.Primary Girl's School, East-West Building East Side Room No.1, Mangrul",15
+223 - Palasdale,"Z.P.Primary School (RCC Building) East Side Room no. 1, Palasdale",15
+224 - Rameshwar Kh.,"Z.P. Primary School North-South Old Building , North Side Room No.1 , Rameshwar Kh.",15
+225 - Kurhe Kh.,"Z.P. Primary School, East-West old Building East Side Room No.1, Kurhe Kh.",15
+226 - Kurhe Bk.,"Z.P. Primary School, North-South Building South Seperate Room, Kurhe Bk.",15
+227 - Vyavahardal,"Z.P. Primary School East-West Building East Side Room No.1, Vayvhardal",15
+228 - Mhasle,"Z.P. Primary School, East-West Building East Side Room No 01 , Mhasle",15
+229 - Kandari Khurd,"Z.P. Primary School, North-South Building South Side Room No.1, Kandari Kh.",15
+230 - Lone,"Z.P. Primary School, North-South Building South Side Room No.1 , Lone",15
+231 - Hedawe,"Z.P. Primary School, East-West Building , East Side Room No.1, Hedawe",15
+232 - Sundarpatti,"Z.P. high Primary School, East-West new Building, East Side Room No.2, Sundarpatti",15
+233 - Bahadarwadi,"Z.P.Primary School,Southern Room with leaf roof,Bahadarwadi",15
+234 - Khokarpat,"Z.P. Primary School, East-West Building, East Side Room No.1, Khokarpat",15
+235 - Vaghode,"Z.P. Primary School, North-South Building, South Side Room No.1, Vaghode",15
+236 - Khadake,"Z.P. Primary School, East-West Building, East Side Room No.3, Khadake",15
+237 - Nisardi,"Anganwadi Room , Nisardi",15
+238 - Ranaiche Bk.,"Z.P.Primary School, East-West Building, West Side Room No.1, Ranaiche",15
+239 - Ranaiche Kh.,"Z.P. Primary School, East-West Building, East Side Room No.3, Ranaiche",15
+240 - Anchalwadi,"Z.P. Primary School, East-West Building, East Side Room No.1, Anchalwadi",15
+241 - Londhave,"Z.P. Primary School, East-West Building, West Side Room No.1, Londhave",15
+242 - Londhave,"Z.P. Primary School, East-West Building, East Side Room No.1 , Londhave",15
+243 - Sarbete Khurd,"Z.P. Primary School, North-South New Building, North Side Room No.1 , Sarbete kh",15
+244 - Sarbete Bk,"Z.P. Primary urdu School, East-West Building, East Side Room No.2 , Sarbete Bk.",15
+245 - Dheku Kh.,"Z.P. Primary School, East-West Building, East Side Room No.2 , Dheku Kh.",15
+246 - Dheku Kh.,"Z.P. Primary School, East-West Building, East Side Room No.3 , Dheku Kh.",15
+247 - JuNone,"Z.P. Marathi School, North-South Building South Side Room No.1, JuNo.ne",15
+248 - Radhawan,"Z.P. Primary School, Primisses new Aaganvadi Room, Radhawan",15
+249 - Ekrukhi,"Z.P. Kendra Shala East-West Building East Side Room, 03 Fafore Bk.",15
+250 - Fafhore Bk.,"Z.P. Kendra Shala West Side North South Single Room, Fafhore Bk.",15
+251 - Fafore Bk.,"Z.P. Center School East-West Building South Side Separate Room No. 4, Fafore Bu",15
+252 - Hingone Kh. Pr. A.,"Z.P. Primary School, East-West Building, East Side Room No.1 , Hingone Kh Pr.A.",15
+253 - Shirud,"Z.P. Primary School Shirud East-West Building, West Side Room No.1, Shirud",15
+254 - Shirud,"Z.P. Primary School Shirud East-West Building, West Side Room No.3, Shirud",15
+255 - Shirud,"Z.P. Primary School Shirud North-South New Building South Side Room No. 3, Shirud",15
+256 - Chopdai,"Z.P. Primary School, West Side Single Room, Chopdai",15
+257 - Chopdai,"Z.P. Primary School, East-West Building, East Side Room No.1 , Chopdai",15
+258 - Dangar Bk.,"Z.P. .Primary School, East-West Building, East Side Room No.1, Dangar Bk.",15
+259 - Dangar Bk.,"Z.P. Primary School, East-West Building, East Side Room No.2 , Dangar Bk.",15
+260 - Janve,"Z.P.Prathmik Kendra Shala (Boy's) North-South Building North Side Room No.2, Janve",15
+261 - Janve,"Z.P.Prathmik Kendra Shala (Boy's) North-South Building North Side Room No.4, Janve",15
+262 - Janve,"Z.P. Prathmik Kanya Shala East-West Building East Side Room No.2, Janve",15
+263 - Janve,"Z.P. Prathmik Kanya Shala East-West Building East Side Room No.4, Janve",15
+264 - Kavpimpri,"Z.P. Primary School, East-West Building, East Side Room No.2 , Kavpimpri-Indrapimpri",15
+265 - Inrapimpri,"Z.P. Primary School, East-West Building, East Side Room No.6, Kavpimpri-Indrapimpri",15
+266 - Kanhere,"Z.P. Primary School, East-West Building, East Side Room No.1 , Kanhere",15
+267 - Kanhere,"Z.P. Primary School, East-West Building, East Side Room No.2 , Kanhere",15
+268 - Bilkhede,"Z.P. Primary School, East west building wester Side Room No. 2 Bilkhede",15
+269 - Sadawan Bk.,"Z.P. Primary School, East-West New Building, East Side Room No.1 , Sadawan Bk.",15
+270 - Sadawan Bk.,"Z.P. Primary School, East west Building, East Side Room No.2 , Sadawan Bk.",15
+271 - Rajwad,"Z.P. Primary School, East-West Building,West Side Room No.1 , Rajwad",15
+272 - Rajwad,"Z.P. Primary School, North-South Building,Southern side Room No.1 , Rajwad",15
+273 - Khedi Dhok,"Z.P. Higher Primary School,Norther Side (Hexagonal) Room, Khedi Dhok",15
+274 - Chikhlod Khurd,"Z.P. Primary School, North Side Room No.1 ,Chikhlod Kh.",15
+275 - Holpimpri,"Z.P. Primary School, East-West Building East Side Room No.3, Ratnapimpri",15
+276 - Dabapimpri,"Z.P.Primary School, South North Building Room No.1 , Dabapimpri",15
+277 - Rathapimpri,"Z.P. .Primary School,North South Building, North Side Room No 3, Ratnapimpri",15
+278 - Rathapimpri,"Z.P. .Primary School,East West Building,East Side Room No.1, Ratnapimpri",15
+279 - Kolpimpri,"Z.P.Primary School, East west Building, East Side Room No.1, Kolpimri",15
+280 - Kolpimpri,"Z.P.Primary School,East west Building, East Side Room No.3, Kolpimpri",15
+281 - Bhilali,Z.P. Primary School New building Easter side Room No. 2,15
+282 - Bhilali,"Z.P. Jeevan Shikshan Vidya Mandir, new Building, West Side Room No.4 , Bhilali",15
+283 - Ambapimpri,Separate hexagonal room on the east side of the gate to the north of the ZPC Central School.Ambapimpri,15
+284 - Ambaprimpri,Separate hexagonal room on the west side of the gate to the east of the ZP school. Ambapimpri,15
+285 - Sumthane,"Z.P., Primary School, North Side Room No.1, Sumthane",15
+286 - Indhave,"Z.P.Primary School, New (Hexagonal) Room, Indhave",15
+287 - Jirali,"Gram Panchayat Office, Jirali",15
+288 - Pimpalkothe,"Anganwadi Room , Pimpalkothe",15
+289 - Bholane,"Gram Panchayat Office, Bholane",15
+290 - Vasantnagar,"Z.P.Primary School,East West Building East Side Room No.1 , Vasantnagar",15
+291 - Vasantnagar,"Z.P. .Primary School,East West Building East Side Room No.2 , Vasantnagar",15
+292 - Vasantnagar,"Z.P. .Primary School,East West Building East Side Room No.4, Vasantnagar",15
+293 - Bahadarpur,"Z.P. .Primary School,East West Building East Side Room No.1 , Bahadarpur",15
+294 - Bahadarpur,"Z.P.Primary School, East West Building East Side Room No.3, Bahadarpur",15
+295 - Bahadarpur,"Z.P.Primary School, new Room, Bahadarpur",15
+296 - Shirsode,"R.K. Mishra Vidya Mandir,East Side Building, North Side Room No.1 , Shirsode",15
+297 - Shirsode,"R.K. Mishra Vidya Mandir, West Side Building, North Side Room No.1, Shirsode",15
+298 - Shirsode,"R.K. Mishra Vidya Mandir, West Side Building North Side Room No.5, Shirsode",15
+299 - Mahalpur,"Z.P.Primary School East West old Building East Side Room No.1 , Mahalpur",15
+300 - Mahalpur,"Z.P. .Primary Vidya Mandir, East West old Building East Side Room No.3 , Mahalpur",15
+301 - Kankraj,"Z.P. higher Primary School, South Side Room No.1 , Kankraj",15
+302 - Kankraj,"Z.P. higher Primary School, South Side Room No 2., Kankraj",15
+303 - Shelawe Bk.,"Z.P. .Primary Center School,North Side Room No.1 , Shelawe Bk.",15
+304 - Shelawe Bk.,"Z.P. .Primary Center School, North South Building North Side Room 3, Shelawe Bk.",15
+305 - Shelawe Kh.,"Z.P.Primary School, North-South Building North Side Room No.1 , Shelawe Kh.",15
+306 - Mohadi,"Z.P. .Primary School, East West Building West Side Room No.1, Mohadi",15
+307 - Sabgwhan Pr. A.,"Z.P. higher Primary School,East West Building East Side Room No.1, Sabgwhan Pra. A.",15
+308 - Sabgwhan Pr. A.,"Z.P. higher Primary School,East West Building East Side Room No.2, Sabgwhan Pra. A.",15
+309 - Hirapur,"Z.P. .Primary School, East-West Building West Side Room No.1, Hirapur",15
+310 - Dhabe,"Z.P.Primary School, East West Building East Side Room No.2 , Dhabe",15
+311 - Bhokarbari,"Z.P. Higher Primary School, West Side Room No.1, Bhokarbari",15
+312 - Shewge Bk.,"Z.P. higher primary school East West Building East Side Room No.1, Shewge Bk.",15
+313 - Shewge Bk.,"Z.P. higher primary school East West Building East Side Room No.4, Shewge Bk.",15
+314 - Bodarde,"Anganwadi Building, Bodarde",15
+315 - Vanjari kh.,"Z.P. Marathi School, North Side Room No.1, Vanjari Kh",15
+316 - Sabgawhan KH,"Z.P. .Primary School, East West Building East Side Room No.2 , Sabgawan Kh.",15
+317 - Dalwel,"Z.P. Primary Marathi School,North South New Building, Northen Side Room No.2 , Dalwel",15
+318 - Dalwel,"Z.P. Primary Marathi School,North South New Building, Northen Side Room No.3 , Dalwel",15
+319 - Hiverkhede Tanda,"Z.P. School, North South Building, North Side Room No.2 , Hiverkheda Tanda",15
+320 - Hiverkhede Kh.,"Z.P. School, North South Building, North Side Room No.3 , Hiverkheda Kh.",15

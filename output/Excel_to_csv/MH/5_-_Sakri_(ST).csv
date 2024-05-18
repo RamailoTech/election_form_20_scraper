@@ -1,0 +1,371 @@
+PS No & Name,Address,Constituency Number
+1 - Sinaban,"Z.P. Primary School Sinban,Northen Side East- West Building, Room No.1 From East.",5
+2 - Kalatek,"Z.P.Primary School Kaltek,North-South Buliding,Room No.1 From North",5
+3 - Pachale,"Z.P. Primary School Pachale, East - West Building,Room No.1 From West Side.",5
+4 - Korde,"Z.P.Primary School Korde, South-North Building,Room No.1 From North.",5
+5 - Vajadare,"Z.P. Primary School Korde, South-North Building, Room No.3 From North.",5
+6 - Vitave,"Z.P. Primary School Vitave, East - West Building, Room No.1 From East.",5
+7 - Chhadavel (k ),"Z.P. Center School Chhadwel (K), Western Side North - South Building , Room No.1 From South",5
+8 - Chhadavel (k ),"Z.P. Center School Chhadwel (K), Western Side North - South Building , Room No.3 From South",5
+9 - Chhadavel (k ),"Z.P. Center School Chhadwel (K), Eastern Side North-South Building,Room No.3 From South",5
+10 - Dhavalivihir,"Z.P. Primary School Dhavalivihir, East-West Building, Room No. 1 From Western Side.",5
+11 - Kuttaramare,"Z.P.Primary School Kuttarmare, East-West Building,Room No.1 From East.",5
+12 - Titane,"Z.P. Primary School Titane, East-West Building,Room No.2 From East.",5
+13 - Titane,"Z.P. Primary School Titane, East-West Hexagonal Builiding , Room No.1 From West.",5
+14 - Panhalipada,"Z.P. Primary School Panhalipada, East-West Builiding , Room No.1 From East.",5
+15 - Khori,"Z.P. Primary School Khori, East-West Builiding , Room No.1 From East.",5
+16 - Khori,"Z.P. Primary School Khori, East-West Builiding ,Room No.2 From East.",5
+17 - Khori,"Z.P. Primary School Khori, East-West Builiding , Room No.4 from west",5
+18 - Jamade,Z.P.Primary Boys School Jamade,5
+19 - Petale,"Z.P. Primary School Petle East - west New building, West side Room No. 1",5
+20 - Isarde,"Z.P. Primary School Isarde, North-South Builiding, Room No. 1 From North.",5
+21 - Valhave,"Z.P. Primary School Valhave, Old Builiding (West Side) .",5
+22 - Valhave,"Z.P. Primary School Valhave, New Builiding. (East Side)",5
+23 - Basar,"Z.P. Primary School Basar, North-South Builiding , Room No.2 From North .",5
+24 - Ranjanaganv,Z.P. Primary School Ranjangaon,5
+25 - Amakhel,"Z.P. Primary School Amakhel, East-west Builiding , Room No.1 From East.",5
+26 - Pangan,"Z.P. Primary School Pangan, New Building",5
+27 - Mogarapada,"Z.P.Primary School Mogarpada,East-West Builiding,Room No.2 From East",5
+28 - Bramhanavel,Z.P. Primary School Bramhanwel Western side New building,5
+29 - Nagaziri,Z.P.Center School Nagaziri North Side Hexagonal Building Room No.1 from east,5
+30 - Nagaziri,Z. P. Marathi School Nagaziri,5
+31 - Ziranipada,"Z.P. Primary School Ziranipada, Southern side new building",5
+32 - Chipalipada,"Z.P. Primary School Chipalipada, East-West building, Room No.4 From East.",5
+33 - Chipalipada,"Z.P. Primary School Chipalipada, East-west building, Room No.2 from west.",5
+34 - Vihiraganv,"Z.P. Primary School Vihirgaon, North-western Room",5
+35 - Bhoratepada,"Z.P. Primary School Bhortepada, East-west building, Room No.2 from east",5
+36 - Navapada,"Z.P.Center School Nawapada, North-South Old Building, Room No 2 from South",5
+37 - Navapada,"Z.P. Center School Nawapada, Nothern side, New Building",5
+38 - Panganadar,"Z.P. Primary School Pangandar, western side Room",5
+39 - Devajipada,"Z.P. Primary School Devajipada, East-west Old Building, Room no 3 from east side",5
+40 - Mavajipada,"Z.P. Primary School Mawajipada,East-west building Room No.1 from East",5
+41 - Jambhore,"Z.P. Primary School Jambhore, north-west corner building",5
+42 - Babulade (babhulapada ),"Z.P. Primary School Babulde, (Babul pada) New Building Room no 1. from east",5
+43 - Rayatel,"Z.P. Primary School Rayatel, room no. 1 from East",5
+44 - Gulatare,"Z.P. Primary School Gultare, Old room",5
+45 - Pinjarazadi,"Z.P. Primary Center School Pinjarazadii, East-West building, West side Room No. 3",5
+46 - Pinjarazadi,"Z.P. PrimaryCenter School Pinzarjadi, East-west building, Room No.4 from West",5
+47 - Burudakhe,"Z.P. Primary School Burudakhe, western side building",5
+48 - Panchamauli,"Z.P. Primary School Panchamauli , -West - East Northan Room New Building",5
+49 - Rayakot,"Z.P. Primary School Raykot, western side building",5
+50 - Laghadaval,"Z.P. Primary School Laghadwal, western side building",5
+51 - Dhaner,"Z.P. Primary School Dhaner, westernside north-south wing, room no. 2 from west",5
+52 - Bhoratipada,"Z.P. Primary School Bhortipada, western side, east-west building, room no. 1 from west",5
+53 - Toranakudi,"Z.P. Primary School Torankudi, North- South New Building, North Side Room No 1",5
+54 - Khatrayalaanmba (toranakudi ),"Z.P. Primary School Khatyalamba, East- West Building, East side Room No.2",5
+55 - Amali,"Z.P. Primary School Amali, Old Middle Room",5
+56 - Amali,"Z.P. Primary School Amali, westernside Hexagonal room",5
+57 - Umbarakhandava,Z.P. Primary School Umbarkhadawa,5
+58 - Shirasole,"Z.P. Primary School Shirasole, east-west building, room no.1 from west",5
+59 - Niragudipada,Z.P. Primary School Nirgudipada,5
+60 - Sutare,"Z.P. Primary School Sutare, room no 1. from east",5
+61 - Khandabare,"Z.P. Primary School Khandbare, east-west building, Room No.1 from east",5
+62 - Jamazira,Z.P. Primary School Jamazira new building Northern room no. 1,5
+63 - Machamal,"Z.P. Primary School Machamal, East- West Building, East side Room No.2",5
+64 - Kurusavade,"Z.P. Primary School Kuruswade, room having ramp.",5
+65 - Shivarimal,"Z.P. Primary School Shiwarimal, Northern side Hexagonal Building",5
+66 - Kabaryakhadak,"Z.P. Primary School Kabaryakhadak, east-west building, room no. 1 from west",5
+67 - Chaupale,"Z.P. Primary School Choupale(Gavthan), south-north building, room no. 1 from south",5
+68 - Davanyapada,"Z.P. Primary School Davanyapada, new East-West Hexagon building,",5
+69 - Garatad,Z.P. Primary School Gartad.,5
+70 - Kuher,"Z.P. Primary School Kuher, new Hexagonal building",5
+71 - Rainapada,"Z.P. Primary Center School Rainpada, East-West building Room No. 1",5
+72 - Kakarde,"Z.P. Primary School Kakarde, western side old building",5
+73 - Hanumantanagar,Z.P. Primary School Hanumantnagar,5
+74 - Rohod,"Z.P. Primary Center School Rohod, east- west Building, room no. 1 from east",5
+75 - Rohod,"Z.P. Primary Center School Rohod, east- west Building, room no 1 from west",5
+76 - Jamakhel,"Z.P. Primary School Jamkhel, North- South building,North side Room No - 1",5
+77 - Maindane,"Z.P. Primary School Maindane, east-west building, room no 1 from east",5
+78 - Maindane,"Z.P. Primary School Maindane, eastern side hexagonal room",5
+79 - Bodaganv,"Z.P. Primary School Bodgaon, North-South building, Room No.1 from south",5
+80 - Chinchapada,"Z.P. Primary School Chinchpada, Western side New Building",5
+81 - Dahivel,"Z.P.Boys Center School Dahivel, Northern side, east-west Building, Room No.1 from east.",5
+82 - Dahivel,"Z.P. Boys Center School Dahivel, Northern side, east-west Building, Room No.3 from east.",5
+83 - Dahivel,"Z.P. Girls School Dahivel, Southern side, east-west Building Room No.2 from east",5
+84 - Dahivel,"Z.P. Boys School Dahivel, Western side, North-South Building Room No 3. from Northern side",5
+85 - Dahivel,"Z.P. Girls School Dahivel, southern side, east-west Building, Room No.5 from east",5
+86 - Bodakikhadi,"Z.P. Primary School Bodakikhadi, western side New Building, Room No.1 from north",5
+87 - Bodakikhadi,"Z.P. Primary School Bodakikhadi, northernside east-west Building, Room No.2 from west",5
+88 - Satarapada,"Z.P. Primary School Satarpada, northern side, East-West Building, Room No.2 from west",5
+89 - Satarapada,"Z.P. Primary School Satarpada, northern side, East-West Building, Room No.1 from west",5
+90 - Kendaibari,"Z.P. Primary School Kharadbari, Eastern Side new Hexagonal building",5
+91 - Kharadabari,"Z.P. Primary School Kharadbari, east-west building Room No.2 from west",5
+92 - Malanaganv,"Z.P. Primary School Malangaon, westernside north-south building, room no. 1 from south",5
+93 - Bhonaganv,"Z.P. Primary School Bhongaon,Room No.1 from West",5
+94 - Kaladar,"Z.P. Primary School Kaldar, Southernside New Building",5
+95 - Amode,"Z.P. Primary School Amode, east-west New building, Room No.1 from east",5
+96 - Dholipada,"Z.P. Primary School New Building Dholipada, Room No.1 from North",5
+97 - Dholipada,"Z.P. Primary School New Building Dholipada, Room No.1 from South",5
+98 - Ghodade,"Z.P. PrimaryCentre School Ghodade, northern side East-west new building, Room No.1 from east",5
+99 - Ghodade,"Z.P. Primary Centre School Ghodade, northern side East-west new building, Room No.1 from west",5
+100 - Kiravade,"Z.P. Primary School Kirwade, north-south new building, Room No.1 from north",5
+101 - Surapan,"Anganwadi Room,east- west Room Surpan",5
+102 - Rohon,"Z.P. Primary School Rohan, East-West building, Room No. 1 from west",5
+103 - Dhavalivihir,"Z.P. Primary School Dhavalivihir, East-West building, Room No.1 from west",5
+104 - Zanzale,"Z.P. Primary School Zanzale, westernside, north-south building, room no.1 from north",5
+105 - Pimpalaner,"Z.P. Primary Girls School no.2 Pimpalner, Northern side East-West building,East side Room No.1",5
+106 - Pimpalaner,"Z.P. Primary Girls School no.2 Pimpalner, Northern side East -West building, East side Room No.3",5
+107 - Pimpalaner,Z.P. Marathi Girls School Pimpalner Southern side building Room No. 3,5
+108 - Pimpalaner,Z.P. Marathi Girls School Pimpalner Southern side building Room No. 5,5
+109 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, Western side, north-south new building, room no.2 from south",5
+110 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, Western side North-South New building, South side Room no.3",5
+111 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, Western side North-South New building, South side room no.4",5
+112 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, eastern side, north-south old building, room no.2 from north",5
+113 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, east side , north-south old building north side room no.4",5
+114 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, Eastern side North- Sooth Old building, North side room no.6",5
+115 - Pimpalaner,"K.A.M. Patil secondary And higher secondary school Pimpalner, Eastern side, north-south old building, room no.1 from west",5
+116 - Pimpalaner,"S.P. Patil secondary And higher secondary school Pimpalner, northernside east-west building room no.2 from east",5
+117 - Pimpalaner,"S.P. Patil secondary And higher secondary school Pimpalner, northernside east-west building room no.4 from east",5
+118 - Pimpalaner,"Z.P. Primary Boys School no.2 Pimpalner, east-west building, Room No.2 from west.",5
+119 - Pimpalaner,"Z.P. Primary Boys School no.1 Pimpalner, east-west building, Room No.3 from west.",5
+120 - Pimpalaner,"Z.P. Primary Boys School no.1 Pimpalner, east-west building, Room No.5 from west.",5
+121 - Pimpalaner,"Z.P. Primary Boys School no.1 Pimpalner, east-west building, Room No.7 from west",5
+122 - Chikase,"Z.P. Primary School Chikase, east-west building, Room No.1 from east",5
+123 - Chikase,"Z.P. Primary School Chikase, east-west building, Room No.2 from east",5
+124 - Shevadipada,"Z.P. Primary School Shewadipada, east-west building, room no. 1 from east",5
+125 - Samode,"Z.P. Primary School Samode, westernside, north-south building Room No.4 from south",5
+126 - Samode,"Z.P. Primary School Samode, easternside, north-south building Room No.4 from south",5
+127 - Samode,"Z.P. Primary School Samode, northernside east-west building, Room No.2 from east",5
+128 - Samode (ghodyamal ),"Z.P. Primary School Indiranagar (Pimpalner) Southernside north-south building, Room No.2 from south",5
+129 - Samode (ghodyamal ),"Z.P. Primary School Indiranagar (Pimpalner) Northernside north-south building, Room No.1 from South",5
+130 - Samode,"Nutan Vidya Mandir Samode, southernside east-west new building Room No.3 from east.",5
+131 - Samode,"Z.P. Primary School Indiranagar (Pimpalner) Northernside north-south building, Room No.2 from north",5
+132 - Samode,"Nutan Vidya Mandir Samode, southernside east-west building Room No.5 from east.",5
+133 - Mhasadi Pr. Pimpalaner,"Z.P. Primary School Mhasadi pr.Pimpalner, east-west building, Room No.1 from east",5
+134 - Deshashiravade,"Z.P. Primary School Deshshirwade, east-west building, Room No.2 from East",5
+135 - Deshashiravade,"Z.P. Primary School Deshshirwade, east-west building, Room No.3 from west",5
+136 - Balhane,"Z.P. Primary School Balhane, north-western Side,new north-south building, Room No.2 from north",5
+137 - Balhane,"Z.P. Primary School Balhane, north-eastern side new east-west building, Room No.2 from east",5
+138 - Shevage,"Z.P. Primary School Shewage, east-west building, Room No.2 from West",5
+139 - Sitaramapur,"Z.P. Primary School Sitarampur, north-south building, room no 2 from south",5
+140 - Kokanaganv,"Z.P. Primary School Kokangaon, north-south building, Room No.1 from south",5
+141 - Virakhel,"Z.P. Primary School Virkhel, north-south building, Room No.1 from south",5
+142 - Mandane,"Z.P. Primary School Mandane, north-south building, Room No.1 from south",5
+143 - Dhamanadar,"Z.P. Primary School Dhamandhar, east-west building, Room No.1 from east",5
+144 - Paraganv,"Z.P. Primary School Pargaon, easternside east-west building, Room No.1",5
+145 - Paraganv,"Z.P. Primary School Pargaon, South-north building, Room No.1 from north",5
+146 - Dhongadedigar,"Z.P. Primary School Dhongadedigar, north-South building",5
+147 - Shelabari,"Z.P. Primary School Lahan Shelbari, easternside old building",5
+148 - Kadyale,"Z.P. Primary School Kadyale, east-west building, room no 1 from west",5
+149 - Dapur,"Z.P. Primary School Dapur, east-west building, room no. 1 from east",5
+150 - Dhangai,"Z.P. Primary School Dhangai, east-west building, room no.1 from west",5
+151 - Jebapur,"Z.P. Primary School Jebapur, east-west building, Room No.1 from east",5
+152 - Navenagar,"Z.P. Primary School Navenagar, east-west building. Room no. 1 from east",5
+153 - Mohane,Z.P. Primary School Mohane,5
+154 - Mohane (chipipada),Z.P. Primary School Mohane (Chippipada) North - South Building Northan Site Room No. 1,5
+155 - Mohane (chikhali pada),"Z.P. Primary School Mohane ( Chikhali Pada), East - West Building, West side Room No. 1",5
+156 - Tebhe. Pr. Varsa,Z.P.Primary School Pawarpada(Tembhe. pr.Varsa),5
+157 - Shivaji Nagar,Z.P. Primary School Bhoyachapada (Shivajinagar),5
+158 - Bagulanagar,Z.P.Primary School Bagulnagar,5
+159 - Kuttarakhamb,"Z.P. Primary School Kuttarkhamb, south-north building, room no. 1 from south",5
+160 - Punajinagar,"Z.P. Primary School Punyachapada,North-South Builiding, Room No.1 from South",5
+161 - Jayaramanagar,"Z.P. Primary School Patlipada (Jayramnagar) east-west building, room no. 1 from east",5
+162 - Kailasanagar,Z.P. Primary School Malpada (Kailasnagar),5
+163 - Devalipada,"Z.P. Primary Centre School Devlipada, New building",5
+164 - Pimpalaganv Bu. / Vadapada,Z.P. Primary School Vadpada (Pimpalgaon Bk.),5
+165 - Pimpalaganv Bu. /,Z.P. Primary School Shinpada (Pimpalgaon Bk.),5
+166 - Pimpalaganv Bu. /,Z.P. Primary School Tekpada (Pimpalgaon Bk.),5
+167 - Karanzati,Aanganwadi Karanzati,5
+168 - Nandarakhi,Manav Vikas Mission Anganwadi Center Nandarkhi,5
+169 - Umarapata,"Z.P. Primary School Papadsonda (Umarpata), east-west building, Room No.1 from east",5
+170 - Basaraval,"Z.P. Primary Center School Basarawal, easternside north-south building, Room No.1 from north",5
+171 - Basaraval,"Z.P. Primary Center School Basarawal, easternside north-south building, Room No.2 from north",5
+172 - Kadupada,"Z.P. Primary School Kadupada, North Side Room",5
+173 - Kadupada,"Z.P. Primary School Kadupada, Nothern side Hexagonal Room",5
+174 - Khairakhunta,"Z.P. Primary School Khairkhunta, east-west building, Room No.1 from east",5
+175 - Khairakhunta,"Z.P. Primary School Khairkhunta, east-west building, Room No.1 from west",5
+176 - Charanamal,"Z.P. Primary School Charanmal, east-west building, Room No.1 from east",5
+177 - Charanamal,"Z.P. Primary School Charanmal, east-west building, Room No.2 from east",5
+178 - Malaganv Pr. Varsa,Z.P. Primary School Malgaon pr.Varsa,5
+179 - Kharaganv,"Grampanchayat Office, Khargaon",5
+180 - Savarimal,Z.P.Primary School Savarimal,5
+181 - Dongarapada,"Z.P. Primary School Dongarpada, east-west building, room no. 1 from east",5
+182 - Mahuband,"Z.P. Primary Center School Pahubare , South-North building, Room No.1 from North",5
+183 - Kudashi,"Z.P. Primary Center School Kudashi (Jamnyapada), South - North building, Room No.3 North side",5
+184 - Ozarade,"Z.P. Primary Center School Ozarde, east-west building, Room No.1 from east",5
+185 - Pahubare,"Z.P. Primary Center School (kudashi) Pahubare, East-West building, Room No.3 from East",5
+186 - Panakheda,"Z.P. Primary School Pankheda, east-west building, Room No.1 from east",5
+187 - Panakheda,Z.P. Marathi School Pankheda Room No.1 From West,5
+188 - Malyacha Pada,Z.P. Marathi School Malyachapada Room No. 2 from East,5
+189 - Chinchapada,"Z.P. Primary School Chinchpada, North-South Building, Room No.1 from north",5
+190 - Vaki,Anganwadi Building Z.P. Vaki,5
+191 - Vaki (bodharipada ),"Z.P. Primary School Bodharipada (Vaki), east-west building, Room No.1 from east",5
+192 - Vaki (bodharipada ),"Z.P. Primary School Bodharipada (Vaki), east-west building, Room No.2 from east",5
+193 - Sukapur (holayachapada ),"Z.P. Primary School Holyachapada (Sukapur), North-South Building, Room No.1 from north",5
+194 - Sukapur,"Grampanchayat Office, Sukapur",5
+195 - Sukapur (mhalayacha Pada ),"Z.P. Primary School Mhalyachapada (Sukapur),Old Building",5
+196 - Sukapur (mhalayacha Pada ),Z.P. Primary School Mhalyachapada (Sukapur) New Building,5
+197 - Kakasevad,"Z.P. Primary School Kakshewad, New building Room No.1 from west",5
+198 - Chinchapada,Z.P. Primary School Chinchpada,5
+199 - Dangashiravade,"Z.P. Primary School Dangshirwade, north-southe building, Room No.1 from south",5
+200 - Dareganv,"Z.P. Primary School Daregaon, Room No.1 from north",5
+201 - Bopakhel,"Govt.Ashram School Bopakhel, East- West Building, West side room no. 2",5
+202 - Bopakhel,"Z.P. Primary School Bopkhel, east-west New Building room no. 1 from west",5
+203 - Varsa,"Z.P. School Varsa, easternside new room",5
+204 - Varsa,"Z.P. School Varsa, westernside new room",5
+205 - Kalamba,"Grampanchayat Office, Kalamba",5
+206 - Choravad,"Z.P. Primary School Chorwad, North-South Building, Room No.1 from south",5
+207 - Pimpalaganv Khu.,"Z.P. Primary School Pimpalgaon khu, east-west building, Room No.1 from east",5
+208 - Lakhale,"Z.P. Primary School Lakhale, north-south building, Room No.1 from south",5
+209 - Manjari,"Grampanchayat Office, Manjari",5
+210 - Manjari,"Z.P. Primary School Manjari, east-west building, room no. 1 from east",5
+211 - Mapalaganv,"Z.P. Primary School Mapalgaon, old building",5
+212 - Shendavad,"Z.P. Primary School Shendvad, South - north New building, North side Room No.2",5
+213 - Kevadipada,"Z.P. Primary School Kewadipada, east-west building, room no.1 from east",5
+214 - Mohaganv (chavadipada ),"Z.P. Primary School Chawadipada east-west building, room no.1 from west",5
+215 - Mohaganv,"Z.P. Primary School Mahupada, north-south building, room no.1 from south",5
+216 - Shiv,"Z.P. Primary School Marutipada (Shiv) north-south building, Room NO.1 from south",5
+217 - Khatyal,"Z.P. Primary New Building Khatyal (Vijay Nagar) South -north New building, Room NO.1 from North",5
+218 - Vardali,"Z.P. Primary School Vardali, east-west building room no.2 from east",5
+219 - Deganv,"Z.P. Primary School Degaon, east-west building, Room No.1 from west",5
+220 - Gavhanipada,"Z.P. Primary School Gavhanipada, easternside east-west building, room no.2 from east",5
+221 - Umbhare,"Z.P. Primary School Umbhare, east-west building west side Room No.1",5
+222 - Umbhare,"Z.P. Primary School Umbhare, east-west building Room No.1 from east",5
+223 - Malanjan,"Z.P. Primary School Malanjan,northernside east-west new building, Room No.2 from east",5
+224 - Kasare,"Khandesh Gandhi Balubhai Mehata Vidyalay Kasare, east-west old building, Room No.2 from east",5
+225 - Kasare,"Khandesh Gandhi Balubhai Mehata Vidyalay Kasare, east-west old building, Room No.4 from east",5
+226 - Kasare,"Khandesh Gandhi Balubhai Meheta Vidyalay Kasare, east-west new building, Room No.2 from east",5
+227 - Kasare,"Z.P. Center School Kasare, westernside north-south building, Room No.1 from south",5
+228 - Kasare,"Z.P. Center School Kasare, westernside north-south building, Room No. 3 from south",5
+229 - Kasare,"Vasant Dada Secondary School, East-West building, Room No.2 from West",5
+230 - Kasare,"Vasant Dada Secondary School, East-West building, Room No.4 from West",5
+231 - Kasare,"Vasant Dada Secondary School East-West building, Room No.6 from West",5
+232 - Navadane,"Z.P.Primary School Nawadane,east-west building, Room No.4 from east",5
+233 - Sayane,"Z.P. Primary School Sayane, east-west building, Room No.4 from east",5
+234 - Malapur,"Z.P. Primary School Malpur, New building, room No.1 from east (near ramp)",5
+235 - Malapur,"Z.P. Primary School Malpur, New building, north-west side Room",5
+236 - Malapur,"Z.P. Primary School Malpur, new building, Room No.1 from south",5
+237 - Dhadane,"Z.P. Primary School Dhadne, north- South Building, Room No.1 from south",5
+238 - Dhadane,"Z.P. Primary School Dhadne, north- South Building, Room No.2 from south",5
+239 - Dhadane,"Z.P. Primary School Dhadne, north- South Building, Room No.3 from south",5
+240 - Dhadane,"Grampanchayat Office, Dhadne",5
+241 - Shenapur,"Z.P. Primary School Shenpur, east-west building, Room No.2 from west",5
+242 - Shenapur,"Z.P. Primary School Shenpur, east-west building, Room No.3 from west",5
+243 - Ganeshapur,"Z.P. Primary School Ganeshpur, east-west main building,Room No.2 from east",5
+244 - Nadase,"Z.P. Primary School Nadse, east-west building Room No.1 from east",5
+245 - Nadase,"Z.P. Primary School Nadse, east-west building Room No.3 from east",5
+246 - E Darakhel,"Z.P. Primary School Darkhel, southernside east-west building, Room No.1 from west",5
+247 - Behed,"Z.P. Primary School Behed,east-west building Room No.5 from east",5
+248 - Behed,"Z.P. Primary School Behed, east-west building Room No.3 from east",5
+249 - Chhail,"Z.P. Primary School Chhail, westernside building, Room No.1",5
+250 - Chhail,"Z.P. Primary School Chhail, westernside building, Room No.2",5
+251 - Pratapapur,"Z.P. Primary School Pratappur, easternside north-south building, Room No.1 from north",5
+252 - Pratapapur,"Z.P. Primary School Pratappur, easternside north-south building, Room No.3 from north",5
+253 - Vitai,"Z.P. Primary School Vitai, east-west new building, Room No.1 from west",5
+254 - Vitai,"Z.P. Primary School Vitai, east-west new building, Room No.3 from west",5
+255 - Nilagavhan,"Z.P. Primary School Nilgavhan, northernside east-west building, Room No.2 from east",5
+256 - Umbharti,"Z.P. Primary School Umbharti, north-south building Room No.1 from north (near ramp)",5
+257 - Dighave,"Z.P. Primary School Dighave, southernside east-west building, Room No.2 from east",5
+258 - Dighave,"Z.P. Primary School Dighave, southernside east-west building, Room No.4 from east",5
+259 - Dighave,"Z.P. Primary School Dighave, northernside east-west building, Room No.2 from east",5
+260 - Vasamar,"Z.P. Primary School Vasmar (New Gavthan), east-west building, room no. 1 from east",5
+261 - Vasamar,"Z.P. Primary School Vasmar (New Gavthan), east-west building, room no. 3 from east",5
+262 - Chinchakheda,"Z.P. Primary School Chinchkheda, westernside north-south building, Room No.1 from north",5
+263 - Mhasadi Pr. Ner,"Z.P. Primary Girls School Mhasadi pr.ner, westernside north-south building, Room No.2 from north",5
+264 - Mhasadi Pr. Ner,"Z.P. Primary Girls School Mhasadi pr.ner, westernside north-south building, Room No.1 from north",5
+265 - Mhasadi Pr. Ner,"Z.P. Primary Girls School Mhasadi pr.ner, southernside south-west building, Room No.1 from south",5
+266 - Mhasadi Pr. Ner,"Z.P. Primary School Mhasadi pr.Ner,Eastern side south - north building, North side Room No.2",5
+267 - Mhasadi Pr. Ner,"Z.P. Kanya School Mhasadi pr.Ner,East- west building, East side Room No. 1",5
+268 - Kalaganv,"Z.P. Primary School Kalgaon, southernside east-west building, room no.1 from west",5
+269 - Kakani,"Z.P. Primary School Kakani, southern east-west building, Room No.1 from east",5
+270 - Kakani,"Z.P. Primary School Kakani, southern east-west building, Room No.3 from east",5
+271 - Shevali (m ),"Z.P. Primary School Shewali (Ma), east-west building, Room No.1 from west",5
+272 - 268 - Bhadaganv (m ),"Z.P. Primary School Bhadgaon(Ma), westernside north-south building, room no.1 from south",5
+273 - Sakri,"New English School,Sakri, New East-west building on southerside of the ground, Room No.1 from east",5
+274 - Sakri,"New English School,Sakri, New East -west building on southerside of the ground, Room No.3 from east",5
+275 - Sakri,"New English School Sakri, old building, north-west branch, Room No.1 from north",5
+276 - Sakri,New English School Sakri old building Room No.2 From west,5
+277 - Sakri,New English School Sakri old building Room No.3 From west,5
+278 - Sakri,"New English School,Sakri old building Easternside north-west branch, Room No.2 from north",5
+279 - Sakri,"New English School,Sakri old building Easternside north-west branch, Room No.1 from north",5
+280 - Sakri,"New English School,Sakri Old building,eastern Room to the stage",5
+281 - Sakri,"Z.P. Primary Marathi School Sakri westernside old building, Room No.2 from east",5
+282 - Sakri,"Z.P. Primary School Sakri, southerner side And western located east-west building, Room No.5 from east",5
+283 - Sakri,"Z.P. Primary School Sakri, southerner side And western located east-west building, Room No.7 from east",5
+284 - Sakri,"Z.P. Primary School Sakri, northern side And eastern located east-west building, Room No.5 from east",5
+285 - Sakri,"Z.P. Primary School Sakri, northernside And eastern located east-west building, Room No.1 from east",5
+286 - Sakri,"Jijamata Kanya Vidyalay, east-west building, room no. 1 from west",5
+287 - Sakri,"Jijamata Kanya Vidyalay, east-west building, room no. 1 from east",5
+288 - Ambapur,"Z.P. Primary School Ambapur, Old Building",5
+289 - Ambapur,"Anganwadi Ambapur, east-west building, room no.1 from east",5
+290 - Bhandane,"Z.P. Primary School Bhadane, North -South new Building, room No.1 from south",5
+291 - Bhandane,"Z.P. Primary School Bhadane, North -South new Building, room No.2 from south",5
+292 - Bhandane,"Aanganwadi room eastern side of grampanchayat, Bhadane",5
+293 - Bhandane,"Anganwadi Building no.3 Bhadane,",5
+294 - Gondas,"Z.P. Primary School Gondas, east-west building, room no.1 from east",5
+295 - Bhandane,"Z.P. Primary School Panzrakan Co-op. sugar factory, New north-south building, room No.1 from north",5
+296 - Shevali (da ),"Z.P.Primary Center School Shewali (D), Easter side East - West building, Room No.1 from east",5
+297 - Shevali (da ),"Z.P.Primary Center School Shewali (D), Easter side East - West building, Room No.3 from east",5
+298 - Shevali (da ),"Z.P. Primary Center School Shewali (D), western side building, room no.1 from east",5
+299 - Kalambhir,"Z.P. Primary School Kalambhir, east-west building Room No.2 from east",5
+300 - Mahir,"Z.P. Primary School Mahir, north-south new building, room no.2 from north",5
+301 - Mahir,"Z.P. Primary School Mahir, north-south new building, room no.3 from north",5
+302 - Gangapur,Z.P. Primary School Gangapur,5
+303 - Akkalapada,"Z.P. Primary School Akkalpada, east-west new building, Room No.1 from east",5
+304 - Saiyyadanagar,Z.P. Primary School Sayyadnagar Room No.1,5
+305 - Ichchhapur,"Z.P. Primary School Ichchapur, New Building Room No.1",5
+306 - Tamasavadi,"Z.P.Primary School Tamaswadi (new Gavthan), east-west building, Room No.1 from east",5
+307 - Tamasavadi,"Z.P. Primary School Tamaswadi (new Gavthan) east-west building, Room No.3 from east",5
+308 - Datarti,"Z.P. Primary School Datarti, east-west building, Room No.2 from east",5
+309 - Datarti,"Z.P. Primary School Datarti, east-west building, Room No.3 from east",5
+310 - Kokle,"Z.P. Primary School Kokale, easternside north-south building, Room No.3 from south",5
+311 - Nandavan,Z.P. Primary School Nandwan Eastern Room,5
+312 - Dhamanar,"Z.P. Primary School Dhamanar, east-west building, Room No.2 from east",5
+313 - Dhamanar,"Z.P. Primary School Dhamanar, east-west building, Room No.8 from east",5
+314 - Dhamanar,"Z.P. Primary School Dhamanar, east-west building, Room No.4 from east",5
+315 - Dhamanar,"Z.P. Primary School Dhamanar, east-west building, Room No.6 from east",5
+316 - Perejapur,"Z.P. Primary School Perejpur, eastern side north-south building, Room No. 1 from south",5
+317 - Perejapur,"Z.P. Primary School Perejpur, east-west building, Room No. 1 from east",5
+318 - Kavathe,"Z.P. Primary School Kawathe, east-west building, Room No.3 from east",5
+319 - Kavathe,"Z.P. Primary School Kawathe, east-west building, Room No.1 from east",5
+320 - Kavathe,"Z.P. Primary School Kawathe, north-south building, Room No.1 from south",5
+321 - 316 - Kavathe,"Z.P. Primary School Kawate, north-south building, Room No.2 from south",5
+322 - Ashtane,"Z.P. Primary School Astane, east-west building, Room No.1 from west",5
+323 - Ashtane,"Z.P. Primary School Astane, east-west building, Room No.2 from east",5
+324 - Chhadavel (p ),"Z.P. Primary School Chhadwel(p), east-west building, Room No.1 from east",5
+325 - Chhadavel (p ),"Z.P. Primary School Chhadwel(p), east-west building, Room No.2 from east",5
+326 - Chhadavel (p ),"Z.P. Primary School Chhadwel(p), east-west building, Room No.4 from east",5
+327 - Nijamapur,"Z.P. PrimaryCenter School Nijampur, (Boys), Southern side East-West building, West side Room no 1",5
+328 - Nijamapur,"Z.P. Primary Center School Nijampur, (Boys),Southern side East-West building, West side Room no 2",5
+329 - Nijamapur,"Z.P. Primary Center School Nijampur, Southern side east-west building,East side Room No.3",5
+330 - Nijamapur,"Z.P. Primary Center School Nijampur, southern side east-west building, Room No.4 from west",5
+331 - Nijamapur,"Z.P. Primary Center School Nijampur,Northern side North-south building, North side Room No.1",5
+332 - Jaitane,"Z.P. Primary School Jaitane, northern side east-west building, Room No.2 from east",5
+333 - Jaitane,"Z.P. Primary School Jaitane, northern side east-west building, Room No.4 from east",5
+334 - Jaitane,"Z.P. Primary School Jaitane, eastern side north-south building, Room No.2 from south",5
+335 - Jaitane,"Z.P. Primary Girls School Jaitane, southern side east-west building, Room No.6 from east",5
+336 - Jaitane,"Z.P. Primary Girls School Jaitane, southern side east-west building, Room No.5 from east",5
+337 - Jaitane,"Adarsh Vidayamandir Jaitane, northern side east-west building, Room No.3 from east",5
+338 - Jaitane,"Adarsh Vidayamandir Jaitane, southern side east-west building, Room No.6 from east",5
+339 - Jaitane,"Adarsh Vidayamandir Jaitane, Western side South- North building, South side Room No.3",5
+340 - Bhamer,"Z.P. Primary School Bhamer, southern side east-west new building, Room No.1 from west",5
+341 - Bhamer,"Z.P. Primary School Bhamer, northern side east-west building, Room No.4 from west.",5
+342 - Bhamer,"Z.P. Primary School Bhamer, northern side east-west building, Room No.2 from west.",5
+343 - Rayapur,"Z.P. Primary School Raipur, east-west new building, room no.1 from east",5
+344 - Shivaji Nagar,Z.P. Primary School Shivaji Nagar,5
+345 - Khudane,"Z.P. Primary School Khudane, east-west new building, Room No.1 from east",5
+346 - Khudane,"Z.P. Primary School Khudane, east-west new building, Room No.3 from east",5
+347 - Khudane,"Z.P. Primary School Khudane, east-west new building, Room No.5 from east",5
+348 - Varsus,"Z.P. Primary School Varsus, North side building, Room No. 1",5
+349 - Vasakhedi,"Z.P. Primary School Vaskhedi, east-west building, Room No.1 from east",5
+350 - Vasakhedi,"Z.P. Marathi School Vaskhedi, East - West building, West side Room No. 3",5
+351 - Jamki,Z.P. Marathi School Jamki Room No. 2,5
+352 - Runamali,"Z.P. Primary School Runmali, east-west building, Room No.4 from east",5
+353 - Runamali,"Z.P. Primary School Runmali, east-west building, Room No.3 from east",5
+354 - Domakani,Z.P. Primary School Domkani,5
+355 - Divalyamal,Z.P. Primary School Diwalyamal,5
+356 - Salatek,Z.P. Primary School Saltek,5
+357 - Ubharandi,"Z.P. Primary School Ubharandi, east-west building, Room No.1 from east",5
+358 - Hodadane,Z.P. Primary School Hodadane,5
+359 - Veheraganv,"Z.P. Primary School Vehergaon, East-West new building, room no.1 from East",5
+360 - Veheraganv (vaghapur ),"Z.P. Primary School Vehergaon, East-West new building, room no.6 from East",5
+361 - Rojaganv,"Z.P. Primary School Rojgaon,east-west building, Room No.1 from east",5
+362 - Vardhane,"Z.P. Primary School Vardhane, east-west building, Room No.1 from east",5
+363 - Vardhane,"Z.P. Primary School Vardhane, East-West building, Room No.2 from East",5
+364 - Taebhe Pr. Bhamer Bhadaganv (v ),"Z.P. Primary School Tembhe pr. Bhamer, western side new building, Room No.1 from west",5
+365 - Bhadaganv (v ),"Z.P. Primary School Bhadgaon(v), east-west building, Room No.2 from west",5
+366 - Aakhade,"Z.P. Primary School Akhade, Northern side East-West building, Room No.2 from West",5
+367 - Aakhade,"Z.P. Primary School Akhade, Northern side East-West building, Room No.1 from West",5
+368 - Fofade,Z. P. Marathi School Fofade east west building eastside room no.1,5
+369 - Bhagapur,"Z.P. Marathi School Bhagapur , East side Room No.1",5
+370 - Vajadare,"Z.P. Primary School Vajdare, east-west building, Room No.1 from east",5

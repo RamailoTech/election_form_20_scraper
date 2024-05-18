@@ -1,0 +1,287 @@
+PS No & Name,Address,Constituency Number
+1 - Nagapur,Z.P. school Nagapur South-North building Room No 01 from South,225
+2 - Nagapur,Z.P. School Nagapur South-North building Room No 02 from South,225
+3 - Nagapur,Z.P. School Nagapur South-North building Room No 03 from South,225
+4 - Nagapur,"Chakradhar Swami Primary School, Nagapur, East -West Building Groundfloor Room No 03 from West",225
+5 - Nagapur,"Chakradhar Swami Primary School, Nagapur, East -West Building Groundfloor Room No 04 from West",225
+6 - Nagapur,Z.P. School Nagapur South-North building Room No 04 from South,225
+7 - Nagapur,Z.P. school Nagapur South-North building Room No 05 from South,225
+8 - Nagapur,Z.P. School Nagapur North side (old building) East West building Room No 02 from West,225
+9 - Savedi,"Seva Shikshan Prasarak Mandalache Dr. N.J. Paulbuddhe College of Pharmacy, Savedi, East-West (New Building) Room No 02 From East",225
+10 - Savedi,"Adarsh vidyalaya, Ahilya society, Aurangabad road, Savedi, East West building Room no.02 from East",225
+11 - Savedi,"Adarsh viddyalaya, Ahilya Soceity, Aurangabad road, Savedi, East West building Room No.03 from East",225
+12 - Savedi,"Adarsh viddyalaya, Ahilya Society, Aurangabad road, Savedi, East West building Room No. 04 from East",225
+13 - Savedi,"Seva Shikshan Prasarak Mandal Yanche Dr.N.J. Paulbuddhe College of Pharmacy, Savedi, East- West (New Building) Room No 03 From East",225
+14 - Savedi,"Seva Shikshan Prasarak Mandal Yanche Dr.N.J Paulbuddhe College of Pharmacy, Savedi, North -South (New Building) Room No 01 From North",225
+15 - Savedi,"Seva Shikshan Prasarak Mandal Yanche Dr. N.J. Paulbuddhe College of Pharmacy, Savedi, North -South (New Building) Room No 02 From North",225
+16 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidhyalaya, Savedi, New North - South building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded), Room No 02 From North",225
+17 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidhyalaya, Savedi, New North South Building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 03 From North",225
+18 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidhyalaya, Savedi, New North South Building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 04 From North",225
+19 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidhyalaya, Savedi, New North South building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 05 From North",225
+20 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidyalaya, Savedi, New North South building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 06 From North",225
+21 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidyalaya, Savedi, New North South building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 01 From South",225
+22 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidyalaya, Savedi, New North-South building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 02 From South",225
+23 - Savedi,"Seva Shikshan Prasarak Mandalache Shrinath Vidhyalaya, Savedi, New North-South building (Dr. N. J. Paulbudhe College of Education B.Ed and Ded) Room No 03 From South",225
+24 - Savedi,"Laxmibai Doke Vidhyalaya (Motoshri Laxmibai Shantaram Doke Vidhya Mandir), Savedi, East West Building Room No 01 from East",225
+25 - Savedi,"Laxmibai Doke Vidhyalaya (Motoshri Laxmibai Shantaram Doke Vidhya Mandir), Savedi, East West Building Room No 02 ‍From East",225
+26 - Savedi,"Laxmibai Doke Vidyalaya (Motoshri Laxmibai Shantaram Doke Vidya Mandir), Savedi, East West Building Room No 03 from East",225
+27 - Savedi,"Laxmibai Doke Vidyalaya (Motoshri Laxmibai Shantaram Doke Vidya Mandir), Savedi, East West Building Room No 04 from East",225
+28 - Bolhegaon,"Marutraoji Ghule Patil Arts, Commerce & Science College Bolhegaon, Ahmednagar East side, North South Building Room No 02 from North",225
+29 - Bolhegaon,"Marutraoji Ghule Patil Arts, Commerce & Science College Bolhegaon, Ahmednagar East side, North South Building Room No 03 from North",225
+30 - Bolhegaon,"Kai. Balasaheb Keshav Thakare Municipality School, Bolhegaon, North - South Building Room No 03 from South",225
+31 - Bolhegaon,"Kai. Balasaheb Keshav Thakare Municipality School, Bolhegaon, North -South Building Room No 01 from South",225
+32 - Bolhegaon,"Marutraoji Ghule Patil Arts, Commerce & Science College Bolhegaon, Ahmednagar East side, North South Building Room No 04 from North",225
+33 - Bolhegaon,"Marutraoji Ghule Patil Arts, Commerce & Science College Bolhegaon, Ahmednagar West side, South North Building Room No 05 from South",225
+34 - Bolhegaon,"Marutraoji Ghule Patil Arts, Commerce & Science College Bolhegaon Ahmednagar West side, South - North Building Room No 06 from South",225
+35 - Bolhegaon,"Marutraoji Ghule Patil Arts, Commerce & Science College Bolhegaon Ahmednagar West side, South - North Building Room No 07 from South",225
+36 - Savedi,Damodar Shankar Renavikar Vidhya Mandir Savedi East side North South Building Room No 02 from North,225
+37 - Savedi,"Damodar Shankar Renavikar Vidhya Mandir Savedi, East side North - South Building Room No 03 from North",225
+38 - Savedi,Damodar Shankar Renavikar Vidhya Mandir Savedi East side North South Building Room No 04 from North,225
+39 - Savedi,Damodar Shankar Renavikar Vidhya Mandir Savedi East side North South Building Room No 05 from North,225
+40 - Savedi,"ZP Primary School Bhistbag, Savedi, South- North Building Room No 02 from North",225
+41 - Savedi,"ZP Primary School Bhistbag, Savedi, South-North Building Room No 03 from North",225
+42 - Savedi,"Damodar Shankar Renavikar Vidhya Mandir, Savedi, East side North South Building Room No 06 from North",225
+43 - Savedi,"Damodar Shankar Renavikar Vidhya Mandir, Savedi, East side North South Building Room No 07 from North",225
+44 - Savedi,"Damodar Shankar Renavikar Vidhya Mandir, Savedi, East side North South Building Room No 08 from North",225
+45 - Savedi,"Damodar Shankar Renavikar Vidhya Mandir, Savedi, East side North South Building Room No 09 from North",225
+46 - Savedi,"Damodar Shankar Renavikar Vidhya Mandir, Savedi, East side North South Building Room No 10 from North",225
+47 - Savedi,"Damodar Shankar Renavikar Madhymik Vidyalaya, Savedi, West side North South Building Room No 01 from North",225
+48 - Savedi,"Damodar Shankar Renavikar Madhymik Vidyalaya, Savedi, West side North South Building Room No 02 from North",225
+49 - Savedi,"Damodar Shankar Renavikar Madhymik Vidyalaya, Savedi, West side North South Building Room No 03 from North",225
+50 - Savedi,"Damodar Shankar Renavikar Madhymik Vidyalaya, Savedi, West side North South Building Room No 06 from North",225
+51 - Savedi,"Don Basco Primary School ( English Medium), Savedi, East West Building Room No 03 from East",225
+52 - Savedi,"Don Basco Primary School ( English Medium), Savedi, East West Building Room No 06 from East",225
+53 - Savedi,"Don Basco Primary School ( English Medium), Savedi, East West Building Room No 04 from East",225
+54 - Savedi,"Don Basco Primary School ( English Medium), Savedi, East West Building Room No 05 from East",225
+55 - Savedi,"Samarth Vidya Mandir - Prashala, Professor Colony, Savedi, West Side North -South Building Room No 01 from South",225
+56 - Savedi,"Samarth Vidya Mandir - Prashala, Professor Colony, Savedi, West Side North -South Building Room No 02 from South",225
+57 - Savedi,"Samarth Vidhya Mandir - Prshala Professor Colony, Savedi, East side, South-North Building Room No 01 from North",225
+58 - Savedi,"Samarth Vidhya Mandir - Prashala, Professor Colony, Savedi, North side, East -West Building, Room No 02 from East.",225
+59 - Savedi,"Samarth Vidhya Mandir - Prashala, Professor Colony, Savedi, North side, East -West Building, Room No 03 from East.",225
+60 - Savedi,"Anandnagar Primary School, Gulmohar Road Savedi, East West Building Room No 01 from East",225
+61 - Savedi,"Anandnagar Primary School, Gulmohar Road Savedi, East West Building Room No 03 from East",225
+62 - Savedi,"Anandnagar Primary School, Gulmohar Road Savedi, North South Building Room No 04 from South",225
+63 - Savedi,"Anandnagar Primary School, Gulmohar Road Savedi, East West Building Room No 07 from East",225
+64 - Savedi,"Anandnagar Primary School, Gulmohar Road Savedi, North -South Building Room No 01 from South",225
+65 - Savedi,"Anandnagar Primary School, Gulmohar Road Savedi, East West Building Room No 06 from East",225
+66 - Savedi,"Jai Bajrang Vidhyalaya, Pipeline Road, Savedi, East -West Building Room No 02 from East",225
+67 - Savedi,"Jai Bajrang Vidhyalaya, Pipeline Road, Savedi, East- West Building Room No 02 from West",225
+68 - Savedi,"Jai Bajrang Vidhyalaya, Pipeline Road, Savedi, East - West Building Room No 03 from West",225
+69 - Savedi,"Mahatma Phule Mahanagar Palika School, Savedi gaon, North- south building Room No 03 from North",225
+70 - Savedi,"Mahatma Phule Mahanagar Palika School, Savedi gaon, North -south building Room No 04 from North",225
+71 - Savedi,"Mahatma Phule Mahanagar Palika School, Savedi , North -South building Room No 05 from North",225
+72 - Savedi,"Mahatma Phule Mahanagar Palika School, Savedi, Aanganvadi East- West building Room No 01 from East",225
+73 - Savedi,"Mahatma Phule Mahanagar Palika School, Savedi, North - South building Room No 06 from North",225
+74 - Savedi,"Mahatma Phule Mahanagar Palika School, Savedi, North -South building Room No 07 from North",225
+75 - Savedi,"Saint Monika Ded College, (Behind Main Building) Savedi, Room No 01 from South",225
+76 - Savedi,"Saint Monika Ded college, (Behind Main Building) Savedi, Room No 02 from South",225
+77 - Savedi,"Samarth Vidhya Mandir - Prashala, Professor Colony, Savedi, East side, South - North building Room No 02 from North",225
+78 - Savedi,"Damodar Shankar Renavikiar Madhymik Vidyalaya, Savedi, West side North -South building Room No 07 from North",225
+79 - Savedi,"Saint Monika Ded college, Main Building, Savedi, Room No 03 from West",225
+80 - Savedi,"Saint Monika Ded college, Main Building, Savedi, Room No 04 from West",225
+81 - Savedi,"Saint Monika Ded College, Main Building, Savedi, Room No 02 from West",225
+82 - Savedi,"Saint Monika Ded College, Main Building Room No 01 from West",225
+83 - Bhingar,"New Yashwant Madhyamik School Fakirwada, Bhingar, East West Building Room No 01 from West",225
+84 - Bhingar,"New Yashwant Madhyamik School Fakirwada, Bhingar, East West Building Room No 02 from West",225
+85 - Bhingar,"New Yashwant Madhyamik School Fakirwada,Bhingar, East West Building Room No 03 from West",225
+86 - Bhingar,"Maulana Azad Vidhyalaya, Old Mukundnagar, Bhingar,South North building Room No 03 from North",225
+87 - Bhingar,"Maulana Azad Vidhyalaya, Old Mukundnagar, Bhingar, South North building Room No 02 from North",225
+88 - Bhingar,"Maulana Azad Vidhyalaya, Old Mukundnagar, Bhingar, South North building Room No 01 from South",225
+89 - Bhingar,"Darga Dayara Z P Urdu Primary School, Bhingar, West side South- North building Room No 01 from South",225
+90 - Bhingar,"Darga Dayara Z P Urdu Primary School, Bhingar, West side South -North building Room No 02 from South",225
+91 - Bhingar,"Dr.Jakir Husen Marathi Primary School, And M.Altaf Ibrahim Madhyamik Vidyalaya Mukundnagar, Bhingar, Ahmednagar, North Side, East -West Building Room No.03 from East",225
+92 - Bhingar,"Dr.Jakir Husen Marathi Primary School, And M.Altaf Ibrahim Madhyamik Vidyalaya Mukundnagar Ahmednagar, North Side, East -West Building Room No.05 from East",225
+93 - Bhingar,"P A Inamdar School, EKRA Education Society West side South North building Room No 02 from North, Dargadayara, Bhingar",225
+94 - Bhingar,"P A Inamdar School, EKRA Education Society, West side South North building Room No 04 from North, Dargadayara, Bhingar",225
+95 - Bhingar,"Z P School Fakirwada, Bhingar, East West building Room No 01 from West",225
+96 - Bhingar,"Z P School Fakirwada, Bhingar, East West building Room No 02 from West",225
+97 - Bhingar,"Z P School Fakirwada, Bhingar, East West building Room No 03 from West",225
+98 - Bhingar,"Z P School Fakirwada, Bhingar, East West building Room No 05 from West",225
+99 - Bhingar,"Z P School Fakirwada, Bhingar, East West building Room No 06 from West",225
+100 - Savedi,"Pragat Kala Mahavidhyalaya, Tarakpur, Savedi, North side East West Building Room No 03 from West",225
+101 - Savedi,"Pragat Kala Mahavidhyalaya, Tarakpur, Savedi, North side East West Building Room No 04 from West",225
+102 - Savedi,"Pragat Kala Mahavidhyalaya, Tarakpur, Savedi, North side East West Building Room No 06 from West",225
+103 - Savedi,"Saint Xeviyar Primary School, Savedi, North South building Room No 03 from South",225
+104 - Savedi,"Saint Xavier High school, Savedi, Kaularu building Room No 03 from East",225
+105 - Savedi,"Saint Xavier High school, Savedi, Kaularu building Room No 4 from East",225
+106 - Savedi,"Saint Xavier Highschool, Savedi, Kaularu building Room No 5 from East",225
+107 - Savedi,"Sarda College Block No 6 (Hind Seva Mandalache Pemraj Sarda College, Faculty of Art building), Savedi, West side North -South building Room No 02 from North",225
+108 - Savedi,"Sarda College Block No 7 (Hind Seva Mandalache Pemraj Sarda College, Faculty of Art building), Savedi, West side North South building Room No 03 from North",225
+109 - Savedi,"Sarda College Block No 8 (Hind Seva Mandalache Pemraj Sarda College, Faculty of Art building), Savedi, West side North South building Room No 04 from North",225
+110 - Savedi,"Sarda College Block No 20 (Hind Seva Mandalache Pemraj Sarda College, Faculty of Commerce building), Savedi, West side, North South building Room No 05 from North",225
+111 - Savedi,"Sarda College Block No 19 (Hind Seva Mandalache Pemraj Sarda College, Faculty of Commerce building), Savedi, East West building Room No 01 from East",225
+112 - Savedi,"Sarda College Block No 22 / 23 (Hind Seva Mandalache Pemraj Sarda College, Faculty of Commerce building), Savedi, East West building Room No 02 from East",225
+113 - Bhingar,"Radhabai Kale Women College, Tarakpur, East -West building Room No 1 from East",225
+114 - Bhingar,"Radhabai Kale Women College, Tarakpur, East -West building Room No 5 from East",225
+115 - Bhingar,"Radhabai Kale Women College, Tarakpur, East -West building Room No 6 from East",225
+116 - Bhingar,"Radhabai Kale Women College, Tarakpur, East -West building Room No 7 from East",225
+117 - Bhingar,"Radhabai Kale Women College, Tarakpur, East -West building Room No 8 from East",225
+118 - Bhingar,"Radhabai Kale Women College, Tarakpur, East -West building Room No 9 from East",225
+119 - Savedi,"New Law College Ahmednagar, West side, North -South building Room No 2 from North",225
+120 - Savedi,"New Law College Ahmednagar, West side, North -South building Room No 3 from North",225
+121 - Savedi,"New Law College Ahmednagar, East side, North -South building Room No 4 from North",225
+122 - Savedi,"New Arts, Commerce and Science College Ahmednagar building No 2 South-North Building Room No 1 from South",225
+123 - Savedi,New Arts Commerce and Science College Ahmednagar building No 2 South -North Building Room No 2 from South,225
+124 - Savedi,"Balikshram Pre-Primary School (Maniktai Karandikar Highschool), Savedi, East side North-South building Room No 1 from North",225
+125 - Savedi,"Balikshram Pre-Primary School (Maniktai Karandikar Highschool), Savedi, East side North South building Room No 2 from North",225
+126 - Savedi,"Balikshram Pre-Primary School (Maniktai Karandikar Highschool), Savedi, East side North South building Room No 3 from North",225
+127 - Nalegaon,"Sambodhi vidhyalaya Municipality School No 23 (Lokshahir Annabhau Sathe Primary School), Nalegaon, South North Building Room No 1 from South",225
+128 - Nalegaon,"Sambodhi vidhyalaya Municipality School No 23 (Lokshahir Annabhau Sathe Primary School), Nalegaon, South -North Building Room No 2 from South",225
+129 - Nalegaon,"Sambodhi vidhyalaya Munsipality School No 23 (Lokshahir Annabhau Sathe Primary School), Nalegaon, South -North Building Room No 3 from South",225
+130 - Nalegaon,"Sambodhi vidhyalaya Municipality School No 23 Tofkhana, Nalegaon, South North Building (Speech Therepy Room) Room No 2 from South",225
+131 - Nalegaon,"Sambodhi vidhyalaya Municipality School No 23 Tofkhana, Nalegaon, South North Building (Physio Therepy Room) Room No 3 from South",225
+132 - Nalegaon,"Sitaram Sarda Vidhyalaya, Bagadpatti Ahmednagar East West building Room No 1 from West, Nalegaon",225
+133 - Nalegaon,"Sitaram Sarda Vidhyalaya, Bagadpatti Ahmednagar East West building Room No 2 from West, Nalegaon",225
+134 - Nalegaon,"Sitaram Sarda Vidhyalaya, Bagadpatti Ahmednagar East West building Room No 3 from West, Nalegaon",225
+135 - Nalegaon,"Sitaram Sarda Vidhyalaya, Bagadpatti Ahmednagar East West building Room No 6 from West, Nalegaon",225
+136 - Nalegaon,"Sitaram Sarda Vidhyalaya, Bagadpatti Ahmednagar East West building Room No 7 from West, Nalegaon",225
+137 - Maliwada,"Mahanagar Palika School No 13 (Havaldar Shahid Abdul Hamid Urdu Primary School) Beldar Galli, Maliwada, East West building Room No 2 from East",225
+138 - Maliwada,"Mahanagar Palika School No 13 (Havaldar Shahid Abdul Hamid Urdu Primary School) Beldar Galli, Maliwada, East West building Room No 4 from East",225
+139 - Maliwada,"Mahanagar Palika School No 13 (Havaldar Shahid Abdul Hamid Urdu Primary School) Beldar Galli, Maliwada, East West building Room No 7 from East",225
+140 - Maliwada,"Mahanagar Palika School No 13 (Havaldar Shahid Abdul Hamid Urdu Primary School) Beldar Galli, Maliwada, East West building Room No 9 from East",225
+141 - Bhingar,Sardar Vallabhbhai Patel Kanya School East West building Room No 3 from West. Bhingar Cantonment Board,225
+142 - Bhingar,Sardar Vallabhbhai Patel Kanya School East West building Room No 04 from West. Bhingar Cantonment Board,225
+143 - Bhingar,Sardar Vallabhbhai Patel Kanya School East West building Room No 05 from West. Bhingar Cantonment Board,225
+144 - Bhingar,Mahatma Gandhi Urdu School East West building Room No 1 from West. Bhingar Cantonment Board,225
+145 - Bhingar,Mahatma Gandhi Urdu School East West building Room No 2 from West. Bhingar Cantonment Board,225
+146 - Bhingar,Mahatma Gandhi Urdu School East West building Room No 3 from West. Bhingar Cantonment Board,225
+147 - Bhingar,Mahatma Gandhi Urdu School East West building Room No 4 from West. Bhingar Cantonment Board,225
+148 - Bhingar,"Dr Ambedkar Marathi School, Bhingar East West Building Room No 5 from West, Bhingar Cantonment Board",225
+149 - Bhingar,"Nutan Madhyamik Vidyalaya South North building Room No 3 from South, Bhingar Cantonment Board",225
+150 - Bhingar,"Nutan Madhyamik Vidyalaya South North building Room No 5 from South, Bhingar Cantonment Board",225
+151 - Bhingar,"Nutan Madhyamik Vidyalaya South North building Room No 6 from South, Bhingar Cantonment Board",225
+152 - Bhingar,"Dr Ambedkar Marathi School, Bhingar East West Building Room No 3 from West, Bhingar Cantonment Board",225
+153 - Bhingar,Sardar Vallabhbhai Patel Kanya School Bhingar North South building Room No 1 from North. Bhingar Cantonment Board,225
+154 - Bhingar,Sardar Vallabhbhai Patel Kanya School Bhingar North South building Room No 2 from North. Bhingar Cantonment Board,225
+155 - Bhingar,Sardar Vallabhbhai Patel Kanya School Bhingar North South building Room No 3 from North. Bhingar Cantonment Board,225
+156 - Bhingar,"Bhingar Cantonment Board Office Sanitary South North building Room No 03 from North, Bhingar Cantonment Board",225
+157 - Maliwada,"A. E. Society Icharajbai Firodiya Primary School Navi Peth, East West building Room No 1 from East, Maliwada",225
+158 - Maliwada,"A. E. Society Icharajbai Firodiya Primary School Navi Peth, East West building Room No 2 from East, Maliwada",225
+159 - Maliwada,"A. E. Society Icharajbai Firodiya Primary School Navi Peth, East West building Room No 3 from East, Maliwada",225
+160 - Maliwada,"A. E. Society Icharajbai Firodiya Primary School Navi Peth, East West building Room No 4 from East, Maliwada",225
+161 - Maliwada,Markendey Madhyamik and Uchh-Madhyamik Vidhyalaya Gandhi Maidan Ahmednagar Room No 2,225
+162 - Savedi,"Bagroja Hadco, Palana Ghar, Savedi East West building Room No 1 from East",225
+163 - Savedi,"Bagroja Hadco, Palana Ghar, Savedi East West building Room No 2 from East",225
+164 - Nalegaon,"Uddhav Academy English Medium School, Nagar Kalyan Road, Jadhav Nagar, Nalegaon, Room No 1 from North",225
+165 - Nalegaon,"Uddhav Academy English Medium School, Nagar Kalyan Road, Jadhav Nagar, Nalegaon, Room No 1 from South",225
+166 - Nalegaon,"Sanskruti Shriniwas Kanore Prashala, Nagar- Kalyan Road Near Dream City, Survey No 102/2 Amenity Plot, Nalegaon, North -South Building Room No 1 from North",225
+167 - Nalegaon,"Sanskruti Shriniwas Kanore Prashala, Nagar Kalyan Road Near Dream City, Survey No 102/2 Amenity Plot, Nalegaon, North -South Building Room No 3 from North",225
+168 - Nalegaon,"Sanskruti Shriniwas Kanore Prashala, Nagar Kalyan Road Near Dream City, Survey No 102/2 Amenity Plot, Nalegaon, East - West building, Room No 2 from East",225
+169 - Nalegaon,"Sanskruti Shriniwas Kanore Prashala, Nagar Kalyan Road Near Dream City, Survey No 102/2 Amenity Plot, Nalegaon, East - West Building, Room No 4 from East",225
+170 - Nalegaon,"Uddhav Academy English Medium School Jadhavnagar, Nagar Kalyan road, Nalegaon, Old building Room No 4 from West (South side wing)",225
+171 - Nalegaon,"Uddhav Academy English Medium School Jadhavnagar, Nagar Kalyan road, Nalegaon, Old building Room No 3 from West (North side wing)",225
+172 - Savedi,"A. E.S. Ded College Satbhai Mala, Savedi, East West building Room No 1 from East",225
+173 - Savedi,"A. E.S. Ded College Satbhai Mala, Savedi, East -West building Room No 2 from East",225
+174 - Savedi,"A. E.S. Ded College Satbhai Mala, Savedi, East West building Room No 3 from East",225
+175 - Savedi,"A. E.S. Ded College Satbhai Mala, Savedi, East West building Room No 4 from East",225
+176 - Savedi,"Keshavrao Gadilkar Highschool, Wagh Mala, Savedi, South North building, Room No 1 from South",225
+177 - Savedi,"Keshavrao Gadilkar Highschool, Wagh Mala, Savedi, South North building, Room No 2 from South",225
+178 - Savedi,"Municipality School Chatrapati Shivaji Maharaj Primary school, Bhutakarwadi, East West Building , Room No 1 from West Savedi",225
+179 - Savedi,"Municipality School Chatrapati Shivaji Maharaj Primary school, Bhutakarwadi, East -West Building , Room No 2 from West Savedi",225
+180 - Nalegaon,"Parvatibai Dahanukar Kanya Vidhyalaya, Nalegaon, East West Building Room No 4 from East",225
+181 - Nalegaon,"Parvatibai Dahanukar Kanya Vidhyalaya, East West Building Room No 2 from East Nalegaon",225
+182 - Maliwada,"Municipality School No 25 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate East West Building Room No 02 from East , Maliwada",225
+183 - Maliwada,"Municipality School No 25 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate East West Building Room No 03 from East , Maliwada",225
+184 - Maliwada,"Municipality School No 25 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate East West Building Room No 04 from East , Maliwada",225
+185 - Maliwada,"Municipality School No 22 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate East West Building Room No 01 from East, Maliwada",225
+186 - Maliwada,"Municipality School No 22 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate East -West Building Room No 02 from East, Maliwada",225
+187 - Maliwada,"Municipality School No 22 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate East - West Building Room No 03 from East , Maliwada",225
+188 - Maliwada,"Municipality School No 22 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate North-South Building Room No 3 from North, Maliwada",225
+189 - Maliwada,"Municipality School No 22 (Municipality Ahmednagar, Zendigate Zone No 2) Zendigate North South Building Room No 2 from North Maliwada",225
+190 - Nalegaon,"Dada Chaudhary Highschool, East-West building, Room No 1 from West Nalegaon",225
+191 - Nalegaon,"Dada Chaudhary Highschool, East-West building, Room No 2 from West Nalegaon",225
+192 - Nalegaon,"Dada Chaudhary Highschool, East-West building, Room No 4 from West Nalegaon",225
+193 - Nalegaon,"Municipality School No. 3 (Nutan Kanya Prashala) Sangale Galli, East building, Room No 1, from East Nalegaon",225
+194 - Nalegaon,"Municipality School No. 3 (Nutan Kanya Prashala) Sangale Galli, East building, Room No 2 from East Nalegaon",225
+195 - Nalegaon,"Gadgil Ground, Municipality School (Talathi Office Nalegaon) East West building, Room No 1 from East Nalegaon",225
+196 - Nalegaon,"Gadgil Ground, Municipality School (Talathi Office Nalegaon) East-West building, Room No 2 from East Nalegaon",225
+197 - Nalegaon,"Mahrshi G.J. Chitambar Kanya Vidhyamandir School, Near Sub Jail, East-West building, Room No 5, from East Nalegaon",225
+198 - Nalegaon,"Mahrshi G.J. Chitambar Kanya Vidhyamandir School, Near Sub Jail, East-West building, Room No 6 from East Nalegaon",225
+199 - Nalegaon,"Mahrshi G.J. Chitambar Kanya Vidhyamandir School, Near Sub Jail, East-West building, Room No 8 from East Nalegaon",225
+200 - Maliwada,"Adarsh School, ATU Jadid Urdu Primary School, Maliwada, North-South building Room No 1 from North",225
+201 - Maliwada,"Adarsh School, ATU Jadid Urdu Primary School, Maliwada, East-West building Room No 1 from West",225
+202 - Maliwada,"Union Ded vidyalaya, Hatampura, South-North building Room No 1 from North , Maliwada",225
+203 - Maliwada,"Union Ded vidyalaya, Hatampura, South-North building Room No 2 from North, Maliwada",225
+204 - Maliwada,"Union Ded vidyalaya, Hatampura, South-North building Room No 3, from North , Maliwada",225
+205 - Maliwada,"Union Ded vidyalaya, Hatampura, North-South building Room No 4 from North , Maliwada",225
+206 - Maliwada,"Union Ded vidhyalaya, Hatampura, North-South building Room No 7 from North , Maliwada",225
+207 - Maliwada,"Union Ded vidhyalaya, Hatampura, South-North building Room No 8 from North , Maliwada",225
+208 - Maliwada,"Chand Sultana Highschool, Maliwada, South -North building Room No 1 from South",225
+209 - Maliwada,"Chand Sultana Highschool, Maliwada, South-North building Room No 2 from South",225
+210 - Maliwada,"Chand Sultana Highschool, Maliwada, South -North building Room No 3 from South",225
+211 - Chahurana Bk,"A.E.S. Ashokbhau Firodiya English Medium School, South -North building Room No 1 from South Chahurana Bk.",225
+212 - Chahurana Bk,A.E.S. Ashokbhau Firodiya English Medium School South- North building Room No 3 from South Chahurana Bk.,225
+213 - Maliwada,"Union Ded vidyalaya Hatampura, Maliwada, South North building Room No. 5 from North",225
+214 - Maliwada,"Hirabai Suryavanshi Primary school, East- West building Room No. 2 from East Maliwada",225
+215 - Maliwada,"Hirabai Suryavanshi Primary school, North-South building Room No. 2 from North Maliwada",225
+216 - Maliwada,"Hirabai Suryavanshi Primary school, North - South building Room No. 3 from North Maliwada",225
+217 - Bhingar,"Clera Bruce Highschool Ahmednagar, North- South building Room No 01 from South, Bhingar",225
+218 - Bhingar,"Clera Bruce Highschool Ahmednagar, North- South building Room No 4 from South, Bhingar",225
+219 - Bhingar,"Ahmednagar College Classroom, South- North building Room No. 2 from South Bhingar",225
+220 - Bhingar,"Ahmednagar College Classroom, South -North building Room No. 3 from South Bhingar",225
+221 - Bhingar,"Ahmednagar College Classroom, South- North building Room No. 4 from South Bhingar",225
+222 - Bhingar,Ahmednagar College Classroom South North building Room No 5 from South Bhingar,225
+223 - Chahurana Bk,"Municipality School No. 15 (Diwalibai Barshikar School) North - South building Room No. 02 from North, Chahurana Bk. (Shrikant Pemraj Gugale Highschool)",225
+224 - Chahurana Bk,"Municipality School No. 15 (Diwalibai Barshikar School) North - South building Room No. 03 from North, Chahurana Bk. (Shrikant Pemraj Gugale Highschool)",225
+225 - Chahurana Bk,"Jankibai Apate Mukbadhir vidhyalaya Tilak Road, South-North building Room No. 01 from South Chahurana Bk.",225
+226 - Chahurana Bk,"Jankibai Apate Mukbadhir vidhyalaya Tilak Road, South-North building Room No. 02 from South Chahurana Bk.",225
+227 - Chahurana Bk,"Jankibai Apate Mukbadhir vidhyalaya Tilak Road, South- North building Room No 1 from North Chahurana Bk.",225
+228 - Chahurana Bk,National Pathshala Highschool East west building Room No 2 from East. Chahurana Bk.,225
+229 - Chahurana Bk,National Pathshala Highschool East west building Room No 3 from East. Chahurana Bk.,225
+230 - Chahurana Bk,National Pathshala Highschool East west building Room No 4 from East. Chahurana Bk.,225
+231 - Chahurana Bk,National Pathshala Highschool East west building Room No 5 from East. Chahurana Bk.,225
+232 - Chahurana Bk,"Government Industrial Training Institute Burudgaon Road, Chahurana Bk, East West Building Room No.01 from West",225
+233 - Chahurana Bk,"Government Industrial Training Institute Burudgaon Road , Chahurana Bk, East West Building Room No.02 From West",225
+234 - Chahurana Bk,"Yashwantrao Chavan Vidyalaya NP School (Chhatrapati Shahu Maharaj Primary Vidhyalaya, Municipality School No.16) East West Building Room No.1 from East Chahurana Bk.",225
+235 - Chahurana Bk,"Yashwantrao Chavan Vidyalaya NP School (Chhatrapati Shahu Maharaj Primary Vidhyalaya, Municipality School No.16) East West Building Room No.2 from East Chahurana Bk.",225
+236 - Chahurana Bk,"Yashwantrao Chavan Vidyalaya NP School (Chhatrapati Shahu Maharaj Primary Vidhyalaya , Municipality School No.16) South North Building Room No.01 from South Chahurana Bk.",225
+237 - Chahurana Bk,"Yashwantrao Chavan Vidyalaya NP School (Chhatrapati Shahu Maharaj Primary Vidhyalaya , Municipality School No.16) South North Building Room No.1 from North Chahurana Bk.",225
+238 - Maliwada,"S.A.William Booth Memorial Primary School,Mukti Fauj School Fariyabagh East-West Building Room No.1 from East",225
+239 - Maliwada,"S.A.William Booth Memorial Primary School,Mukti Fauj School Fariyabagh East-West Building Room No.2 from East Maliwada",225
+240 - Maliwada,"S.A.William Booth Memorial Primary School,Mukti Fauj School Fariyabagh East-West Building Room No.3 from East Maliwada",225
+241 - Maliwada,"S.A.William Booth Memorial Primary School,Mukti Fauj School Fariyabagh East-West Building Room No.4 from East Maliwada",225
+242 - Maliwada,"S.A.William Booth Memorial Primary School,Mukti Fauj School Fariyabagh East-West Building Room No.2 from East Maliwada",225
+243 - Maliwada,"S.A.William Booth Memorial Madhyamik School,Mukti Fauj School Fariyabagh East-West Building Room No.3 from East Maliwada",225
+244 - Chahurana Bk,ITI Short handwritting (English) (Government Industrial Training Institute) Burudgaon Road South-North Building Room No.1 from South Chahurana Bk.,225
+245 - Chahurana Bk,ITI Short handwritting (English) (Government Industrial Training Institute) Burudgaon Road South-North Building Room No.02 from South Chahurana Bk.,225
+246 - Chahurana Bk,ITI Short handwritting (English) (Government Industrial Training Institute) Burudgaon Road South-North Building Room No.03 from South Chahurana Bk.,225
+247 - Chahurana Bk,"Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) Near Rly Station, South-North Building, Room No. 01 from North Chahurana Bk.",225
+248 - Chahurana Bk,"Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) Near Rly Station, South North Building Room No. 02 from North Chahurana Bk.",225
+249 - Chahurana Bk,"Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) Near Rly Station, North South Building Room No. 03 from North Chahurana Bk.",225
+250 - Chahurana Bk,"Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) Near Rly Station, South North Building Room No. 01 from South Chahurana Bk.",225
+251 - Chahurana Bk,"Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) Near Rly Station, South North Building Room No. 02 from South Chahurana Bk.",225
+252 - Chahurana Bk,Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) South North Building Near Rly Station Room No. 03 from South Chahurana Bk.,225
+253 - Chahurana Bk,Municipality School No. 4 (Dr. Babasaheb Ambedkar Primary Vidhyalaya) South North Building Near Rly Station Room No. 04 from South Chahurana Bk.,225
+254 - Chahurana Bk,Icon Public School Room No.1 From West,225
+255 - Chahurana Bk,Icon Public School Room No.2 From West,225
+256 - Chahurana Bk,Icon Public School Room No.3 From West,225
+257 - Chahurana Bk,Icon Public School Room No.4 From West,225
+258 - Chahurana Bk,Icon Public School Room No.5 From West,225
+259 - Kedgaon,"Z.P.Primary School Shivajinagar, Kedgaon, East West Building Room No.01 from West",225
+260 - Kedgaon,"Z.P.Primary School Shivajinagar, Kedgaon, East West Building Room No.02 from West",225
+261 - Kedgaon,"Z P Primary School Shivaji Nagar, Kedgaon East-West Building Room No.3 from West",225
+262 - Kedgaon,"Z P School Bhushan Nagar, Kedgaon South-North Building Room No.03 from South",225
+263 - Kedgaon,"Z P School Bhushan Nagar Kedgaon, South-North Building Room No.04 from south",225
+264 - Kedgaon,"Z P School Bhushan Nagar, Kedgaon South-North Building Room No 05 from South",225
+265 - Kedgaon,"Z P School Bhushan Nagar, Kedgaon, South-North Building Room No.6 from South",225
+266 - Kedgaon,Z P School Kedgaon West side South-North Building Room No. 3 from North,225
+267 - Kedgaon,Z P School Kedgaon West side South-North Building Room No.01 from North,225
+268 - Kedgaon,Z P School Kedgaon North side East-West Building Room No. 02 from West,225
+269 - Kedgaon,Z P School Kedgaon North side East-West Building Room No. 03 from West,225
+270 - Kedgaon,Z P School Kedgaon North side East-West Building Room No. 05 from West,225
+271 - Kedgaon,Z P School Kedgaon North side East-West Building Room No. 06 from West,225
+272 - Kedgaon,Z P School Kedgaon North side East-West Building Room No. 07 from West,225
+273 - Kedgaon,"Z P School Shahunagar, Kedgaon North side East-West Building Room No. 1 from West",225
+274 - Kedgaon,"Z P School Shahunagar, Kedgaon North side East-West Building Room No. 03 from West",225
+275 - Kedgaon,"Z P School Shahunagar, Kedgaon North side East-West Building Room No. 04 from West",225
+276 - Kedgaon,"Z P School Shahunagar, Kedgaon North side East-West Building Room No. 05 from West",225
+277 - Kedgaon,"Z P School Shahunagar, Kedgaon North side East-West Building Room No. 06 from West",225
+278 - Kedgaon,"Z P School Shahunagar, Kedgaon North side East-West Building Room No. 07 from West",225
+279 - Kedgaon,"Z P School Mohininagar, Kedgaon West side South North Building Room No. 1 from North",225
+280 - Kedgaon,"Z P School Mohininagar, Kedgaon West side South North Building Room No. 3 from North",225
+281 - Kedgaon,"Z P School Mohininagar, Kedgaon West side South North Building Room No. 4 from North",225
+282 - Burudgaon,Janjivan Madhyamik Vidyalaya Burudgaon North-South Building Room No.01 From North,225
+283 - Burudgaon,Janjivan Madhyamik Vidyalaya Burudgaon North-South Building Room No.02 From North,225
+284 - Burudgaon,Janjivan Madhyamik Vidyalaya Burudgaon North-South Building Room No.03 From North,225
+285 - Kedgaon,"Z.P.School Indira Nagar, Kedgaon North Side East - West Building Room No. 02 From West",225
+286 - Bhingar,Sardar Vallabhbhai Patel Kanya School East West building Room No 07 from West. Bhingar Cantonment Board,225

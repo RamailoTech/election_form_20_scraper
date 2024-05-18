@@ -1,0 +1,466 @@
+PS No & Name,Address,Constituency Number
+1 - Bahuli,"Zilha Parishad Primary School Bahuli, East Side, North Facing Room No.2",212
+2 - Bahuli,"Zilha Parishad Primary School Bahuli, East Side, North Facing Room No.3",212
+3 - Bahuli,"Zilha Parishad Primary School Bahuli, South North Builing west word room no. 1",212
+4 - Agalambe,"Zilha Parishad Primary School Agalambe, North Facing, from West Room No. 1",212
+5 - Agalambe,"Zilha Parishad Primary School Agalambe, North Facing, from West Room No. 2",212
+6 - Ahire,"Zilha Parishad Primary School mokarwadi, East side, North Facing Room No.2",212
+7 - Mokarwadi,"Zilha Parishad Primary School Mokarwadi, East Side Room No. 1",212
+8 - Kondhave Dhawade,Zilha Parishad School Kondhve Dhawade South Facing West Side Room No. 1,212
+9 - Kondhave Dhawade,Zilha Parishad School Kondhve Dhawade South Facing West Side Room No. 2,212
+10 - Kondhave Dhawade,Zilha Parishad School Kondhve Dhawade South Facing West Side Room No. 3,212
+11 - Kondhave Dhawade,Zilha Parishad School Kondhve Dhawade South Facing West Side Room No. 4,212
+12 - Kondhave Dhawade,"Zilha Parishad Primary School Kondhve Dhawade, Ground Floor, South Facing East Side Room No. 6",212
+13 - Kondhave Dhawade,"Zilha Parishad Primary School Anganwadi Kondhve Dhawade, West Facing Room",212
+14 - Kondhave Dhawade,"Grampanchayat Office,Kondhwe Dhawde, East Facing",212
+15 - Kondhave Dhawade,"Kondhave Dhawade, Anganwadi South Facing Building Ground Floor Room",212
+16 - New Kopre,"Zilha Parishad primary School kopre, north facing bulding , room no.2",212
+17 - New Kopre,"Zilha Parishad primary School kopre, north facing buld, room no.3",212
+18 - New Kopre,"Zilha Parishad primary School kopre, north facing buld, room no.5",212
+19 - New Kopre,"Zilha Parishad primary School kopre, north facing buld, room no.7",212
+20 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road North Facing Building West Side Room No. 1",212
+21 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road North Facing Building West Side Room No. 2",212
+22 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road North Facing Building No. 1, West Side Room No. 2",212
+23 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road North Facing Building No. 1, West Side Room No. 3",212
+24 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road North Facing buld, Building No. 1, West Side Room No. 4",212
+25 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road North Facing buld, Building No. 1, West Side Room No. 5",212
+26 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road, West Facing Building, south side Room No. 2",212
+27 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road, West Facing Building, south side Room No. 3",212
+28 - Shivane,Pune Municipal Corporation Pune Health Department East West Building East to Right Room,212
+29 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivane, NDA Road, West Facing Building, south side Room No. 4",212
+30 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivne, NDA Road,East building South Side Room No.1",212
+31 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivne, NDA Road,East building South Side Room No.2",212
+32 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivne, NDA Road,South Face Building,East Side Room No.1",212
+33 - Shivane,"Pune Zilha Shikshan Mandalache Navbharat Secondary & Higher Secondary Vidhyalaya, Shivne, NDA Road,South Face Building,East Side Room No.3",212
+34 - Shivane,"Zilla Parishad, Primary School, Shivane, South Facing Building, East Side, Room Number1",212
+35 - Shivane,"Zilla Parishad, Primary School, Shivane, South Facing Building, East Side, Room Number2",212
+36 - Shivane,"Zilla Parishad, Primary School, Shivane, South Facing Building, East Side, Room Number 3",212
+37 - Shivane,"Zilla Parishad, Primary School, Shivane, South Facing Building, East Side, Room Number 4",212
+38 - Shivane,"Zilla Parishad, Primary School, Shivane, South Facing Building, East Side, Room Number 5",212
+39 - Waraje,"Sahyadri natinal school, Waraje, west facing buld, ground floor, north side room no,1",212
+40 - Waraje,"Sahyadri national school, Waraje, west facing buld, ground floor, north side room no,2",212
+41 - Waraje,"Sahyadri natinal school, Waraje, west facing buld, ground floor, north side room no,3",212
+42 - Waraje,"Sahyadri National School, Varje, East Face Building,South Side Room No.1",212
+43 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, North Facing Building Ground Floor West Side Room No. 1",212
+44 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, North Facing Building Ground Floor West Side Room No. 2",212
+45 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, North Facing Building Ground Floor West Side Room No. 3",212
+46 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, West Facing south Side Room No. 4",212
+47 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, West Facing south Side Room No.5",212
+48 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, West Facing south Side Room No. 1",212
+49 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje, West Facing south Side Room No. 2",212
+50 - Waraje,"Pune PMC Shikshan Mandalache Lt. H.B.P. Ramchandra Patalu Choudhari Primary School, .PMC School No. 205 & 101 Waraje , West Facing south Side Room No. 3",212
+51 - Waraje,"Shanu Patel High School, Girish Soc.Waraje, west Facing Building , north Side Room No. 1",212
+52 - Waraje,"Shanu Patel Vidhyalaya, Girish Society, Warje, West Facing Building, North side Room No.2",212
+53 - Waraje,"Shanu Patel Vidhyalaya, Girish Society, Warje, West Facing Building, North side Room No.3",212
+54 - Waraje,"Aryans World school, warje, west facing building north side room no. 1",212
+55 - Waraje,"Aryans World school, warje, west facing building north side room no. 2",212
+56 - Waraje,"Aryans World school, warje, east facing building north side room no. 1",212
+57 - Waraje,"Aryans World school, warje, south facing building east side room no. 1",212
+58 - Waraje,"shri. Shanu Patel Vidhyalaya, Girish Society, Warje, North Facing Hall (West Side Room No.1",212
+59 - Waraje,"shri. Shanu Patel Vidhyalaya, Girish Society, Warje, North Facing (West Side Room No.2",212
+60 - Waraje,"Late. Shamrao Shripati Barate PMC School No.161 B, Digambar Wadi, Warje South Facing Building, Ground Floor West Side Room No.1",212
+61 - Waraje,"Late. Shamrao Shripati Barate PMC School No.161 B, Digambar Wadi, Warje South Facing Building, Ground Floor West Side Room No.2",212
+62 - Waraje,"Late. Shamrao Shripati Barate PMC School No.161 B, Digambar Wadi, Warje South Facing Building, Ground Floor West Side Room No.3",212
+63 - Waraje,"Popular Nagar Community Hall, South facing Building, East side, Room No 1",212
+64 - Waraje,"Popular Nagar Community Hall, South facing Building, East side, Room No 2",212
+65 - Waraje,"Raghavdas Vidyalay Warje West Facing Bulding, south Side (Parking) Room No 1",212
+66 - Waraje,"Raghavdas Vidyalay Warje West Facing Bulding, south Side (Parking) Room No 2",212
+67 - Waraje,"Raghavdas Vidyalay Warje West Facing Bulding, south Side (Parking) Room No 3",212
+68 - Waraje,"Raghavdas Vidyalay Warje West Facing Bulding, south Side (Parking) Room No 4",212
+69 - Waraje,"Raghavdas Vidyalay Warje East Facing Building (Parking) East Side,Room No 1",212
+70 - Waraje,"Raghavdas Vidyalay Warje East Facing Building (Parking) East Side,Room No 2",212
+71 - Waraje,"Raghavdas Vidyalay Warje East Facing Building (Parking) East Side,Room No 3",212
+72 - Waraje,"R. M. D Sinhgad Technical institute Campus, South Facing Building, East Side Room No. 1",212
+73 - Waraje,"R. M. D Sinhgad Technical institute Campus, South Facing Building, East Side Room No. 2",212
+74 - Waraje,"R. M. D Sinhgad Technical institute Campus, South Facing Building, East Side Room No. 3",212
+75 - Waraje,"R. M. D Sinhgad Technical institute Campus, West Facing Building, South Side Room No. 1",212
+76 - Waraje,"R. M. D Sinhgad Technical institute Campus, West Facing Building, South Side Room No. 2",212
+77 - Waraje,"Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje West Facing Building Ground Floor, North Side Room No.1",212
+78 - Waraje,"Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje West Facing Building Ground Floor, North Side Room No.2",212
+79 - Waraje,"Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje West Facing Building Ground Floor, North Side Room No.3",212
+80 - Waraje,"Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje West Facing Building Ground Floor, North Side Room No.4",212
+81 - Waraje,"Progressive Eduction Soc.che Mohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje East Facing Building Parking (structure), North Side Room No.1",212
+82 - Waraje,"Progressive Eduction Soc.che Mohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje East Facing Building Parking (structure), North Side Room No.2",212
+83 - Waraje,Progressive Eduction Soc.che Mohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje East West ground (structure) East Side Room No.1,212
+84 - Waraje,Progressive Eduction Soc.che Mohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje East West ground (structure) East Side Room No.2,212
+85 - Waraje,Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje East West ground (structure) East Side Room No.3,212
+86 - Waraje,Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje East West ground (structure) East Side Room No.4,212
+87 - Waraje,"Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje North Facing Building,Ground Floor, East Side Room No.1",212
+88 - Waraje,"Progressive Eduction Soc.cheMohanlal Sharma Modern High School Pandit Jawaharlal Neharu Primary Vidya Mandir Sr.No. 117 Popular Nagar Waraje Mane Building North facing Graound Floor, East side Room No.2",212
+89 - Waraje,"Late. Gulabrao Tukaram Wanjle, Primary School No. 148 B, New Ahire North Facing Pakka Patra Shed From North Side, Room No.1",212
+90 - Waraje,"Late. Gulabrao Tukaram Wanjle, Primary School No. 148 B, New Ahire South Facing East Side, Room No.2",212
+91 - Waraje,"Late. Gulabrao Tukaram Wanjle, Primary School No. 148 B, New Ahire North Facing Pakka Patra Shed From North Side, Room No.1",212
+92 - Waraje,"Late. Gulabrao Tukaram Wanjle, Primary School No. 148 B, New Ahire South Facing East Side, Room No.1",212
+93 - Waraje,"Late. Gulabrao Tukaram Wanjle, Primary School No. 148 B, New Ahire North Facing Building, , From West Side, Room No.2",212
+94 - Waraje,"Late. Gulabrao Tukaram Wanjle, Primary School No. 148 B, New Ahire North Facing Building, Ground Floor, From West Side, Room No. 1",212
+95 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje Ground FloorNorth Facing Building Room No.1,212
+96 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje Ground Floor North Facing From West Side Room No.2,212
+97 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje Ground Floor North Facing From West Side Room No.3,212
+98 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje Ground Floor North Facing From West Side Room No.4,212
+99 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje Ground Floor West Facing Billding From South Side Room No.1,212
+100 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje Ground Floor West Facing Billding From South Side Room No.2,212
+101 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje West Facing Building Ground Floor South Side Room No.3,212
+102 - Waraje,Banabai Baloba Barate PMCSchool No.196/B Ramnagar Waraje West Facing Building Ground Floor South Side Room No.4,212
+103 - Waraje,"Ramnagar Housing Society, S.R. No. 35 North Facing Building West side Room No. 1",212
+104 - Waraje,"Ramnagar Housing Society, S.R. No. 35 North Facing Building West side Room No. 2",212
+105 - Waraje,"Ramnagar Housing Society, S.R. No. 35 North Facing Building West side Room No. 3",212
+106 - Waraje,"Ramnagar Housing Society, sarthi seenclear, S.R. No. 35 North Facing Building North side Room No. 1",212
+107 - Waraje,"Ramnagar Housing Society, sarthi seenclear, S.R. No. 35 North Facing Building North side Room No. 2",212
+108 - Waraje,"Ramnagar Housing Society, sarthi seenclear, S.R. No. 35 North Facing Building North side Room No. 3",212
+109 - Bavdhan Kh.,"Pune PMC School No.153,Jents.South Facing Building,Wast Side No.1",212
+110 - Bavdhan Kh.,"Pune PMC School No.153,Jents.South Facing Building,Wast Side No.2",212
+111 - Bavdhan Kh.,"Pune PMC School No.153,Jents.East Facing Building,North Side No.1",212
+112 - Bavdhan Kh.,"Pune PMC School No.153,Jends.East Facing Building,Nouth Side No.2",212
+113 - Bavdhan Kh.,Pune PMCSchool No.153 Boy's Bavdhan Kh. EAST FACING NORTH SIDE ROOM NO. 3,212
+114 - Bavdhan Kh.,Pune PMCSchool Swami Vivekananda Vidyalaya Maratha Temple Behind LMD Chowk Ground Floor West Facing South Room No. 2,212
+115 - Bavdhan Kh.,Pune Municipal School Swami Vivekananda Vidyalaya Maratha Temple Behind LMD Chowk Ground Floor West Facing South Room No. 3,212
+116 - Bavdhan Kh.,Pune Municipal School Swami Vivekananda Vidyalaya Maratha Temple Behind LMD Chowk Ground Floor West Facing South Room No. 4,212
+117 - Bavdhan Kh.,Pune PMC School Swami Vivekananda Vidyalaya Maratha Temple Behind LMD Chowk Ground Floor West Facing South Room No. 5,212
+118 - Bavdhan Kh.,"Pune PMC School Swami Vivekananda Vidyalaya Maratha Temple Behind LMD Chowk, Bavdhan Khu. GROUND FLOOR, SOUTH FACING EAST ROOM NO. 1",212
+119 - Bavdhan Kh.,"Pune P M C School Swami Vivekananda Vidyalaya Maratha Temple Behind L M D Chowk, Bavdhan Khu. GROUND FLOOR, SOUTH FACING EAST ROOM NO. 2",212
+120 - Bavdhan Kh.,"Pune P M C School Swami Vivekananda Vidyalaya Maratha Temple Behind L M D Chowk, Bavdhan Khu. GROUND FLOOR, SOUTH FACING EAST ROOM NO. 3",212
+121 - Bavdhan Kh.,"Pune P M C School Swami Vivekananda Vidyalaya Maratha Temple Behind L M D Chowk, Bavdhan Khu. GROUND FLOOR, EAST NORTH FACING ROOM NO. 1",212
+122 - Bavdhan Kh.,"Pune P M C School Swami Vivekananda Vidyalaya Maratha Temple Behind L M D Chowk, Bavdhan Khu. GROUND FLOOR, EAST NORTH FACING ROOM NO. 2",212
+123 - Kothrud Rural,Eklavya Shikshan Sansta North Facing Computer Building East Side Room No.1,212
+124 - Kothrud Rural,Eklavya Shikshan Sansta North Facing Computer Building East Side Room No.2,212
+125 - Kothrud Rural,"Eklavya Shikshan Sansta Civil Department Building Kothrud Ground floor,South Side East Facing Room No.2 Reading Room",212
+126 - Kothrud Rural,Eklavya Shikshan Sansta North Facing Computer Building East Side Room No.3,212
+127 - Kothrud Rural,Eklavya Shikshan Sansta North Facing I Building East Side Room No.1,212
+128 - Kothrud Rural,"Eklavya Shikshan Sansta Engineering Building, South Facing West Side Room No.1",212
+129 - Kothrud Rural,Eklavya Shikshan Sansta Engineering Building South Facing West Side Room No.2,212
+130 - Kothrud Rural,Eklavya Shikshan Sansta Civil Dept.Ground floor South Side West Facing Room No. 4 Physics Lab,212
+131 - Kothrud Rural,Eklavya Shikshan Sansta I Building Ground Floor North Facing East Side Room No.2,212
+132 - Kothrud Rural,Eklavya Shikshan Sansta I Building Ground Floor North Facing East Side Room No.3,212
+133 - Kothrud Rural,"Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya Ground Floor, West Facing North Side Room No.7",212
+134 - Kothrud Rural,"Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya Ground Floor, West Facing North Side Room No.8",212
+135 - Kothrud Rural,Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya East Side North Facing Room No. 9,212
+136 - Kothrud Rural,"Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya , East Side North Facing Room No.4",212
+137 - Kothrud Rural,Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya North Facing East Side Room No. 1,212
+138 - Kothrud Rural,J. P. Naik Shikshan & Vikas Kendra Kothrud Sabhagruh Building Kamiti Room Ground Floor East Side North Facing Room No.1,212
+139 - Kothrud Rural,Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya North Facing East Side Room No. 2,212
+140 - Kothrud Rural,Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya North Facing East Side Room No. 3,212
+141 - Kothrud Rural,"J. P. Naik Shikshan & Vikas Kendra, Kothrud, Sabhagruh Building Kamiti Room Ground Floor East Side South Facing Room No. 2",212
+142 - Kothrud Rural,Smt. Ratnaprabhadevi Mohite Patil Vidhyalaya South Facing East Side Room No. 5,212
+143 - Kothrud Rural,"J. P. Naik Shikshan & Vikas Kendra, Kothrud Sabhagruh Building Seminar Hall, Ground Floor North Side West Facing Auditoriam Hall",212
+144 - Kothrud Rural,"J. P. Naik Shikshan & Vikas Kendra, Parth Parthi Bhavan Building Ground Floor, East Side North Facing Room No. 1",212
+145 - Kothrud Rural,Bharatratna Dr. Babasaheb Ambedkar Vidhyalaya North Facing West Side Room No. 1,212
+146 - Kothrud Rural,"Bharatratna Dr. Babasaheb Ambedkar Vidhyalaya,West Side-North Facing Room No.4",212
+147 - Kothrud Rural,Bharatratna Dr. Babasaheb Ambedkar Vidhyalaya North Facing West Side Room No. 2,212
+148 - Kothrud Rural,Bharatratna Dr. Babasaheb Ambedkar Vidhyalaya North Facing West Side Room No. 3,212
+149 - Bibvewadi,Shriramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi West Facing Room No. 2 from South Ground Floor,212
+150 - Bibvewadi,"Shriram Rajya, Madhyamik Vidhyalaya, Upper Indira Nagar, Bibwewadi, west facing building,south side Room No.3, Ground floor",212
+151 - Bibvewadi,"Shriram Rajya, Madhyamik Vidhyalaya, Upper Indira Nagar, Bibwewadi, west facing building,south side Room No.4, Ground floor",212
+152 - Bibvewadi,"Shriram Rajya, Madhyamik Vidhyalaya, Upper Indira Nagar, Bibwewadi, west facing building,south side Room No.5, Ground floor",212
+153 - Bibvewadi,"Pushpa Devi International School Bibvewadi East West Building, North Facing, West Side Room No. Partition 1",212
+154 - Bibvewadi,"Shriram Rajya, Madhyamik Vidhyalaya, Upper Indira Nagar, Bibwewadi, South Facing Office,North Side Room",212
+155 - Bibvewadi,"Pushpa Devi International School Bibvewadi East West Building, North Facing, West Side Room No. Partition 2",212
+156 - Bibvewadi,"Pushpa Devi International School Bibvewadi East West Building, North Facing, West Side Room No. Partition 3",212
+157 - Bibvewadi,"Pushpa Devi International School Bibvewadi East West Building, south Facing, West Side Room No. Partition 1",212
+158 - Bibvewadi,"Pushpa Devi International School Bibvewadi East West Building, south Facing, West Side Room No. Partition 2",212
+159 - Bibvewadi,"Pushpa Devi International School Bibvewadi East West Building, south Facing, West Side Room No. Partition 3",212
+160 - Bibvewadi,"Shriram Rajya, Madhyamik Vidhyalaya, Upper Indira Nagar, Bibwewadi, West Facing Room Near Gate",212
+161 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, Ground Floor, South Facing Building, Room No. 1 from East",212
+162 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, Ground Floor, South Facing Building, Room No. 2 from East",212
+163 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, Ground Floor, South Facing Building, Room No. 3 from East",212
+164 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, Ground Floor, East Facing Staff Room",212
+165 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, Ground North Facing From West (Temporary Structure) No.1",212
+166 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, Ground North Facing From West (Temporary Structure) No.2",212
+167 - Bibvewadi,New Angel English Medium School Upper Indiranagar Bibvewadi East Facing Building North Side Room No. 2,212
+168 - Bibvewadi,New Angel English Medium School Upper Indiranagar Bibvewadi East Facing Building North Side Room No. 3,212
+169 - Bibvewadi,"Ramrajya SecondaryVidhyalaya Appar Indiranagar Bibvewadi, South Facing Building From East Room No.1 (Workexperience Lab)",212
+170 - Bibvewadi,"Poona Womens Council, Balwadi, Palanaghar, South Facing East Side Room No. 1",212
+171 - Katraj,Poona Womens Council Balwadi (Karaj Gaothan) Room No.2,212
+172 - Katraj,"Sarhad College of Arts,Commerce & Science East Building South Side Room No.1",212
+173 - Katraj,"Sarhad College of Arts,Commerce & Science East Building South Side Room No.2",212
+174 - Katraj,"Bharati Vidhyapith, Karmavir Bhaurao Patil Vidhyalaya & Kanishta Mahavidyalay, Katraj, from North side East Facing Office Staff Room No. 1",212
+175 - Katraj,"Bharati Vidhyapith, Karmavir Bhaurao Patil Vidhyalaya & Kanishta Mahavidyalay, Katraj, from North side East Facing Room No. 2",212
+176 - Katraj,"Bharti Vidhyapeeth, Karmaveer Bhaurao Patil Vidhyalaya & Junior Collage, Staff Room No.3",212
+177 - Katraj,"Bharti Vidhyapeeth, Karmaveer Bhaurao Patil Vidhyalaya & Junior Collage, Katraj, East Facing, North Side Room No.4",212
+178 - Katraj,"Bharti Vidhyapeeth, Karmaveer Bhaurao Patil Vidhyalaya & Junior Collage, Katraj, East Facing, North Side Room No.5",212
+179 - Katraj,"Sarhad School Katraj West Facing Building,South Side Room No.1",212
+180 - Katraj,"Sarhad School Katraj West Facing Building,South Side Room No.2",212
+181 - Katraj,"Sarhad School Katraj West Facing Building,South Side Room No.3",212
+182 - Katraj,"Sarhad School Katraj West Facing Building,East Side Room No.1",212
+183 - Katraj,"Sarhad School Katraj West Facing Building,East Side Room No.2",212
+184 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,In Parking From West, South Facing (Temporary Structure) No.1",212
+185 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,In Parking From East South Facing (Temporary Structure) No.1",212
+186 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,In Parking From West , North Facing (Temporary Structure) No.1",212
+187 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,In Parking From East North Facing (Temporary Structure) No.1",212
+188 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,Ground From West East Facing (Temporary Structure) No.1",212
+189 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,Ground From West North Facing (Temporary Structure) No.1",212
+190 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,Ground From West North Facing (Temporary Structure) No.2",212
+191 - Dhankawadi,"Navmaharashtra Shikshan Sanstheche Shri. Vamanrao Oturkar Sec. School ,Ground From West North Facing (Temporary Structure) No.3",212
+192 - Dhankawadi,"Survey no. 2 Dheyapurti Co-operative Housing Society Maryadit Society Hall, Partition 1 Dhankawadi Pune 43",212
+193 - Dhankawadi,"Survey no. 2 Dheyapurti Co-operative Housing Society Maryadit Society Hall, Partition 2 Dhankawadi Pune 43",212
+194 - Dhankawadi,"Priya Darshani Vidyamandir, Pre Primary and Secondery Vidhyalaya, Vanarai collony ,Dhankawadi, West facing, South Side Bulding, Ground floor, Room No 1",212
+195 - Dhankawadi,"Priya Darshani Vidyamandir, Pre Primary and Secondery Vidhyalaya, Vanarai collony ,Dhankawadi, West facing, South side room no.2 Ground Floor",212
+196 - Dhankawadi,"Priya Darshani Vidyamandir,Pre Primary and Secondery Vidhyalaya, Vanarai collony ,Dhankawadi, West facing, South side room no.3 Ground Floor",212
+197 - Dhankawadi,Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi West Facing Room No. 5 from South Ground Floor,212
+198 - Dhankawadi,Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi West Facing Room No. 6 from South Ground Floor,212
+199 - Dhankawadi,Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi South Facing Room No.7 from East Ground Floor,212
+200 - Dhankawadi,Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi South Facing Room No.2 from East side Ground Floor,212
+201 - Dhankawadi,Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi South Facing Room No3 from East Ground Floor,212
+202 - Dhankawadi,Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi South Facing Room No.4 from East Ground Floor,212
+203 - Dhankawadi,"Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi Ground Floor (Staff Room), South Facing From East Room No.5",212
+204 - Dhankawadi,"Pune Municipal Corporation Multi Purpose Building, Rajmata Jijau Hall, Parking, Partition no. 1 Dhankawadi Pune",212
+205 - Dhankawadi,"Pune Municipal Corporation Multi Purpose Building, Rajmata Jijau Hall, Parking, Partition no. 2 Dhankawadi Pune",212
+206 - Dhankawadi,"Pune Municipal Corporation Multi Purpose Building, Rajmata Jijau Hall, Parking, Partition no. 3 Dhankawadi Pune",212
+207 - Dhankawadi,"Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi, In Ground From North East Facing (Temporary Structure) No.4",212
+208 - Dhankawadi,"Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi, In Ground From North East Facing (Temporary Structure) No.5",212
+209 - Dhankawadi,"Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi, In Ground From North East Facing (Temporary Structure) No.6",212
+210 - Dhankawadi,"Priyadarshani Vidhyamandir Pre Primary & Secondary Vidhyalaya Vanrai Colony Dhankawadi, In Ground From North East Facing (Temporary Structure) No.7",212
+211 - Dhankawadi,"P.M.C. School No. 91 G, Ramchandranagar, Dhankawadi, South Facing From West Side, Room No. 1",212
+212 - Dhankawadi,"P.M.C. School No. 91 G, Ramchandranagar, Dhankawadi, South Facing Room No. 2 from west side",212
+213 - Dhankawadi,"P.M.C. School No. 91 G, Ramchandranagar, Dhankawadi, South Facing west side Room No. 4",212
+214 - Dhankawadi,"P.M.C. School No. 91 G, Ramchandranagar, Dhankawadi, South Facing From West Side, Room No. 3",212
+215 - Dhankawadi,"Samarth Balak Mandir, Dhankawadi North facing From East Side, Room No. 1",212
+216 - Dhankawadi,"Samarth Balak Mandir, Dhankawadi North facing From East Side, Room No. 2",212
+217 - Dhankawadi,"Samarth Balak Mandir, Dhankawadi West facing From North Side, Room No. 2",212
+218 - Dhankawadi,"Samarth Balak Mandir, Dhankawadi West facing From Sourh Side, Room No. 1",212
+219 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society West Facing from South Side Room No. 1",212
+220 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society West Facing from South Side Room No. 2",212
+221 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society West Facing South Side Room No. 3",212
+222 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society West Facing South Side Room No. 4",212
+223 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society East Facing from South Side Room No. 2",212
+224 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society East Facing South Side Room No. 3",212
+225 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society East Facing From South Side Room No. 4",212
+226 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society Shri Nivas builliding Parking East Facing From South Side (Temporary Structure) No.1",212
+227 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society Shri Nivas builliding Parking From East South Facing (Temporary Structure) No.1",212
+228 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society Shri Nivas builliding Parking From East North Facing (Temporary Structure) No.2",212
+229 - Dhankawadi,"Anant Shikshan Sanstheche Priyadarshani English School, Gulabnagar Samrtha Society Shri Nivas builliding Parking From East North Facing (Temporary Structure) No.3",212
+230 - Dhankawadi,Balak Vikas Mandir Kundanagar Dhankawadi Southfacing From East Side Room No 1,212
+231 - Dhankawadi,Balak Vikas Mandir Kundanagar Dhankawadi Southfacing From East Side Room No 3,212
+232 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar In Parking From South Side East Facing (Temporary Structure) No.1",212
+233 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar In Parking From South Side East Facing (Temporary Structure) No.2",212
+234 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar In Parking From South Side East Facing (Temporary Structure) No.3",212
+235 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar In Parking From South Side East Facing (Temporary Structure) No.4",212
+236 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar West Facing From North Side (Temporary Structure) No.1",212
+237 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar West Facing From North Side (Temporary Structure) No.2",212
+238 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar West Facing From North Side (Temporary Structure) No.3",212
+239 - Dhankawadi,"Rajgad Dnyanpithachi Dnyanankur English School, Daulatnagar West Facing From North Side (Temporary Structure) No.4",212
+240 - Dhankawadi,"Rajgad Dynanpeethachi MBA College, North Facing Building, Daulatnagar, Dhankawadi, Parking Partition No. 1",212
+241 - Dhankawadi,"Rajgad Dynanpeethachi MBA College, North Facing Building, Daulatnagar, Dhankawadi, Parking Partition No. 2",212
+242 - Dhankawadi,"Rajgad Dynanpeethachi MBA College, North Facing Building, Daulatnagar, Dhankawadi, Parking Partition No. 3",212
+243 - Dhankawadi,"Shiv Chhatrapati Mangal Office Hall of Shiv Smarak Committee, Partition no. 1",212
+244 - Dhankawadi,"Shiv Chhatrapati Mangal Office Hall of Shiv Smarak Committee, Partition no. 2",212
+245 - Dhankawadi,"Shiv Chhatrapati Mangal Office Hall of Shiv Smarak Committee, Partition no. 3",212
+246 - Dhankawadi,"Shiv Chhatrapati Mangal Office Hall of Shiv Smarak Committee, Partition no. 4",212
+247 - Dhankawadi,"Shiv Chhatrapati Mangal Office Hall of Shiv Smarak Committee, Partition no. 5",212
+248 - Dhankawadi,"Shiv Chhatrapati Mangal Office Hall of Shiv Smarak Committee, Partition no. 6",212
+249 - Dhankawadi,"Defense Accounting Cooperative Housing Society, Shivaji Mandir Hall, Dhankawadi",212
+250 - Dhankawadi,"Rajgad Dnyapithachi MBA College North Building Daulat Nagar Dhankwdi , Ground Floor, west side South Facing Room No.1",212
+251 - Dhankawadi,"Rajgad Dnyapithachi MBA Collage, Doulatnagar Dhanakawadi North Facing Billding, Ground Floor, West Side To South side Facing Room No. 1",212
+252 - Dhankawadi,"Rajgad Dnyapithachi MBA Collage, Doulatnagar Dhanakawadi North Facing Billding, Ground Floor, From East Side To North Facing Room No. 2",212
+253 - Dhankawadi,"Rajgad Dnyapithachi MBA College North Facing Building , Daulat Nagar, Dhankwadi, Gound Floor, From East, North Facing Room No.1",212
+254 - Dhankawadi,"Dnyanesh Primary School, Balajinagar South Facing East Side Room No.1",212
+255 - Dhankawadi,"Dnyanesh Balak Mandir, Balajinagar , East Facing South Side Room No.1",212
+256 - Dhankawadi,"Swaraj College Of Commefrce ,Gurudatt Society,Back to Khushbu Hotel,North to East Facing Room No.1",212
+257 - Dhankawadi,"Swaraj College Of Commefrce ,Gurudatt Society,Back to Khushbu Hotel,North to East Facing Room No.2",212
+258 - Dhankawadi,"Vyankatesh Vidya Prashala balaji nagar Dhankawadi, North Facing East Side Room No 1",212
+259 - Dhankawadi,Vyankatesh Vidhya Prashala Balajinagar Dhankawadi North Facing East Side Room No.2,212
+260 - Dhankawadi,Vyankatesh Vidhya Prashala Balajinagar Dhankawadi South Facing East Side Room No.2,212
+261 - Vadgaon Bk.,"Naryanrao Navale, PMC School, No 56/204B, Wadagaon Bu. North Facing Billiding, Parking West Facing, North Side, Room No.1",212
+262 - Vadgaon Bk.,"Naryanrao Navale, PMC School, No 56/204B, Wadagaon Bu. North Facing Billiding, Graund Floor West Facing, North Side, Room No.3",212
+263 - Vadgaon Bk.,"Naryanrao Navale, PMC School, No 56/204B, Wadagaon Bu. North Facing Billiding, Graund Floor North Facing, East Side, Room No.1",212
+264 - Vadgaon Bk.,"Naryanrao Navale, PMC School, No 56/204B, Wadagaon Bu. North Facing Billiding, Graund Floor North Facing,East Side, Room No.2",212
+265 - Vadgaon Bk.,"Naryanrao Navale, PMC School, No 56/204B, Wadagaon Bu. North Facing Billiding, Graund Floor North Facing, East Side, Room No.3",212
+266 - Vadgaon Bk.,"Dyandip English Medium School,Old Toll Naka Vadgaon Bk,west side North Facing Room No.2",212
+267 - Vadgaon Bk.,"Dnyandip English Midium School, Near Old Toll Naka, Vadgaon Bk. West Facing, From north Room No. 1",212
+268 - Vadgaon Bk.,"Dnyandip English Midium School, Near Old Toll Naka, Vadgaon Bk. West Facing, Room No. 2",212
+269 - Vadgaon Bk.,"Dnyandip English Midium School, Near Old Toll Naka, Vadgaon Bk. Central West Facing building, Room No. 2 from north side",212
+270 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu. Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 1",212
+271 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu. Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 2",212
+272 - Vadgaon Bk.,"AanandkshanSchool , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 3",212
+273 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu. Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 4",212
+274 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 5",212
+275 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 6",212
+276 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 7",212
+277 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 8",212
+278 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 9",212
+279 - Vadgaon Bk.,"Aanandkshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 10",212
+280 - Vadgaon Bk.,"VeerShri Education Society Visdom Primary School ,Kirtinagar Trutumbhra Residency Vadgaon Bk,North Facing,East Room No.1",212
+281 - Vadgaon Bk.,"Prof. Suhas prabhakar Jog Vidyalaya, Sinhgad road Niranjan Park, manik baug, vadgaon bk. Ground flor west facing north side room no.2",212
+282 - Vadgaon Bk.,"Prof. Suhas prabhakar Jog Vidyalaya, Sinhgad road Niranjan Park, manik baug, vadgaon bk. 2nd floar,East facing north side room no.1",212
+283 - Vadgaon Bk.,"VeerShri Education Society Visdom Primary School ,Kirtinagar Trutumbhra Residency Vadgaon Bk,North Facing,East Room No.2",212
+284 - Vadgaon Bk.,"VeerShri Education Society Visdom Primary School ,Kirtinagar Trutumbhra Residency Vadgaon Bk,North Facing,East Room No.4",212
+285 - Vadgaon Bk.,"VeerShri Education Society Visdom Primary School ,Kirtinagar Trutumbhra Residency Vadgaon Bk,North Facing,East Room No.5",212
+286 - Vadgaon Bk.,"VeerShri Education Society Visdom Primary School ,Kirtinagar Trutumbhra Residency Vadgaon Bk,North Facing,East Room No.7",212
+287 - Vadgaon Bk.,"VeerShri Education Society Visdom Primary School ,Kirtinagar Trutumbhra Residency Vadgaon Bk,North Facing,East Room No.8",212
+288 - Vadgaon Bk.,"Dnyandip Narcary School, Dhan Laxmi Soc., Santhosh Holl Frant, Wadagaon Bu, South Facing, west Side, Room No 1",212
+289 - Vadgaon Bk.,"Dnyandip Narcary School, Dhan Laxmi Soc., Santhosh Holl Frant, Wadagaon Bu, North Facing, North Side, Room No 1",212
+290 - Vadgaon Bk.,"Dnyandip Narcary School, Dhan Laxmi Soc., Santhosh Holl Frant, Wadagaon Bu, North Facing, SouthSide, Room No 1",212
+291 - Vadgaon Bk.,"Dnyandip Narcary School, Dhan Laxmi Soc., Santhosh Holl Frant, Wadagaon Bu, East Facing, South Side, Room No 2",212
+292 - Vadgaon Bk.,"Dnyandip Narcary School, Dhan Laxmi Soc., Santhosh Holl Frant, Wadagaon Bu, East Facing, Sauth Side, Room No 3",212
+293 - Vadgaon Bk.,"Aanand Kshan School , Vadgaon Bu. Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 11",212
+294 - Vadgaon Bk.,"Aanand Kshan School , Vadgaon Bu.Oposite to Sundar Sahavas Sosa. North south Building,facing west word room no. 12",212
+295 - Vadgaon Bk.,"suncity pune sr no.10 vadgaon bk, in front of community hall west facing tennis hall",212
+296 - Vadgaon Bk.,"Pune PMC Shikshan Mandal School No 203 B, 100 G, Ground Floor, North facing West Side Room No 1",212
+297 - Vadgaon Bk.,"Pune PMC Shikshan Mandalache School No.203 B, 100 G Ground Floor, North Facing West Side Room No.2",212
+298 - Vadgaon Bk.,"Pune PMC Shikshan Mandalache School No.203 B, 100 G Ground Floor, North Facing West Side Room No.3",212
+299 - Vadgaon Bk.,"Pune Shikshan Mandalache, Pune PMC School No. 203 B, 100 G Ground Floor West facing Balwadi",212
+300 - Vadgaon Bk.,"Pune PMC Shikshan Mandal School No 203 B, 100 G, Ground Floor, South facing East Side Room No 1",212
+301 - Vadgaon Bk.,"Pune PMC Shikshan Mandal School No 203 B, 100 G, Ground Floor, South facing East Side Room No3",212
+302 - Vadgaon Bk.,"Pune PMC Shikshan Mandal School No 203 B, 100 G, Ground Floor, South facing East Side Room No 4",212
+303 - Vadgaon Bk.,"Pune Shikshan Mandalache, Pune PMC School No. 203 B, 100 G Ground Floor South Facing East Side Room No. 5",212
+304 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.1",212
+305 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.2",212
+306 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.3",212
+307 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.4",212
+308 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.5",212
+309 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.6",212
+310 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.7",212
+311 - Vadgaon Bk.,Shevantabai Dangat Old Corporation School South facing Building West Side Room No.1,212
+312 - Vadgaon Bk.,Shevantabai Dangat Old Corporation School South facing Building West Side Room No.2,212
+313 - Vadgaon Bk.,"Chandrkant Dangat Patil Secondary College and Shiv Chatrpati Arts And Commerce College East Facing Building ,West side Room No.8",212
+314 - Vadgaon Bk.,"PMC Helth Centar, Helth Korthi, Kar Sankal Centar, Ground Floor, Wadagon Bu, West Facing, North Side, Room No 1",212
+315 - Vadgaon Bk.,Shevantabai Dangat Old Corporation School South facing Building West Side Room No.3,212
+316 - Vadgaon Bk.,Shevantabai Dangat Old Corporation School North facing Building East Side Room No.3,212
+317 - Vadgaon Bk.,"Shiv Chatrapati Balak Mandir, Pri Pryamary School, Frant of Datta Mandir, Wadagaon Bu, West Facing, North Side , Room No 5",212
+318 - Vadgaon Bk.,"Shiv Chatrapati Balak Mandir, Pri Pryamary School, Frant of Datta Mandir, Wadagaon Bu, West Facing, North Side , Room No 3",212
+319 - Vadgaon Bk.,"Shiv Chatrapati Balak Mandir, Pri Pryamary School, Frant of Datta Mandir, Wadagaon Bu, West Facing, North Side ,Room No 2",212
+320 - Vadgaon Bk.,"Shiv Chatrapati Balak Mandir, Pri Pryamary School, Frant of Datta Mandir, Wadagaon Bu, east Facing, North Side , Room No 1",212
+321 - Vadgaon Bk.,"Dnyansadhana Vidhyamandir, Jadhavnagar, Near Tukainagar Sr.No.43, Ground Floor North Facing West Side Room No. 1",212
+322 - Vadgaon Bk.,"Dnyansadhana Vidhyamandir, Jadhavnagar, Near Tukainagar Sr.No.43, Ground Floor West Side North Facing Room No. 1",212
+323 - Vadgaon Bk.,"Dnyansadhana Vidhyamandir, Jadhavnagar, Near Tukainagar Sr.No.43, North Facing From East Side Room No.2",212
+324 - Vadgaon Bk.,"Dnyansadhana Vidhyamandir, Jadhavnagar, Near Tukainagar Sr.No.43, North Facing From East Side Room No.1",212
+325 - Vadgaon Bk.,"Omsai Coaching Classes,Tukai Villa Tukai Nagar Near Dnyansadhna School West Facing Building, South side Room No.5",212
+326 - Vadgaon Kh.,"Rayat Shikshan Santheche Narayan Sanas Vidhyalaya,Vadgaon Kh. West Facing Room No. 1 from North, Ground floor",212
+327 - Vadgaon Kh.,"Rayat Shikshan Santheche Narayan Sanas Vidhyalaya,Vadgaon Kh.Ground Floor, Assembly Hall From East Side No.1",212
+328 - Vadgaon Kh.,"Rayat Shikshan Santheche Narayan Sanas Vidhyalaya,Vadgaon Kh. New Building South side From East Room No.1 (Technical Department Room)",212
+329 - Vadgaon Kh.,"Rayat Shikshan Santheche Narayan Sanas Vidhyalaya,Vadgaon Kh.Ground Floor, Assembly Hall From East Side No.2",212
+330 - Vadgaon Kh.,"Rayat Shikshan Santheche Narayan Sanas Vidhyalaya,Vadgaon Kh. Graund Floor, Sabhagruh No 4",212
+331 - Uttamnagar/ Shivane,"Zilha Parishad Primary School Uttamnagar, East Facing Building North Side Room No.2",212
+332 - Uttamnagar/ Shivane,"Zilha Parishad Primary School Uttamnagar, East Facing Building North Side Room No.3",212
+333 - Uttamnagar/ Shivane,"Zilha Parishad Primary School Uttamnagar, East Facing Building North Side Room No.4",212
+334 - Uttamnagar/ Shivane,Pune Jilla Shikshan Mandalche Primary Vidhyalay Uttamnagar west Facing Building North Side Room No. 3,212
+335 - Uttamnagar/ Shivane,"Zilha Parishad Primary School Uttamnagar, East Facing Building North Side Room No.5",212
+336 - Uttamnagar/ Shivane,Pune Jilla Shikshan Mandalche Primary Vidhyalay Uttamnagar West Facing Building North Side Room No. 5,212
+337 - Uttamnagar/ Shivane,"Zilha Parishad Primary School Uttamnagar, East Facing Building North Side Room No.6",212
+338 - Khadakwasla,"Jilha Parishad School, Khadakwasla, North facing East side Room No 1",212
+339 - Khadakwasla,Z.P. School Khadakwasla North Facing Room No. 2 from East,212
+340 - Khadakwasla,Z.P. School Khadakwasla North Facing Room No. 3 from East,212
+341 - Khadakwasla,"Z.P. School, Old Building, Anganwadi, Khadakwasla North Facing, East Side, Room No. 5",212
+342 - Khadakwasla,Z.P. School Khadakwasla North Facing Room No. 4 from East,212
+343 - Khadakwasla,"Z.P. School, Old Building, Anganwadi, Khadakwasla North Facing Room No. 1 from East",212
+344 - Khadakwasla,"Z.P. School, Old Building, Anganwadi, Khadakwasla North Facing, East Side, Room No. 3",212
+345 - Kopare,Zilha Parishad School Kopare North Facing Building East Side Room No. 4,212
+346 - Kopare,Zilha Parishad School Kopare North Facing Building East Side Room No. 6,212
+347 - Kudaje,"Zilha Parishad Primary School Kudaje, South Facing East Side Room No. 1",212
+348 - Khadakwadi,"Zilha Parishad Primary School Khadakwadi, North Facing Building Room No. 1",212
+349 - Mandavi Kh.,"Zilha Parishad Primary School Mandvi Kh., West Facing South Side Room No.1",212
+350 - Mandavi Bu.,Zilha Parishad Primary School Mandvi Bk. West Facing South Side Room No.1,212
+351 - Sangrun,"Zilha Parishad Primary School Sangrun, South Facing West Side Room No.1",212
+352 - Jambhali,"Zilha Parishad Primary School Jambhali, east Facing New Building Room No. 3 from south side",212
+353 - Ambi,"Zilha Parishad Primary School Ambi, North Facing East Side Room No.1",212
+354 - Ambi,"Zilha Parishad Primary School Ambi, North Facing East Side Room No.2",212
+355 - Sonapur,"Zilha Parishad Primary School Sonapur, North Facing West Side Room No.1",212
+356 - Malkhed,Zilha Parishad Primary School Malkhed North Facing East Side Room No.2,212
+357 - Khanapur,"Zilha Parishad School Khanapur, North Facing Room No. 1 from East",212
+358 - Khanapur,"Zilha Parishad School Khanapur, North Facing Room No. 2 from East",212
+359 - Khanapur,"Zilha Parishad School Khanapur, North Facing Room No. 3 from East",212
+360 - Manerwadi,"Zilha Parishad School Manerwadi, North Facing Room No. 1 from East",212
+361 - Gorhe Kh.,"Zilha Parishad School Gorhe Kh., East Facing Room No. 1 from south side",212
+362 - Gorhe Bk.,"Zilha Parishad School Gorhe Bk., North Facing Room No. 1 from East",212
+363 - Gorhe Bk.,"Zilha Parishad School Gorhe Bk., North Facing Room No. 2 from East",212
+364 - Gorhe Bk.,"Zilha Parishad School Gorhe Bk., North Facing Room No. 3 from East",212
+365 - Donaje,Zilha Parishad School Donje East Facing Room No. 1 from North,212
+366 - Donaje,"Jilha Parishad Prathmik School, Donaje, East facing North Side Room No 3",212
+367 - Nandoshi,Zilha Parishad School Nandoshi North Facing Room No. 1 from East,212
+368 - Kirkatwadi,"Anganwadi, Kirkatwadi, North Facing Room No.2 from East",212
+369 - Kirkatwadi,"Z P Primary School, Kirkatwadi, North Facing Room No.3 from East",212
+370 - Kirkatwadi,"Z P Primary School, Kirkatwadi, North Facing Room No.4 from East",212
+371 - Kirkatwadi,"Z P Primary School, Kirkatwadi, South side East Facing Room No.1",212
+372 - Kirkatwadi,"Z P Primary School, Kirkatwadi, North Facing Room No.5 from East",212
+373 - Kirkatwadi,"Zilha Parishad Primary School, Kirkatwadi, North Facing Room No.6 from East",212
+374 - Nanded,"Zilha Parishad Primary School, Nanded South Facing Room No.3 from East",212
+375 - Nanded,"Zilha Parishad Primary School, Nanded South Facing, from East Room No.6",212
+376 - Nanded,"Zilha Parishad Primary School, Nanded South Facing From East Side Room No.4",212
+377 - Nanded,"Zilha Parishad Primary School, Nanded South Facing Room From East Side Room No. 5",212
+378 - Nanded,"Zilha Parishad Primary School, Nanded South Facing Room From East Side Room No. 1",212
+379 - Nanded,"Nanded City Public School, Nanded City, Nanded South Facing East Side Room No.4",212
+380 - Nanded,"Nanded City Public School, Nanded City, Nanded South Facing East Side Room No.3",212
+381 - Nanded,"Nanded City Public School, Nanded City, Nanded South Facing East Side Room No.2",212
+382 - Nanded,"Nanded City Public School, Nanded City, Nanded South Facing East Side Room No.1",212
+383 - Nanded,"Nanded City Public School, Nanded City, Nanded South Facing East Side Room No.5",212
+384 - Nanded,"Zilha Parishad Primary School, Nanded J.P.Nagar, East Facing Room No.1 from South",212
+385 - Dhayri,"DSK Vishva, Dhyari, Varun Pawan Soc.,North Facing, Sports Club Hall,",212
+386 - Dhayri,"DSK Vishva, Dhyari, Varun Pawan Soc.,West Facing, Table Tennis Hall",212
+387 - Dhayri,"D. S. K Vishwa Dhayari Varun Pawan Society, East side Hall No 6",212
+388 - Dhayri,"D. S. K Vishwa Dhayari Varun Pawan Society, East side Hall No 7",212
+389 - Dhayri,"Saptasura Society, D. S . K Hall Dhayri",212
+390 - Dhayri,"Late Vastad Haribhau Pokale Prathmik PMC School No 163 and 92 Dhayari, New Billding, East Facing South Side Room No. 1 Ground Floor",212
+391 - Dhayri,"Late Vastad Haribhau Pokale Prathmik, Balwadi PMC School No 163 and 92 Dhayari, Balwadi South Facing Wast side Room No 1",212
+392 - Dhayri,"Late Vastad Haribhau Pokale Prathmik Balwadi, PMC School No 163 and 92 Dhayari, South Facing West side Room No 2",212
+393 - Dhayri,"Late Vastad Haribhau Pokale Prathmik PMC School No 163 and 92 Dhayari, Old Building North Facing East side Room No.2",212
+394 - Dhayri,"Saishobha Education Society Tayani Tos English Medium School South Facing, West Facing Room No. 1 Ground Floor",212
+395 - Dhayri,"Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari, Old building,Balwadi North Facing Room No. 3",212
+396 - Dhayri,"Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari, Old Building North Facing East Side Room No. 4",212
+397 - Dhayri,"Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari, Old Building North Facing East Side Room No. 5",212
+398 - Dhayri,"Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari, Old Building North Facing East Side Room No. 6",212
+399 - Dhayri,"Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari, Old Building North Facing East Side Room No. 7",212
+400 - Dhayri,Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari Old Building North Facing East Side Room No. 8,212
+401 - Dhayri,"Lt. Vastad Haribhau Pokale Pri. PMC School No.163 & School No. 92 Dhyari, Old Building North Facing East Side Room No. 9",212
+402 - Dhayri,"Late Vastad Haribhau Pokale Prathmik PMC School No 163 and 92 Dhayari, Old Building North Facing East side Room No.10",212
+403 - Dhayri,"Late Vastad Haribhau Pokale Prathmik PMC School No 163 and 92 Dhayari, New Building, Ground Four North Facing West side Room No.2",212
+404 - Dhayri,"Ishan International School,North Face Building East Side Room No.1 Lane No.22 B, Raykar Nagar Dhayri",212
+405 - Dhayri,"Ishan International School,North Face Building East Side Room No.2 Lane No.22 B, Raykar Nagar Dhayri",212
+406 - Dhayri,"Ishan International School,North Face Building East Side Room No.3 Lane No.22 B, Raykar Nagar Dhayri",212
+407 - Dhayri,"Ishan International School,North Face Building East Side Room No.4 Lane No.22 B, Raykar Nagar Dhayri",212
+408 - Dhayri,"Ishan International School,North Face Building East Side Room No.5 Lane No.22 B, Raykar Nagar Dhayri",212
+409 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing West side Room No.1",212
+410 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Side Facing West side Room No.2",212
+411 - Dhayri,"Namdev Banduji Chavan Vidyalaya Dhairi, Near Dhaireshwar Mandir, West Facing South, Room No. 1",212
+412 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Side Facing West side Room No.3 Ground Floor",212
+413 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari, Near Dhayrewshwar Temple, South Facing East side Room No.1",212
+414 - Dhayri,"Namdev Banduji Chavan Vidyalaya Dhairi, Near Dhaireshwar Mandir, West Facing South, Room No. 2",212
+415 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing East side Room No.2 ,",212
+416 - Dhayri,"Namdev Banduji Chavan Vidyalaya Dhairi, Near Dhaireshwar Mandir, West Facing South, Room No. 3",212
+417 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Side Facing West side Room No.4",212
+418 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing West side Room No.5 Ground Floor",212
+419 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing East side Room No.3",212
+420 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Side Facing West side Room No.6",212
+421 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Side Facing West side Room No.7",212
+422 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing East side Room No. 4",212
+423 - Dhayri,"Namdev Banduji Chavan Vidyalaya Dhairi, Near Dhaireshwar Mandir, West Facing South, Room No. 1",212
+424 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple,West Facing North side , Room No.1 building B, Ground Floor",212
+425 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing East side Room No.5",212
+426 - Dhayri,"Late Banduji Khanduji Chavan Vidyalaya Dhayari Near Dhayrewshwar Temple, South Facing East side Room No.6",212
+427 - Narhe,"Zilha Parishad Primary School, Narhe West Facing South Side, Anganwadi",212
+428 - Narhe,Zilla Parishad primary School Narhe Samaj Mandir,212
+429 - Narhe,"Zilha Parishad Primary School, Narhe West Facing North Side Room No. 1",212
+430 - Narhe,"Zilha Parishad Primary School, Narhe West Facing South Side Room No. 2",212
+431 - Narhe,"Principal Sudhakarrao Jadwar Education Society, Manaji Nagar Narhe, South facing room no. 1",212
+432 - Narhe,"Dnyandip English School, S No 57, Darode Jog, Narhe, East Facing, South Side, Room No 5",212
+433 - Narhe,"Prof. Sudhakarrao Jadhavar Secondary School,West Facing Building, Parking Partition No. 1 Near Ram Mandir, Pari Company Road Narhe.",212
+434 - Narhe,"Prof. Sudhakarrao Jadhavar Secondary School,West Facing Building, Parking Partition No. 2 Near Ram Mandir, Pari Company Road Narhe.",212
+435 - Narhe,"Pracharya Sudhakar Rao Jadhavar High School, West Billding, Parking Partition No. 3, Near Ram Tempal, Pari Commpany Road, Narhe",212
+436 - Narhe,"Pracharya Sudhakar Rao Jadhavar High School, West Billding, Parking Partition No. 4, Near Ram Tempal, Pari Commpany Road, Narhe",212
+437 - Narhe,"Dnyandip English School, S No 57, Darode Jog, Narhe, East Facing, South Side, Room No 2",212
+438 - Narhe,"Principal Sudhakarrao Jadhavar, Madhyamik Vidyalay, West facing building, Parking Partition No. 5, Near By Ram Mandir, Pari Com Road, Narhe,",212
+439 - Narhe,"Dnyandip English School, S No 57, Darode Jog, Narhe, East Facing, South Side, Room No 3",212
+440 - Narhe,"Professor Sudhakar Jadhwar Education Society Manaji Nagar Narhe East Side room no 2, South side Facing",212
+441 - Narhe,"Dnyandip English School, S No 57, Darode Jog, Narhe, East Facing, South Side, Room No 4",212
+442 - Narhe,"Principal Sudhakarrao Jadwar Education Society, Manaji Nagar Narhe, Room Near East Facing Stage",212
+443 - Narhe,"Professor Sudhakar Jadhwar Education Society Manaji Nagar Narhe East Room NO. 3, South facing",212
+444 - Sansnagar,"Zilha Parishad Primary School Sanasnagar, North Facing Room No. 1",212
+445 - Atkarawadi,"Zilha Parishad Primary School Atkarawadi, North Facing Room No. 1 from East",212
+446 - Wardade,Zilha Parishad Primary School Wardade North Facing South Side Room No.2,212
+447 - Khamgaon Maval,"Zilha Parishad School Khamgaon Maval, New Building West Facing Room No. 1 from North",212
+448 - Avsarenagar,Zilha Parishad School Avsarenagar South facing bulding Room No.2,212
+449 - Arvi,"Zilha Parishad School Arvi, East facing Side South Side Room No. 3",212
+450 - Gauddara,"Zilha Parishad School Gauddara, East facing Side South Side Room No. 3",212
+451 - Gogalwadi,"Zilha Parishad School Gogalwadi, North Facing Building East Side Room No. 1",212
+452 - Shivapur,"Zilla Parishad Primary School,Shivapur East Facing North side Room No.2",212
+453 - Shivapur,"Zilla Parishad Primary School,Shivapur East Facing North side Room No.1",212
+454 - Tanajinagar,"Zilha Parishad School Tanjinagar, South facing Room No. 2 from East",212
+455 - Kondhanpur,"Zilha Parishad School Kondhanpur, North facing Room No. 2 From East",212
+456 - Kalyan,Zilha Parishad School Kalyan South facing Side West Side Room.No.2,212
+457 - Mogarwadi,"Zilha Parishad School Mogarwadi, North Facing Room No. 1 from East",212
+458 - Mordarwadi,"Zilha Parishad School Mordarwadi, East facing Side North Side Room. No.1",212
+459 - Rahatwade,Zilha Parishad School Rahatwade East facing Side North Side Room. No.2,212
+460 - Rahatwade,Zilha Parishad School Rahatwade East facing Side North Side Room. No.3,212
+461 - Shriramnagar,"Zilha Parishad School Shriramnagar, North Facing Building West Side Room No. 1",212
+462 - Shriramnagar,"Zilha Parishad School Shriramnagar, North Facing Building West Side Room No. 3",212
+463 - Khedshivapur,"Zilha Parishad School Khedshivapur, East Facing Building South Side Room No. 2",212
+464 - Khedshivapur,"Zilha Parishad School Khedshivapur, East Facing Building South Side Room No. 3",212
+465 - Khedshivapur,"Zilha Parishad School Khedshivapur, East Facing Building South Side Room No. 4",212
