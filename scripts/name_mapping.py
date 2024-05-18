@@ -5,34 +5,26 @@ import re
 
 # Function to extract mapping entries from a JSON file
 def extract_mapping_entries(filename):
-    pattern = r"JSON_([A-Z]+)_(\d{4})_([A-Z]+)_AC(\d{2})Form(\d{2}).json"
+    pattern = r"JSON_([A-Z]+)_(\d{4})_([A-Z]+)_(\d{3}).json"
     match = re.search(pattern, filename)
     if match:
         state = match.group(1)
         year = int(match.group(2))
-        AC = int(match.group(3))
+        AC = int(match.group(4))
     else:
         print("Filename donot match the given pattern.")
         return None
-
     with open(filename) as f:
         data = json.load(f)
 
-    table = data["tables"][0]
+    table = data['tables'][0]
     col_headers = []
-    cells = table.get("cells")
+    cells = table.get('cells')
 
-    for i in range(1, table.get("column_count")):
-        col_cells = [
-            cell
-            for cell in cells
-            if cell.get("column_index") == i
-            and cell.get("kind") == "columnHeader"
-            and cell.get("column_span") == 1
-        ]
-
-        contents = [cell.get('content') for cell in col_cells]
-        
+    for i in range(1,table.get('column_count')):
+        col_cells = [cell for cell in cells if cell.get('column_index') == i and cell.get('kind') == 'columnHeader' and cell.get('column_span') == 1]
+                
+        # contents = [cell.get('content') for cell in col_cells]
         if state == "CH":
             unwanted_terms = [
                 "मतदान",
@@ -89,44 +81,31 @@ def extract_mapping_entries(filename):
         ]
 
         # Filtering out the cells whose content contains any of the unwanted terms
-        contents = [
-            cell.get("content")
-            for cell in col_cells
-            if not any(
-                term.lower()
-                in (cell.get("content") or "")
-                .replace(" ", "")
-                .replace("\n", "")
-                .lower()
-                for term in unwanted_terms
-            )
-        ]
-
-        contents = [
-            content
-            for content in contents
-            if re.search(r"[a-zA-Z0-9]", content) and len(content) > 4
-        ]
+        contents = [cell.get('content') for cell in col_cells if not any(term.lower() in (cell.get('content') or "").replace(" ", "").replace("\n","").lower() for term in unwanted_terms)]
+  
+        contents = [content for content in contents if re.search(r'[a-zA-Z0-9]', content) and len(content) > 4]
         content = contents[0] if len(contents) else None
-        if content:
-            col_headers.append(
-                {"name": content.replace("\n", " ").strip(), "index": i + 1}
-            )
+        if content: 
+            col_headers.append({
+                "name": content.replace('\n', ' ').strip(),
+                "index" : i + 1 
+            })
 
     mapping_entries = []
     for column in col_headers:
-        name = column.get("name")
-        name = re.sub(r"[^\x00-\x7F]+", "", name)
+        name = column.get('name')
+        # name = re.sub(r'[^\x00-\x7F]+', '', name)
         mapping_entry = {
             "state": state,
             "year": year,
             "AC": AC,
             "name": name,
-            "column": column.get("index"),
+            "column": column.get('index'),
         }
         mapping_entries.append(mapping_entry)
 
     return mapping_entries
+
 
 
 def main(state_name, election_year, constituency_type):

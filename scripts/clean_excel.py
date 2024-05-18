@@ -20,11 +20,40 @@ def append_text_to_file(filename, text):
         with open(filename, "a") as file:
             file.write(text + "\n")
             
-def get_columns_details(year, type, AC):
-    if type == "AE":
-        election_df = pd.read_csv("data/Chhattisgarh_AE_with_hindinames.csv")
-    # if type == 'GA':
-    #     election_df = pd.read_csv('data/Maharashtra_GA.csv')
+            
+def get_election_df(constituency_type, state_name):
+
+    if constituency_type == "GA" and state_name == "MH":
+        election_df = pd.read_csv("data/Maharashtra_GA.csv")
+
+    if constituency_type == "AE" and state_name == "MH":
+        election_df = pd.read_csv("data/Maharashtra_AE.csv",low_memory=False)
+    
+    if constituency_type == "AE" and state_name == "KA":
+        election_df = pd.read_csv("data/Karnataka_AE.csv")
+
+    if constituency_type == "AE" and state_name == "CH":
+        election_df = pd.read_csv("data/Chhattisgarh_AE.csv")
+    
+    if constituency_type == "AE" and state_name == "RJ":
+        election_df = pd.read_csv("data/AE_RAJASTHAN.csv")
+
+    return election_df
+
+def get_name_mappings(year, type, state):
+
+    # Construct the file path based on the inputs
+  
+    file_path = f"data/name_mappings/{state}_{year}_{type}.json"
+    if file_path:
+        return file_path
+    else:
+        print("No name mapping file found.")
+
+            
+def get_columns_details(year,state, type, AC):
+   
+    election_df = get_election_df(type,state)
     filtered_election_df = election_df[
         (election_df["Year"] == year)
         & (election_df["Constituency_No"] == AC)
@@ -33,19 +62,17 @@ def get_columns_details(year, type, AC):
     return filtered_election_df.shape[0]
 
 
-def get_form_20_details(year, type):
-    if year == 2018 and type == "AE":
-        file_path = "data/name_mappings/chhattisgarh_2018_AE.json"
-    elif year == 2019 and type == 'GA':
-        file_path = 'data/name_mappings/maharastra_2019_GA.json'
+def get_form_20_details(year, type,state):
+    names_mapping_path = get_name_mappings(year, type, state)
 
-    with open(file_path, "r") as file:
+    with open(names_mapping_path, "r") as file:
         names_mapping = json.load(file)
 
-    if type == "AE":
-        election_df = pd.read_csv("data/Chhattisgarh_AE.csv")
-    if type == 'GA':
-        election_df = pd.read_csv('data/Maharashtra_GA.csv')
+    election_df = get_election_df(type,state)
+    # if type == "AE":
+    #     election_df = pd.read_csv("data/Chhattisgarh_AE.csv")
+    # if type == 'GA':
+    #     election_df = pd.read_csv('data/Maharashtra_GA.csv')
 
     return names_mapping, election_df
 
@@ -161,10 +188,8 @@ def get_party(election_df, name, year, AC):
 
 
 
-
-
-def get_party_mappings(year, AC):
-    name_mapping, election_df = get_form_20_details(year, AC)
+def get_party_mappings(year, AC,state):
+    name_mapping, election_df = get_form_20_details(year, AC,state)
     results = []
     candidates_list, form_20_names = get_candidate_and_form_20_names(
         name_mapping, election_df, AC, year, top_3=True
@@ -179,9 +204,9 @@ def get_party_mappings(year, AC):
     return results
 
 
-def clean_excel_file(df, year, AC, type):
-    num_of_candidates = get_columns_details(year, type, AC)
-    party_mappings = get_party_mappings(year, AC)
+def clean_excel_file(df, year, AC, type,state):
+    num_of_candidates = get_columns_details(year,state, type, AC)
+    party_mappings = get_party_mappings(year, AC,state)
 
     # Step 1: Rename Columns based on their expected order and content
     num_cols = df.shape[1]
@@ -284,13 +309,13 @@ def clean_and_dump_excel_files(state_name, election_year, constituency_type):
                 # match = re.search(r'combined_JSON_([a-zA-Z]+)_(\d{4})_AC_(\d{3}).json.xlsx', filename)
                 # match = re.search(r'combined_JSON_([a-zA-Z]+)_LokSabha_Election_(\d{4})_AC_(\d{3}).json.xlsx', filename)
                 match = re.search(
-                    r"combined_JSON_([a-zA-Z]+)_(\d{4})_AC_(\d{2}).json.xlsx", filename
+                    r"combined_JSON_([a-zA-Z]+)_(\d{4})_AC_(\d{3}).json.xlsx", filename
                 )
 
                 AC = None
                 if match:
                     AC = int(match.group(3))
-                cleaned_df = clean_excel_file(df, election_year, AC, type)
+                cleaned_df = clean_excel_file(df, election_year, AC, constituency_type,state_name)
                 cleaned_df["State"] = state_name
                 cleaned_df["Year"] = election_year
                 cleaned_df["Constituency"] = AC
@@ -298,13 +323,14 @@ def clean_and_dump_excel_files(state_name, election_year, constituency_type):
                 cleaned_df.to_excel(output_file_path, index=False)
 
             except Exception as exc:
-                append_text_to_file(f"Error processing file: {log_file_name} - {exc}\n")
+                append_text_to_file(log_file_name,f"Error processing file: {log_file_name} - {exc}\n")
                 continue
 
 if __name__ == "__main__":
     # Example usage
-    state_name = "CH"
-    election_year = "2023"  # Replace with desired election year
+    state_name = "MH"
+    election_year = "2019"
+    # Replace with desired election year
     constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
 
     clean_and_dump_excel_files(state_name, election_year, constituency_type)

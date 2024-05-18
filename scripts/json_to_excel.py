@@ -170,8 +170,8 @@ def process_json_files(state_name, election_year, constituency_type):
 
 if __name__ == "__main__":
     # Example usage
-    state_name = "CH"
-    election_year = "2023"  # Replace with desired election year
+    state_name = "MH"
+    election_year = "2019"  # Replace with desired election year
     constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
 
     process_json_files(state_name, election_year, constituency_type)
