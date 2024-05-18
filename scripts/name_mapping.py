@@ -5,22 +5,15 @@ import re
 
 # Function to extract mapping entries from a JSON file
 def extract_mapping_entries(filename):
-    match = re.search(r"JSON_([a-zA-Z]+)_(\d{4})_AC_(\d{2}).json", filename)
-    # match = re.search(r'JSON_([a-zA-Z]+)_(\d{4})_AC_(AC\d{2})Form\d{2}\.json',filename)
-    # match = re.search(r'JSON_([a-zA-Z]+)_LokSabha_Election_(\d{4})_AC_(\d{3}).json', filename)
-
-    # match = re.search(r"Form20-(\d+)", filename)
-    # match = re.search(r'JSON_([a-zA-Z]+)_(\d{4})_AC_(AC\d{2})Form\d{2}\.json',filename)
-
+    pattern = r"JSON_([A-Z]+)_(\d{4})_([A-Z]+)_AC(\d{2})Form(\d{2}).json"
+    match = re.search(pattern, filename)
     if match:
-        # state = match.group(1).lower()  # Convert state name to lowercase
-        # state = match.group(1).lower()
-        state = "CH"
+        state = match.group(1)
         year = int(match.group(2))
         AC = int(match.group(3))
     else:
-        print(f"Filename {filename} does not match expected format.")
-        return []
+        print("Filename donot match the given pattern.")
+        return None
 
     with open(filename) as f:
         data = json.load(f)
@@ -38,7 +31,7 @@ def extract_mapping_entries(filename):
             and cell.get("column_span") == 1
         ]
 
-        # contents = [cell.get('content') for cell in col_cells]
+        contents = [cell.get('content') for cell in col_cells]
         
         if state == "CH":
             unwanted_terms = [
@@ -164,8 +157,8 @@ def main(state_name, election_year, constituency_type):
 
 if __name__ == "__main__":
     # Example usage
-    state_name = "CH"
-    election_year = "2023"  # Replace with desired election year
+    state_name = "MH"
+    election_year = "2019"  # Replace with desired election year
     constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
 
     main(state_name, election_year, constituency_type)

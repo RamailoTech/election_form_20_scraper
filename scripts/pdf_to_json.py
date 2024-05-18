@@ -60,7 +60,7 @@ def process_pdfs(state_name, election_year, constituency_type):
                     result_dict = result.to_dict()
 
                 # Construct the output file path
-                output_filename = f"JSON_{state_name}_{election_year}_{os.path.splitext(filename)[0]}.json"
+                output_filename = f"JSON_{state_name}_{election_year}_{constituency_type}_{os.path.splitext(filename)[0]}.json"
                 output_file_path = os.path.join(output_folder, output_filename)
 
                 # Save the results to a JSON file in the output folder
