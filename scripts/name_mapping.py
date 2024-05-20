@@ -1,7 +1,7 @@
 import json
 import os
 import re
-
+import sys
 
 # Function to extract mapping entries from a JSON file
 def extract_mapping_entries(filename):
@@ -108,7 +108,7 @@ def extract_mapping_entries(filename):
 
 
 
-def main(state_name, election_year, constituency_type):
+def final_map(state_name, election_year, constituency_type):
     # folder_path = 'results/Parsed_Pdfs/RA_filtered/2023'
 
     folder_path = f"data/Parsed_Pdfs/{state_name}/{constituency_type}_{election_year}"
@@ -134,10 +134,19 @@ def main(state_name, election_year, constituency_type):
     print(f"Final mapping file created: {final_mapping_filename}")
 
 
-if __name__ == "__main__":
-    # Example usage
-    state_name = "MH"
-    election_year = "2019"  # Replace with desired election year
-    constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
+def main():
+    # Check if the required arguments are provided
+    if len(sys.argv) < 4:
+        print("Usage: python json_to_excel.py <state_name> <election_year> <constituency_type>")
+        sys.exit(1)
 
-    main(state_name, election_year, constituency_type)
+    # Get the arguments from the command line
+    state_name = sys.argv[1]
+    election_year = sys.argv[2]
+    constituency_type = sys.argv[3]
+
+    # Call the function to process the JSON files
+    final_map(state_name, election_year, constituency_type)
+
+if __name__ == "__main__":
+    main()

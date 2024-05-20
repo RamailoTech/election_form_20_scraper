@@ -1,6 +1,7 @@
 import os
 import pandas as pd
 from functools import reduce
+import sys
 
 # Function to append text to a file
 def append_text_to_file(filename, text):
@@ -78,11 +79,13 @@ def generate_swing_and_strong_booths_df(AC, years, excel_dir):
 
 
 def create_strong_and_swing_and_dump_excel_files(state_name, election_year, constituency_type):
-    excel_dir = f'data/intermediate_tables/{state_name}'
+    # excel_dir = f'data/intermediate_tables/{state_name}'
+    excel_dir = f'results/intermediate_tables/{state_name}'
+    #mention all the intermediate tables for the particular state
     years = ['AE_2014', 'GE_2014', '2019'] 
     ACS = 288
     output_dir = f'output/strong_and_swing_booths/{state_name}' 
-    log_file_name = f'logs/{state_name}_strong_swing_booths.txt'
+    log_file_name = f'logs/{state_name}_{election_year}_{constituency_type}_strong_swing_booths.txt'
     for i in range(1, ACS+1):
         try: 
             swing_df, strong_df = generate_swing_and_strong_booths_df(i, years, excel_dir)
@@ -102,13 +105,19 @@ def create_strong_and_swing_and_dump_excel_files(state_name, election_year, cons
 
 
 
+def main():
+    # Check if the required arguments are provided
+    if len(sys.argv) < 4:
+        print("Usage: python json_to_excel.py <state_name> <election_year> <constituency_type>")
+        sys.exit(1)
+
+    # Get the arguments from the command line
+    state_name = sys.argv[1]
+    election_year = sys.argv[2]
+    constituency_type = sys.argv[3]
+
+    # Call the function to process the JSON files
+    create_strong_and_swing_and_dump_excel_files(state_name, election_year, constituency_type)
+
 if __name__ == "__main__":
-    # Example usage
-    state_name = "CH"
-    election_year = "2023"  # Replace with desired election year
-    constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
-
-    create_strong_and_swing_and_dump_excel_files(
-        state_name, election_year, constituency_type
-    )
-
+    main()

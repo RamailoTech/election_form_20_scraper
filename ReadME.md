@@ -1,33 +1,38 @@
-1. Get the pdfs
+## Election Data Processing
 
-2. Parse the pdfs to json
+Welcome to the Election Data Processing repository! This project is designed to efficiently process, analyze, and visualize election data. Whether you are working with local, state, or national election results, this toolkit provides the necessary tools to handle the data with ease.
 
-3. Convert the json to excel
-   TODO:Parameterize file name input
+### Features
 
-4. Clean the excel files.
+- Data Ingestion: Load election data from PDF. Manually rotate if the orentation of pdfs are not in proper order.
 
-   - Validate missing data
-   - Remove string values
+* Data Parsing: Parse the data using Azure service.
 
-   * Remove a row if the sum of vote counts doesnot matches the total number of vote counts.
-     TODO:
-     - Need to count numbr of such rows.
-     - To accept state as a parameter in the function mapping.
+* Data Cleaning: Handle missing values, correct errors, and standardize formats.
 
-5. Create name mapping for a state.
+* Data Analysis: Calculate key statistics, such as voter turnout and candidate performance.
 
-6. Create Intermediate files.
-   TODO: Validations missing
+### Installation
 
-7. Create string and swing booths.
+1. Clone the repository:
+   `repo`
 
-8. Validate excel.
-   TODO: Review validations.
+2. Navigate to the project directory:
+   `cd foldername`
 
-TODO:
+3. Create a virtual environment:
+   `python3 -m venv venv`
 
-- One shell script for each state.
-- State information is passed as parameter.
+4. Activate the virtual environment:
+   `source venv/bin/activate`
 
-Create a github repo.
+5. Install dependencies:
+   `pip install -r requirements.txt`
+
+6. Create .env file and add azure credentials.
+
+7. Run the bash script:
+
+`./run_scripts.sh state_name election_year constituency_type`
+
+Note: Replace state_name, election_year, constituency_type with the specific state/year you want to work for. (Eg: ./run_scripts.sh MH 2019 AE)

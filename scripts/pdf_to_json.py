@@ -3,6 +3,7 @@ import json
 from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 from dotenv import load_dotenv
+import sys
 
 # Load environment variables from .env file
 load_dotenv()
@@ -79,10 +80,19 @@ def process_pdfs(state_name, election_year, constituency_type):
             append_text_to_file(log_file_name, f"Skipping {filename}, not a PDF.\n")
 
 
-if __name__ == "__main__":
-    # Example usage
-    state_name = "CH"
-    election_year = "2023"
-    constituency_type = "AE"
+def main():
+    # Check if the required arguments are provided
+    if len(sys.argv) < 4:
+        print("Usage: python json_to_excel.py <state_name> <election_year> <constituency_type>")
+        sys.exit(1)
 
+    # Get the arguments from the command line
+    state_name = sys.argv[1]
+    election_year = sys.argv[2]
+    constituency_type = sys.argv[3]
+
+    # Call the function to process the JSON files
     process_pdfs(state_name, election_year, constituency_type)
+
+if __name__ == "__main__":
+    main()

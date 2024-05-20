@@ -1,6 +1,7 @@
 import os
 import pandas as pd
-import numpy as np
+import sys
+
 
 
 # Function to append text to a file
@@ -18,47 +19,45 @@ def append_text_to_file(filename, text):
             file.write(text + "\n")
 
 
-def get_election_df(constituency_type, state_name):
-    if state_name == "CH":
-        election_df = pd.read_csv("data/CH_2023_namemapping.csv")
-
-    if constituency_type == "GA" and state_name == "MH":
-        election_df = pd.read_csv("data/Maharashtra_GA.csv")
-
-    if constituency_type == "AE" and state_name == "MH":
-        election_df = pd.read_csv("data/Maharashtra_AE.csv")
-
+def get_election_df(type):
+    if type == 'AE':
+        election_df = pd.read_csv('data/Maharashtra_AE.csv')
+    if type == 'GA':
+        election_df = pd.read_csv('data/Maharashtra_GA.csv')
+        
     return election_df
 
 
-def get_parties(year, constituency_type):
+
+def get_parties(year,AC,constituency_type):
     election_df = get_election_df(constituency_type)
-    top_3 = [1, 2, 3]
+    top_3 = [1,2,3]
     # Define conditions
     condition_general = (
-        (election_df["Year"] == year)
-        & (election_df["Constituency_No"] == constituency_type)
-        & (~election_df["Candidate"].isin(["None of the Above", "NOTA"]))
+        (election_df['Year'] == year) &
+        (election_df['Constituency_No'] == AC) &
+        (~election_df['Candidate'].isin(['None of the Above', 'NOTA']))
     )
 
-    condition_inc = election_df["Party"] == "INC"
+    condition_inc = (
+        (election_df['Party'] == 'INC')
+    )
 
     # Use bitwise OR to combine conditions
     filtered_election_df = election_df[
-        (condition_general & election_df["Position"].isin(top_3))
-        | (condition_inc & condition_general)
+        (condition_general & election_df['Position'].isin(top_3)) |
+        (condition_inc & condition_general)
     ]
-
-    return filtered_election_df.sort_values(by="Position", ascending=True)[
-        "Party"
-    ].tolist()
+    
+    return filtered_election_df.sort_values(by='Position', ascending=True)['Party'].tolist()
 
 
-def intermediate_table(df, year):
+
+def intermediate_table(df, year,constituency_type):
     constituency = df.iloc[0]["Constituency"]
     year = df.iloc[0]["Year"]
 
-    parties_ordered = get_parties(year, constituency)
+    parties_ordered = get_parties(year, constituency,constituency_type)
 
     # Filter the columns that contains parties_ordered and col_ and 'NOTA'
     col_columns = [
@@ -100,7 +99,9 @@ def intermediate_table(df, year):
 def create_intermediate_tables_and_dump_excel_files(
     state_name, election_year, constituency_type
 ):
-    excel_dir = f"data/cleaned_excel/{state_name}/{constituency_type}_{election_year}"
+    # excel_dir = f"data/cleaned_excel/{state_name}/{constituency_type}_{election_year}"
+    excel_dir = f"output/cleaned_election_data/MH/2019_AE_valid"
+    
     output_dir = (
         f"data/intermediate_tables/{state_name}/{constituency_type}_{election_year}"
     )
@@ -110,7 +111,7 @@ def create_intermediate_tables_and_dump_excel_files(
         if filename.endswith(".xlsx"):
             try:
                 df = pd.read_excel(os.path.join(excel_dir, filename))
-                intermediate_df, constituency = intermediate_table(df, election_year)
+                intermediate_df, constituency = intermediate_table(df, election_year,constituency_type)
                 output_file_path = os.path.join(output_dir, f"{constituency}.xlsx")
                 intermediate_df.to_excel(output_file_path, index=False)
             except Exception as exc:
@@ -120,12 +121,19 @@ def create_intermediate_tables_and_dump_excel_files(
                 continue
 
 
-if __name__ == "__main__":
-    # Example usage
-    state_name = "CH"
-    election_year = "2023"  # Replace with desired election year
-    constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
+def main():
+    # Check if the required arguments are provided
+    if len(sys.argv) < 4:
+        print("Usage: python json_to_excel.py <state_name> <election_year> <constituency_type>")
+        sys.exit(1)
 
-    create_intermediate_tables_and_dump_excel_files(
-        state_name, election_year, constituency_type
-    )
+    # Get the arguments from the command line
+    state_name = sys.argv[1]
+    election_year = sys.argv[2]
+    constituency_type = sys.argv[3]
+
+    # Call the function to process the JSON files
+    create_intermediate_tables_and_dump_excel_files(state_name, election_year, constituency_type)
+
+if __name__ == "__main__":
+    main()

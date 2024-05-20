@@ -4,6 +4,7 @@ import os
 from collections import defaultdict
 import re
 from dotenv import load_dotenv
+import sys
 
 # Load environment variables from .env file
 load_dotenv()
@@ -167,11 +168,19 @@ def process_json_files(state_name, election_year, constituency_type):
                     log_file_name, f"Error processing {filename}: {str(exc)}\n"
                 )
 
+def main():
+    # Check if the required arguments are provided
+    if len(sys.argv) < 4:
+        print("Usage: python json_to_excel.py <state_name> <election_year> <constituency_type>")
+        sys.exit(1)
+
+    # Get the arguments from the command line
+    state_name = sys.argv[1]
+    election_year = sys.argv[2]
+    constituency_type = sys.argv[3]
+
+    # Call the function to process the JSON files
+    process_json_files(state_name, election_year, constituency_type)
 
 if __name__ == "__main__":
-    # Example usage
-    state_name = "MH"
-    election_year = "2019"  # Replace with desired election year
-    constituency_type = "AE"  # Replace with desired constituency type (e.g., AE, GE)
-
-    process_json_files(state_name, election_year, constituency_type)
+    main()

@@ -2,6 +2,7 @@ import os
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import sys
 
 def append_text_to_file(filename, text):
     """
@@ -134,10 +135,20 @@ def main(state_name, election_year, constituency_type):
 
     print(f"PDFs have been saved to '{state_folder}'.")
 
-if __name__ == '__main__':
-    # Example usage
-    state_name = 'CH'
-    election_year = '2023'
-    constituency_type = 'AE'
-    
+def final_main():
+    # Check if the required arguments are provided
+    if len(sys.argv) < 4:
+        print("Usage: python json_to_excel.py <state_name> <election_year> <constituency_type>")
+        sys.exit(1)
+
+    # Get the arguments from the command line
+    state_name = sys.argv[1]
+    election_year = sys.argv[2]
+    constituency_type = sys.argv[3]
+
+    # Call the function to process the JSON files
     main(state_name, election_year, constituency_type)
+
+if __name__ == "__main__":
+    final_main()
+
