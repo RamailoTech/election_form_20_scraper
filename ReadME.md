@@ -12,6 +12,13 @@ Welcome to the Election Data Processing repository! This project is designed to 
 
 * Data Analysis: Calculate key statistics, such as voter turnout and candidate performance.
 
+### States we have analyzed:
+
+1. Chhattisgarh (CH)
+2. Maharashtra (MH)
+3. Karnataka (KA)
+4. Rajasthan (RJ)
+
 ### Installation
 
 1. Clone the repository:
@@ -36,3 +43,8 @@ Welcome to the Election Data Processing repository! This project is designed to 
 `./run_scripts.sh state_name election_year constituency_type`
 
 Note: Replace state_name, election_year, constituency_type with the specific state/year you want to work for. (Eg: ./run_scripts.sh MH 2019 AE)
+
+
+##### Note: Processed Outputs for each state can be accessed inside processed folder in the link given below:
+
+https://drive.google.com/drive/folders/1KWBlOu0fhZMdNnFIEfFsPm5ctDm6cgIM?usp=drive_link
