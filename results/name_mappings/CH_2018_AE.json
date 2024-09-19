@@ -1,0 +1,548 @@
+[
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 61,
+        "name": "\u092e\u093f\u0925\u093f\u0932\u0947\u0936 T \u092a\u093f\u0938\u094d\u0926\u093e",
+        "column": 9
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 26,
+        "name": "713567 (\u0938\u094b\u0928\u0942) \u091a\u0928\u094d\u0926\u094d\u0930\u093e\u0915\u0930",
+        "column": 4
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 17,
+        "name": "31.311.41.",
+        "column": 10
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 18,
+        "name": "3T-30 11",
+        "column": 6
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 50,
+        "name": "S\u0130 \u0915\u0948\u0932\u093e\u0936 \u0906\u0926\u093f\u0932",
+        "column": 11
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 50,
+        "name": "\u092a\u094d\u0930\u0924\u093f\u0915\u094d\u0937\u0947\u092a\u093f\u0924 4 \u092e\u0924\u094b\u0902 \u0915\u0940 \u092f\u094b\u0917 \u0938\u0902\u0916\u094d\u092f\u093e",
+        "column": 22
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 34,
+        "name": "\u0915\u0941\u0932 2 \u0935\u093f\u0927\u093f\u092e\u093e\u0928\u094d\u092f \u092e\u0924",
+        "column": 18
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 48,
+        "name": "\u0938\u0924\u094d\u092f\u0928\u093e\u0930\u093e\u092f 5 \u0938\u094b\u0928\u0935\u093e\u0928\u0940",
+        "column": 22
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 28,
+        "name": "-- (gwad)",
+        "column": 10
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 39,
+        "name": "\u091b\u092c\u093f\u0932\u093e\u0932 \u0930\u093e\u0924\u094d\u0930\u0947 :selected:",
+        "column": 3
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 82,
+        "name": "\u0915\u0941\u0932 \u092e\u0924\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e (11+12+13)",
+        "column": 14
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 29,
+        "name": "7 \u0916\u093e\u0928",
+        "column": 17
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 29,
+        "name": "\u0923 \u0926\u093e\u0938 Hiset",
+        "column": 29
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 38,
+        "name": "\u0928\u0940\u0924\u093e \u0938\u093e\u092f\u091f\u094b\u0923\u094d\u0921\u0947 :unselected:",
+        "column": 9
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 12,
+        "name": "\u0935\u093f\u0927\u093f\u092e\u093e\u0928\u094d\u092f \u092e\u0924\u094b\u0902 \u0915\u0940 6 9 \u0938\u0902\u0916\u094d\u092f\u093e 1",
+        "column": 14
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 35,
+        "name": "\u0938\u0942\u0930\u091c \u0915\u0941\u092e\u093e\u0930 3 \u092f\u093e\u0926\u0935",
+        "column": 15
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 36,
+        "name": "22 \u092a\u094d\u0930\u0915\u093e\u0936 \u091a\u0926\u094d\u0930\u093e",
+        "column": 9
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 36,
+        "name": "\u0930\u093e\u091c\u0915\u0941\u092e\u093e\u0930 3 \u092f\u093e\u0926\u0935",
+        "column": 17
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "PS No.",
+        "column": 2
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Akbar Bhai",
+        "column": 3
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Ashok Sahu",
+        "column": 4
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Agam Das Anant",
+        "column": 5
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Aghan Singh Yadav",
+        "column": 6
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Ajay Pali (BABA",
+        "column": 7
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Ashok Sahu",
+        "column": 8
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Malesh Kumar Markam",
+        "column": 9
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Akbar Ajmer",
+        "column": 10
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Kamlesh Tiwari Damruw ale",
+        "column": 11
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Kaushal Kumar Mohle",
+        "column": 12
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Kriti Devi Singh (Yogesh awar Raj Singh)",
+        "column": 13
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Gopal Singh Khusaro",
+        "column": 14
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Bhoj Kumar Banjara",
+        "column": 15
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Mohit Sahoo",
+        "column": 16
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Ramkum ar Sahu",
+        "column": 17
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Ramkhila wan Dahariya",
+        "column": 18
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Rekhcha nd Baghel",
+        "column": 19
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Siyadevi Pendro",
+        "column": 20
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Sushil Kumar Satyavan shi",
+        "column": 21
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Seva Ram Patre",
+        "column": 22
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 72,
+        "name": "Santial Dhurwey",
+        "column": 23
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 3,
+        "name": "\u091c\u0928\u0924\u093e \u0915\u093e\u0902\u0917\u094d\u0930\u0947\u0938 \u091b\u0924\u094d\u0924\u0940\u0938\u0917\u0922\u093c (at)",
+        "column": 4
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 7,
+        "name": "SETT RiE. \u0928\u093f\u0930\u094d\u0926\u0932\u0940\u092f",
+        "column": 15
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 83,
+        "name": "\u0915\u0941\u0932 \u0917\u0924\u094b\u0902 \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e (8+9+10)",
+        "column": 11
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 10,
+        "name": "JaTE a \u092e\u0924\u094b \u0915\u0940 \u0938\u0902\u0916\u094d\u092f\u093e",
+        "column": 25
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 43,
+        "name": "\u0928\u093f\u0935\u093f\u0926\u0924\u094d\u0924 1.2.7 \u092e\u0924\u094b\u0902 \u0915\u0940",
+        "column": 22
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 41,
+        "name": "\u0917\u094b\u0935\u0930\u094d\u0927\u0928 3",
+        "column": 6
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 41,
+        "name": "-w 11",
+        "column": 12
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 47,
+        "name": "\u0905\u092e\u094d\u092c\u0947\u0921\u093c\u0915 \u0930\u093e\u0908\u091f \u092a\u093e\u0930\u094d\u091f\u0940 \u0906\u092b \u0907\u0902\u0921\u093f\u092f\u093e (A.P.I.)",
+        "column": 5
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "PS No.",
+        "column": 2
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Chaitra m Raj",
+        "column": 3
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Mamta Chandra kar",
+        "column": 4
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Motiram Chandra vanshi",
+        "column": 5
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Narendr a Tiwari",
+        "column": 6
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Sandi p Tiwari \"Raj\"",
+        "column": 7
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Ghansh yam Yadav",
+        "column": 8
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Chan drapr atap Sahu",
+        "column": 9
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Dharm endra Kumar",
+        "column": 10
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Narayan Singh Bouddh",
+        "column": 11
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Ramku mar Sinha",
+        "column": 12
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Reshaml al patre",
+        "column": 13
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 71,
+        "name": "Harendr a Kumar Dahire",
+        "column": 14
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 58,
+        "name": "(\u091c.\u0915\u0949. B'T)(1)",
+        "column": 7
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 58,
+        "name": "31. \u0917\u0948\u0902\u0926\u0932\u093e\u0932 \u0938\u0924\u0928\u093e\u092e\u0940",
+        "column": 12
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Chintamani Mal\u0131raj Indian National Congress",
+        "column": 2
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Mitkoo Bhagat Bahujan Samaj Party",
+        "column": 3
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Sidhnath Paikra Bhartiya Janta Party",
+        "column": 4
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Arjun Sandily Samajwadi Party",
+        "column": 5
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Pawan Kumar Nag Bahujan Mukti Party",
+        "column": 6
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Dr. Sohan Lal Kanwar Aam Andmi Party",
+        "column": 7
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Ajeet Kumar Singl Independ ent",
+        "column": 8
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Anand Tigga Indepen dent",
+        "column": 9
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Mukesh Prasad Sandilya Indepen dent",
+        "column": 10
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Radhesh yam\u0131 Nagesiya Indepen dent :selected:",
+        "column": 11
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 8,
+        "name": "Tendered Note",
+        "column": 16
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 37,
+        "name": "\u092a\u0940\u0924\u093e\u092e\u094d\u092c\u0930 10 \u0927\u0940\u0935\u0930",
+        "column": 5
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 49,
+        "name": "farsenar",
+        "column": 5
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 49,
+        "name": ".4 3$)",
+        "column": 10
+    },
+    {
+        "state": "chhattisgarh",
+        "year": 2018,
+        "AC": 68,
+        "name": "\u091a\u093f\u0924\u0930\u0947\u0928 \u0932\u094b\u0927\u0940 - \u0936\u093f\u0935 \u0938\u0947\u0928\u093e :unselected:",
+        "column": 7
+    }
+]
