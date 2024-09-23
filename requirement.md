@@ -185,19 +185,3 @@ This document outlines the workflow for downloading PDFs, parsing them into JSON
 - **Data Processing**:
   - The merging of DataFrames is based on the 'SN' column, and the conditions for determining strong and swing booths are applied correctly.
 
-
-
-## Issues Identified
-
-### Filename Pattern Mismatch
-- **Issue:** The pattern used to match names does not always match the names of the files created.
-- **Impact:** This can cause problems in finding or processing the files correctly.
-
-### Nested JSON Key Retrieval
-- **Issue:** Sometimes, the `tables` key is nested within other keys in the JSON data, making it hard to find.
-- **Proposed Solution:** Create a function to search through all levels of the JSON data to find the `tables` key no matter where it is located.
-
-### Filename Pattern Conversion Error
-- **Issue:** The system tries to convert filename patterns into numbers, but filenames can have letters as well, which causes errors.
-- **Impact:** This prevents correct comparison and processing of filenames that include letters.
-- **Proposed Solution:** Change the logic to handle filenames with letters without trying to convert them to numbers.
