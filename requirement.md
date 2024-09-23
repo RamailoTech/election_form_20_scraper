@@ -119,6 +119,74 @@ This document outlines the workflow for downloading PDFs, parsing them into JSON
 - **Data Format:** The input data in the Excel and CSV files is expected to be correctly formatted and clean.
 - **File Naming Conventions:** The file names follow specific patterns for proper identification and processing.
 
+
+## Intermediate Table Creation
+
+### Requirements:
+- **Input Files**: 
+  - Excel files located in `data/cleaned_excel/{state_name}/{constituency_type}_{election_year}` should be processed.
+  - CSV files like `Chhattisgarh_AE.csv` and `Maharashtra_GA.csv` should be present in the `data` directory for retrieving election data.
+- **Command-Line Arguments**: 
+  - The script requires three command-line arguments: `state_name`, `election_year`, and `constituency_type` (e.g., AE or GA).
+  - If any argument is missing or incorrect, the script will not execute.
+- **Output Files**: 
+  - Intermediate tables are generated and saved as Excel files in `data/intermediate_tables/{state_name}/{constituency_type}_{election_year}`.
+- **Logging**: 
+  - Errors and processing information are logged in `logs/{state_name}_{election_year}_intermediate_tables_logs.txt`.
+- **Directory Management**: 
+  - Ensure the existence of `data`, `logs`, and `output` directories.
+  - Create the `logs` and `output` directories if they do not exist.
+- **File Formatting**: 
+  - Ensure that the party names such as INC are present in the dataset to calculate their status (WON/LOSS).
+- **Data Handling**:
+  - Filter data for the top 3 political parties and ensure the calculation of their vote share in percentages.
+  - Add an `INC_Status` column to indicate whether INC has WON or LOST based on vote counts.
+
+### Assumptions:
+- **Presence of Input Files**:
+  - The CSV files (`Chhattisgarh_AE.csv`, `Maharashtra_GA.csv`) and Excel files are available in the specified directories.
+- **Command-Line Argument Validity**:
+  - The provided command-line arguments (`state_name`, `election_year`, and `constituency_type`) are valid and correct.
+- **Directory Structure**:
+  - Input Excel files follow the directory structure `data/cleaned_excel/{state_name}/{constituency_type}_{election_year}`, and intermediate tables will be saved to `data/intermediate_tables/{state_name}/{constituency_type}_{election_year}`.
+- **Excel File Format**:
+  - The Excel files should be correctly formatted and contain the necessary data for processing.
+
+
+  ## Strong and Swing Booths Analysis
+
+### Requirements:
+- **Input Files**: 
+  - Excel files located in `results/intermediate_tables/{state_name}` should be processed.
+  - CSV files such as `CH_2023_namemapping.csv`, `Maharashtra_GA.csv`, and `Maharashtra_AE.csv` must be present in the `data` directory for retrieving election data.
+- **Command-Line Arguments**: 
+  - The script requires three command-line arguments: `state_name`, `election_year`, and `constituency_type` (e.g., AE or GA).
+  - The script will not execute if any argument is missing or incorrect.
+- **Output Files**: 
+  - Strong and swing booths data are generated and saved as Excel files in `output/strong_and_swing_booths/{state_name}`.
+- **Logging**: 
+  - Errors and processing information are logged in `logs/{state_name}_{election_year}_{constituency_type}_strong_swing_booths.txt`.
+- **Directory Management**: 
+  - Ensure the existence of `results`, `output`, and `logs` directories.
+  - Create the `output` directory if it does not exist.
+- **Data Handling**: 
+  - The script merges data from multiple Excel files for specified assembly constituencies (AC) and years.
+  - It generates two DataFrames: one for strong booths (where the party won) and another for swing booths (where at least one party won).
+
+### Assumptions:
+- **Presence of Input Files**:
+  - The necessary Excel and CSV files exist in the specified directories.
+- **Command-Line Argument Validity**:
+  - The provided command-line arguments (`state_name`, `election_year`, and `constituency_type`) are valid and correct.
+- **Excel File Structure**:
+  - The input Excel files should be correctly formatted and contain the required columns (e.g., 'SN', 'INC_Status').
+- **Directory Structure**:
+  - The intermediate tables for the specified state and constituency types are located in `results/intermediate_tables/{state_name}`.
+- **Data Processing**:
+  - The merging of DataFrames is based on the 'SN' column, and the conditions for determining strong and swing booths are applied correctly.
+
+
+
 ## Issues Identified
 
 ### Filename Pattern Mismatch
